@@ -250,7 +250,7 @@
   "metadata": {
     "version": "4.1.0",
     "created": "2026-11-06T08:15:33.550Z",
-    "modified": "2026-11-06T08:55:16.556Z",
+    "modified": "2026-11-06T08:55:26.559Z",
     "universeSlug": "redstring-demo-repositories",
     "title": "Imidazole Ring",
     "description": "",
@@ -320,7 +320,7 @@
         "redstring:createdAt": "2026-11-06T08:15:35.327Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -366,7 +366,7 @@
         "redstring:createdAt": "2026-11-06T08:17:30.413Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -440,7 +440,7 @@
         "redstring:createdAt": "2026-11-06T08:17:30.416Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -506,7 +506,7 @@
         "redstring:createdAt": "2026-11-06T08:17:30.416Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -557,7 +557,7 @@
         "redstring:createdAt": "2026-11-06T08:17:30.417Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -603,7 +603,7 @@
         "redstring:createdAt": "2026-11-06T08:17:35.464Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -675,7 +675,7 @@
         "redstring:createdAt": "2026-11-06T08:17:35.465Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -726,7 +726,7 @@
         "redstring:createdAt": "2026-11-06T08:17:35.466Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -772,7 +772,7 @@
         "redstring:createdAt": "2026-11-06T08:17:42.557Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -844,7 +844,7 @@
         "redstring:createdAt": "2026-11-06T08:17:42.558Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -895,7 +895,7 @@
         "redstring:createdAt": "2026-11-06T08:17:42.560Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -945,7 +945,7 @@
         "redstring:createdAt": "2026-11-06T08:17:47.641Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1052,7 +1052,7 @@
         "redstring:createdAt": "2026-11-06T08:17:47.642Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1103,7 +1103,7 @@
         "redstring:createdAt": "2026-11-06T08:17:47.643Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1150,7 +1150,7 @@
         "redstring:createdAt": "2026-11-06T08:17:54.248Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1230,7 +1230,7 @@
         "redstring:createdAt": "2026-11-06T08:17:54.249Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1281,7 +1281,7 @@
         "redstring:createdAt": "2026-11-06T08:17:54.249Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1332,7 +1332,7 @@
         "redstring:createdAt": "2026-11-06T08:17:54.249Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1383,7 +1383,7 @@
         "redstring:createdAt": "2026-11-06T08:17:54.249Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1430,7 +1430,7 @@
         "redstring:createdAt": "2026-11-06T08:18:00.346Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1510,7 +1510,7 @@
         "redstring:createdAt": "2026-11-06T08:18:00.347Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1561,7 +1561,7 @@
         "redstring:createdAt": "2026-11-06T08:18:00.347Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1612,7 +1612,7 @@
         "redstring:createdAt": "2026-11-06T08:18:00.347Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1653,7 +1653,7 @@
         "redstring:createdAt": "2026-11-06T08:18:00.350Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1698,7 +1698,7 @@
         "redstring:createdAt": "2026-11-06T08:18:05.987Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1762,7 +1762,7 @@
         "redstring:createdAt": "2026-11-06T08:18:05.988Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1819,7 +1819,7 @@
         "redstring:createdAt": "2026-11-06T08:18:12.093Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1899,7 +1899,7 @@
         "redstring:createdAt": "2026-11-06T08:18:12.094Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1950,7 +1950,7 @@
         "redstring:createdAt": "2026-11-06T08:18:12.099Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1991,7 +1991,7 @@
         "redstring:createdAt": "2026-11-06T08:18:12.099Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2036,7 +2036,7 @@
         "redstring:createdAt": "2026-11-06T08:18:20.225Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2100,7 +2100,7 @@
         "redstring:createdAt": "2026-11-06T08:18:20.226Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2151,7 +2151,7 @@
         "redstring:createdAt": "2026-11-06T08:18:20.229Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2196,7 +2196,7 @@
         "redstring:createdAt": "2026-11-06T08:18:20.783Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2260,7 +2260,7 @@
         "redstring:createdAt": "2026-11-06T08:18:20.784Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2311,7 +2311,7 @@
         "redstring:createdAt": "2026-11-06T08:18:20.786Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2358,7 +2358,7 @@
         "redstring:createdAt": "2026-11-06T08:18:32.457Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2438,7 +2438,7 @@
         "redstring:createdAt": "2026-11-06T08:18:32.459Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2489,7 +2489,7 @@
         "redstring:createdAt": "2026-11-06T08:18:32.459Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2540,7 +2540,7 @@
         "redstring:createdAt": "2026-11-06T08:18:32.459Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2581,7 +2581,7 @@
         "redstring:createdAt": "2026-11-06T08:18:32.463Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2622,7 +2622,7 @@
         "redstring:createdAt": "2026-11-06T08:18:32.463Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2665,7 +2665,7 @@
         "redstring:createdAt": "2026-11-06T08:18:33.030Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2716,7 +2716,7 @@
         "redstring:createdAt": "2026-11-06T08:18:33.031Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2767,7 +2767,7 @@
         "redstring:createdAt": "2026-11-06T08:18:33.033Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2814,7 +2814,7 @@
         "redstring:createdAt": "2026-11-06T08:18:33.579Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2894,7 +2894,7 @@
         "redstring:createdAt": "2026-11-06T08:18:33.580Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2945,7 +2945,7 @@
         "redstring:createdAt": "2026-11-06T08:18:33.580Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2996,7 +2996,7 @@
         "redstring:createdAt": "2026-11-06T08:18:33.582Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3039,7 +3039,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.186Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3090,7 +3090,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.187Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3141,7 +3141,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.191Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3182,7 +3182,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.191Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3223,7 +3223,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.191Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3268,7 +3268,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.738Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3332,7 +3332,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.739Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3383,7 +3383,7 @@
         "redstring:createdAt": "2026-11-06T08:18:42.742Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3428,7 +3428,7 @@
         "redstring:createdAt": "2026-11-06T08:18:54.968Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3492,7 +3492,7 @@
         "redstring:createdAt": "2026-11-06T08:18:54.970Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3543,7 +3543,7 @@
         "redstring:createdAt": "2026-11-06T08:18:54.975Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3584,7 +3584,7 @@
         "redstring:createdAt": "2026-11-06T08:18:54.975Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3625,7 +3625,7 @@
         "redstring:createdAt": "2026-11-06T08:18:54.975Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3666,7 +3666,7 @@
         "redstring:createdAt": "2026-11-06T08:18:54.975Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3711,7 +3711,7 @@
         "redstring:createdAt": "2026-11-06T08:28:43.475Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3775,7 +3775,7 @@
         "redstring:createdAt": "2026-11-06T08:28:43.483Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3816,7 +3816,7 @@
         "redstring:createdAt": "2026-11-06T08:28:43.483Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3857,7 +3857,7 @@
         "redstring:createdAt": "2026-11-06T08:28:43.483Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3898,7 +3898,7 @@
         "redstring:createdAt": "2026-11-06T08:28:43.483Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3939,7 +3939,7 @@
         "redstring:createdAt": "2026-11-06T08:28:43.483Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3981,7 +3981,7 @@
         "redstring:createdAt": "2026-11-06T08:31:36.516Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4023,7 +4023,7 @@
         "redstring:createdAt": "2026-11-06T08:31:36.516Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4065,7 +4065,7 @@
         "redstring:createdAt": "2026-11-06T08:31:56.137Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4117,7 +4117,7 @@
         "redstring:createdAt": "2026-11-06T08:31:57.201Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4169,7 +4169,7 @@
         "redstring:createdAt": "2026-11-06T08:32:05.030Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4213,7 +4213,7 @@
         "redstring:createdAt": "2026-11-06T08:35:52.154Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4265,7 +4265,7 @@
         "redstring:createdAt": "2026-11-06T08:35:52.156Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4317,7 +4317,7 @@
         "redstring:createdAt": "2026-11-06T08:35:52.156Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4369,7 +4369,7 @@
         "redstring:createdAt": "2026-11-06T08:35:52.161Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4415,7 +4415,7 @@
         "redstring:createdAt": "2026-11-06T08:35:53.320Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4480,7 +4480,7 @@
         "redstring:createdAt": "2026-11-06T08:35:53.320Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4532,7 +4532,7 @@
         "redstring:createdAt": "2026-11-06T08:35:53.320Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4584,7 +4584,7 @@
         "redstring:createdAt": "2026-11-06T08:35:53.320Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4626,7 +4626,7 @@
         "redstring:createdAt": "2026-11-06T08:35:53.324Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4668,7 +4668,7 @@
         "redstring:createdAt": "2026-11-06T08:35:53.324Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4710,7 +4710,7 @@
         "redstring:createdAt": "2026-11-06T08:36:07.638Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4762,7 +4762,7 @@
         "redstring:createdAt": "2026-11-06T08:36:07.638Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4814,7 +4814,7 @@
         "redstring:createdAt": "2026-11-06T08:36:07.658Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4856,7 +4856,7 @@
         "redstring:createdAt": "2026-11-06T08:36:07.658Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4898,7 +4898,7 @@
         "redstring:createdAt": "2026-11-06T08:36:07.658Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4940,7 +4940,7 @@
         "redstring:createdAt": "2026-11-06T08:36:28.669Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4986,7 +4986,7 @@
         "redstring:createdAt": "2026-11-06T08:47:23.655Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5054,7 +5054,7 @@
         "redstring:createdAt": "2026-11-06T08:49:45.265Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5127,7 +5127,7 @@
         "redstring:createdAt": "2026-11-06T08:49:45.265Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5169,7 +5169,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.481Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5221,7 +5221,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.481Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5273,7 +5273,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.481Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5327,7 +5327,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.482Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5383,7 +5383,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.482Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5439,7 +5439,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.482Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5495,7 +5495,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.482Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5551,7 +5551,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.482Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5605,7 +5605,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.482Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5647,7 +5647,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.482Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5691,7 +5691,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.485Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5748,7 +5748,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.486Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5805,7 +5805,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.487Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5862,7 +5862,7 @@
         "redstring:createdAt": "2026-11-06T08:53:24.487Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:55:16.554Z"
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5880,6 +5880,462 @@
             "@id": "urn:redstring:id:base-thing-prototype"
           }
         ]
+      },
+      "proto-1793955318765-0-nr61e5": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793955318765-0-nr61e5",
+        "rdfs:label": "N1 Nitrogen",
+        "rdfs:comment": "Pyrrolic nitrogen atom contributing two electrons to the aromatic ring",
+        "skos:prefLabel": "N1 Nitrogen",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "N1 Nitrogen",
+        "description": "Pyrrolic nitrogen atom contributing two electrons to the aromatic ring",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1793955204481-afln7i"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#543d4e"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1793955204481-afln7i",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.765Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793955318765-0-nr61e5",
+            "proto-auto-1793955204481-afln7i",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1793955204481-afln7i"
+          }
+        ]
+      },
+      "proto-1793955318765-1-hix0ge": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793955318765-1-hix0ge",
+        "rdfs:label": "C2 Carbon",
+        "rdfs:comment": "Methine carbon atom located between N1 and N3 nitrogens",
+        "skos:prefLabel": "C2 Carbon",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "C2 Carbon",
+        "description": "Methine carbon atom located between N1 and N3 nitrogens",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1793955204481-umhlae"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#be8d6f"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1793955204481-umhlae",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.765Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793955318765-1-hix0ge",
+            "proto-auto-1793955204481-umhlae",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1793955204481-umhlae"
+          }
+        ]
+      },
+      "proto-1793955318765-2-libwnv": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793955318765-2-libwnv",
+        "rdfs:label": "N3 Nitrogen",
+        "rdfs:comment": "Pyridinic nitrogen atom with a lone pair in the ring plane",
+        "skos:prefLabel": "N3 Nitrogen",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "N3 Nitrogen",
+        "description": "Pyridinic nitrogen atom with a lone pair in the ring plane",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1793955204481-afln7i"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#543d4e"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1793955204481-afln7i",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.765Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793955318765-2-libwnv",
+            "proto-auto-1793955204481-afln7i",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1793955204481-afln7i"
+          }
+        ]
+      },
+      "proto-1793955318765-3-40zd7g": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793955318765-3-40zd7g",
+        "rdfs:label": "C4 Carbon",
+        "rdfs:comment": "Alkene carbon atom at position 4 of the ring",
+        "skos:prefLabel": "C4 Carbon",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "C4 Carbon",
+        "description": "Alkene carbon atom at position 4 of the ring",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1793955204481-umhlae"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#be8d6f"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1793955204481-umhlae",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.765Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793955318765-3-40zd7g",
+            "proto-auto-1793955204481-umhlae",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1793955204481-umhlae"
+          }
+        ]
+      },
+      "proto-1793955318765-4-2hfied": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793955318765-4-2hfied",
+        "rdfs:label": "C5 Carbon",
+        "rdfs:comment": "Alkene carbon atom at position 5 of the ring",
+        "skos:prefLabel": "C5 Carbon",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "C5 Carbon",
+        "description": "Alkene carbon atom at position 5 of the ring",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1793955204481-umhlae"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#be8d6f"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1793955204481-umhlae",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.765Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793955318765-4-2hfied",
+            "proto-auto-1793955204481-umhlae",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1793955204481-umhlae"
+          }
+        ]
+      },
+      "proto-1793955318765-5-54p5iv": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793955318765-5-54p5iv",
+        "rdfs:label": "Pi System",
+        "rdfs:comment": "Delocalized aromatic sextet across the five-membered ring",
+        "skos:prefLabel": "Pi System",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Pi System",
+        "description": "Delocalized aromatic sextet across the five-membered ring",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1793955204481-lcc8zh"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#735557"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1793955204481-lcc8zh",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.765Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793955318765-5-54p5iv",
+            "proto-auto-1793955204481-lcc8zh",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1793955204481-lcc8zh"
+          }
+        ]
+      },
+      "proto-conn-1793955318766-0-d7fn4z": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793955318766-0-d7fn4z",
+        "rdfs:label": "Bonds To",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Bonds To",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Bonds To",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#82725b"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.766Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793955318767-5-kp2i65": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793955318767-5-kp2i65",
+        "rdfs:label": "Feeds",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Feeds",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Feeds",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#735557"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.767Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793955318767-6-awz6gb": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793955318767-6-awz6gb",
+        "rdfs:label": "Joins",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Joins",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Joins",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#82725b"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:55:18.767Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:55:26.554Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
       }
     }
   },
@@ -8555,21 +9011,350 @@
         "redstring:definingNodeIds": [
           "proto-1793953050415-1-nuqknr"
         ],
-        "redstring:edgeIds": [],
+        "redstring:edgeIds": [
+          "3c4f65dc-fc3f-4695-9094-ac6477cf133c",
+          "0ab0d563-fd1f-4e78-8fde-a3bc0dd18ad3",
+          "61873c7e-3487-4970-9341-1ee2560b11b6",
+          "32d47e23-e590-44a8-9925-c0285b631a8c",
+          "6c13e6bd-0ede-4aff-9777-e95fdce3d6b2",
+          "a419b282-bba3-472b-a117-5380c2c368be",
+          "185c9717-e9b3-46cd-8303-276430711c24",
+          "3d51e9b0-bd8f-4847-8b75-0f851e253ceb",
+          "6e84e4a2-e5c8-493b-bf26-fe8a81c42378",
+          "87508dd7-e44e-45f9-b2b2-63fb0fb7c0e2"
+        ],
         "redstring:directed": true,
         "redstring:color": "#1b70b5",
         "redstring:panOffset": {
-          "x": -21196.582784365393,
-          "y": -21718.08080808081
+          "x": -27471.65364456205,
+          "y": -28010.86141953797
         },
-        "redstring:zoomLevel": 0.44180939833113747,
-        "redstring:instances": {},
+        "redstring:zoomLevel": 0.5678023051635305,
+        "redstring:instances": {
+          "inst-1793955318765-0-zevzi9": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793955318765-0-zevzi9",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793955318765-0-nr61e5"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1793955204478-5y6s"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 700,
+              "redstring:yCoordinate": 33,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793955318765-0-nr61e5",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793955318765-1-emv5yl": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793955318765-1-emv5yl",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793955318765-1-hix0ge"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1793955204478-5y6s"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 113,
+              "redstring:yCoordinate": 471,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793955318765-1-hix0ge",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793955318765-2-iks8y2": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793955318765-2-iks8y2",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793955318765-2-libwnv"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1793955204478-5y6s"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -700,
+              "redstring:yCoordinate": 150,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793955318765-2-libwnv",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793955318765-3-7m7cyn": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793955318765-3-7m7cyn",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793955318765-3-40zd7g"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1793955204478-5y6s"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -490,
+              "redstring:yCoordinate": -435,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793955318765-3-40zd7g",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793955318765-4-b6qizk": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793955318765-4-b6qizk",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793955318765-4-2hfied"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1793955204478-5y6s"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 322,
+              "redstring:yCoordinate": -471,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793955318765-4-2hfied",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793955318765-5-zsi0u1": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793955318765-5-zsi0u1",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793955318765-5-54p5iv"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1793955204478-5y6s"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -12,
+              "redstring:yCoordinate": -88,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793955318765-5-54p5iv",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
           "redstring:activeInContext": true
         },
-        "redstring:edges": {}
+        "redstring:edges": {
+          "3c4f65dc-fc3f-4695-9094-ac6477cf133c": {
+            "id": "3c4f65dc-fc3f-4695-9094-ac6477cf133c",
+            "sourceId": "inst-1793955318765-0-zevzi9",
+            "destinationId": "inst-1793955318765-1-emv5yl",
+            "name": "Bonds To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318766-0-d7fn4z"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-1-emv5yl"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-0-nr61e5",
+            "destinationPrototypeId": "proto-1793955318765-1-hix0ge",
+            "predicatePrototypeId": null
+          },
+          "0ab0d563-fd1f-4e78-8fde-a3bc0dd18ad3": {
+            "id": "0ab0d563-fd1f-4e78-8fde-a3bc0dd18ad3",
+            "sourceId": "inst-1793955318765-1-emv5yl",
+            "destinationId": "inst-1793955318765-2-iks8y2",
+            "name": "Bonds To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318766-0-d7fn4z"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-2-iks8y2"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-1-hix0ge",
+            "destinationPrototypeId": "proto-1793955318765-2-libwnv",
+            "predicatePrototypeId": null
+          },
+          "61873c7e-3487-4970-9341-1ee2560b11b6": {
+            "id": "61873c7e-3487-4970-9341-1ee2560b11b6",
+            "sourceId": "inst-1793955318765-2-iks8y2",
+            "destinationId": "inst-1793955318765-3-7m7cyn",
+            "name": "Bonds To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318766-0-d7fn4z"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-3-7m7cyn"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-2-libwnv",
+            "destinationPrototypeId": "proto-1793955318765-3-40zd7g",
+            "predicatePrototypeId": null
+          },
+          "32d47e23-e590-44a8-9925-c0285b631a8c": {
+            "id": "32d47e23-e590-44a8-9925-c0285b631a8c",
+            "sourceId": "inst-1793955318765-3-7m7cyn",
+            "destinationId": "inst-1793955318765-4-b6qizk",
+            "name": "Bonds To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318766-0-d7fn4z"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-4-b6qizk"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-3-40zd7g",
+            "destinationPrototypeId": "proto-1793955318765-4-2hfied",
+            "predicatePrototypeId": null
+          },
+          "6c13e6bd-0ede-4aff-9777-e95fdce3d6b2": {
+            "id": "6c13e6bd-0ede-4aff-9777-e95fdce3d6b2",
+            "sourceId": "inst-1793955318765-4-b6qizk",
+            "destinationId": "inst-1793955318765-0-zevzi9",
+            "name": "Bonds To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318766-0-d7fn4z"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-0-zevzi9"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-4-2hfied",
+            "destinationPrototypeId": "proto-1793955318765-0-nr61e5",
+            "predicatePrototypeId": null
+          },
+          "a419b282-bba3-472b-a117-5380c2c368be": {
+            "id": "a419b282-bba3-472b-a117-5380c2c368be",
+            "sourceId": "inst-1793955318765-0-zevzi9",
+            "destinationId": "inst-1793955318765-5-zsi0u1",
+            "name": "Feeds",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318767-5-kp2i65"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-5-zsi0u1"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-0-nr61e5",
+            "destinationPrototypeId": "proto-1793955318765-5-54p5iv",
+            "predicatePrototypeId": null
+          },
+          "185c9717-e9b3-46cd-8303-276430711c24": {
+            "id": "185c9717-e9b3-46cd-8303-276430711c24",
+            "sourceId": "inst-1793955318765-1-emv5yl",
+            "destinationId": "inst-1793955318765-5-zsi0u1",
+            "name": "Joins",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318767-6-awz6gb"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-5-zsi0u1"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-1-hix0ge",
+            "destinationPrototypeId": "proto-1793955318765-5-54p5iv",
+            "predicatePrototypeId": null
+          },
+          "3d51e9b0-bd8f-4847-8b75-0f851e253ceb": {
+            "id": "3d51e9b0-bd8f-4847-8b75-0f851e253ceb",
+            "sourceId": "inst-1793955318765-2-iks8y2",
+            "destinationId": "inst-1793955318765-5-zsi0u1",
+            "name": "Joins",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318767-6-awz6gb"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-5-zsi0u1"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-2-libwnv",
+            "destinationPrototypeId": "proto-1793955318765-5-54p5iv",
+            "predicatePrototypeId": null
+          },
+          "6e84e4a2-e5c8-493b-bf26-fe8a81c42378": {
+            "id": "6e84e4a2-e5c8-493b-bf26-fe8a81c42378",
+            "sourceId": "inst-1793955318765-3-7m7cyn",
+            "destinationId": "inst-1793955318765-5-zsi0u1",
+            "name": "Joins",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318767-6-awz6gb"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-5-zsi0u1"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-3-40zd7g",
+            "destinationPrototypeId": "proto-1793955318765-5-54p5iv",
+            "predicatePrototypeId": null
+          },
+          "87508dd7-e44e-45f9-b2b2-63fb0fb7c0e2": {
+            "id": "87508dd7-e44e-45f9-b2b2-63fb0fb7c0e2",
+            "sourceId": "inst-1793955318765-4-b6qizk",
+            "destinationId": "inst-1793955318765-5-zsi0u1",
+            "name": "Joins",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793955318767-6-awz6gb"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793955318765-5-zsi0u1"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793955318765-4-2hfied",
+            "destinationPrototypeId": "proto-1793955318765-5-54p5iv",
+            "predicatePrototypeId": null
+          }
+        }
       }
     }
   },
@@ -8781,7 +9566,16 @@
       "proto-1793955204485-ms1r6u",
       "proto-1793955204486-03z466",
       "proto-1793955204487-vnfild",
-      "proto-1793955204487-1zyirr"
+      "proto-1793955204487-1zyirr",
+      "proto-1793955318765-0-nr61e5",
+      "proto-1793955318765-1-hix0ge",
+      "proto-1793955318765-2-libwnv",
+      "proto-1793955318765-3-40zd7g",
+      "proto-1793955318765-4-2hfied",
+      "proto-1793955318765-5-54p5iv",
+      "proto-conn-1793955318766-0-d7fn4z",
+      "proto-conn-1793955318767-5-kp2i65",
+      "proto-conn-1793955318767-6-awz6gb"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true,
@@ -8877,7 +9671,7 @@
           "x": 0.5,
           "y": 0
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -8909,7 +9703,7 @@
           "x": 0.5,
           "y": 0
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -8941,7 +9735,7 @@
           "x": 235.5,
           "y": -51.5
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -8973,7 +9767,7 @@
           "x": 476,
           "y": -109
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9011,7 +9805,7 @@
           "x": 86.66666666666667,
           "y": -2.3333333333333335
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9049,7 +9843,7 @@
           "x": -11.666666666666666,
           "y": -554.6666666666666
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9081,7 +9875,7 @@
           "x": 0.5,
           "y": 0
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9119,7 +9913,7 @@
           "x": 588.4935272241006,
           "y": -117.83331709630147
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9151,7 +9945,7 @@
           "x": 0.5,
           "y": 0.5
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9183,7 +9977,7 @@
           "x": -228,
           "y": -42.5
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9221,7 +10015,7 @@
           "x": 23.17759076403115,
           "y": -51.033478982225155
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9253,7 +10047,7 @@
           "x": 0,
           "y": 0
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9291,7 +10085,7 @@
           "x": -3,
           "y": 140.66666666666666
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9329,7 +10123,7 @@
           "x": 68.33333333333333,
           "y": 94.66666666666667
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9361,7 +10155,7 @@
           "x": 0,
           "y": 0
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9429,7 +10223,7 @@
           "x": 102.19164755619863,
           "y": -583.5148679198849
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9479,7 +10273,7 @@
           "x": -2095.959892693286,
           "y": -1688.8885472320787
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9511,7 +10305,7 @@
           "x": 0.5,
           "y": 0
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9549,7 +10343,7 @@
           "x": -53.922159916081,
           "y": -87.54121283177665
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
@@ -9599,18 +10393,63 @@
           "x": 421.29860433852537,
           "y": -692.1773420072684
         },
-        "computedAt": 1793955316554,
+        "computedAt": 1793955326554,
         "truncated": false
       }
     },
     "graph-def-1793955204478-5y6s": {
-      "nodes": {},
+      "nodes": {
+        "inst-1793955318765-0-zevzi9": {
+          "x": 700,
+          "y": 33,
+          "scale": 1,
+          "prototypeId": "proto-1793955318765-0-nr61e5"
+        },
+        "inst-1793955318765-1-emv5yl": {
+          "x": 113,
+          "y": 471,
+          "scale": 1,
+          "prototypeId": "proto-1793955318765-1-hix0ge"
+        },
+        "inst-1793955318765-2-iks8y2": {
+          "x": -700,
+          "y": 150,
+          "scale": 1,
+          "prototypeId": "proto-1793955318765-2-libwnv"
+        },
+        "inst-1793955318765-3-7m7cyn": {
+          "x": -490,
+          "y": -435,
+          "scale": 1,
+          "prototypeId": "proto-1793955318765-3-40zd7g"
+        },
+        "inst-1793955318765-4-b6qizk": {
+          "x": 322,
+          "y": -471,
+          "scale": 1,
+          "prototypeId": "proto-1793955318765-4-2hfied"
+        },
+        "inst-1793955318765-5-zsi0u1": {
+          "x": -12,
+          "y": -88,
+          "scale": 1,
+          "prototypeId": "proto-1793955318765-5-54p5iv"
+        }
+      },
       "metadata": {
-        "nodeCount": 0,
-        "edgeCount": 0,
-        "boundingBox": null,
-        "centroid": null,
-        "computedAt": 1793955316554,
+        "nodeCount": 6,
+        "edgeCount": 10,
+        "boundingBox": {
+          "minX": -700,
+          "minY": -471,
+          "maxX": 700,
+          "maxY": 471
+        },
+        "centroid": {
+          "x": -11.166666666666666,
+          "y": -56.666666666666664
+        },
+        "computedAt": 1793955326554,
         "truncated": false
       }
     }
@@ -9648,7 +10487,7 @@
         }
       ],
       "text": "Graph: Purine (graph-1793953049884-27a4z8)\nNodes (2 total):\n- Pyrimidine Ring [inst-1793953050415-0-p80x12]\n- Imidazole Ring [inst-1793953050415-1-4a52n5]\n\nEdges (1 total):\n- Imidazole Ring → Pyrimidine Ring (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953054996-sg955c": {
       "id": "graph-1793953054996-sg955c",
@@ -9682,7 +10521,7 @@
         }
       ],
       "text": "Graph: Adenine (graph-1793953054996-sg955c)\nNodes (2 total):\n- Amine Group [inst-1793953055465-0-yekkgs]\n- Purine [inst-shell-1793953055466-8kvg68]\n\nEdges (1 total):\n- Amine Group → Purine (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953062318-9wswou": {
       "id": "graph-1793953062318-9wswou",
@@ -9716,7 +10555,7 @@
         }
       ],
       "text": "Graph: Adenosine (graph-1793953062318-9wswou)\nNodes (2 total):\n- Ribose [inst-1793953062558-0-tf9iuk]\n- Adenine [inst-shell-1793953062559-n4lji9]\n\nEdges (1 total):\n- Adenine → Ribose (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953067255-etg4zh": {
       "id": "graph-1793953067255-etg4zh",
@@ -9750,7 +10589,7 @@
         }
       ],
       "text": "Graph: ATP (graph-1793953067255-etg4zh)\nNodes (2 total):\n- Phosphate Chain [inst-1793953067642-0-qiedg6]\n- Adenosine [inst-shell-1793953067643-oihb6s]\n\nEdges (1 total):\n- Adenosine → Phosphate Chain (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953074165-di0vgz": {
       "id": "graph-1793953074165-di0vgz",
@@ -9797,7 +10636,7 @@
         }
       ],
       "text": "Graph: Proton (graph-1793953074165-di0vgz)\nNodes (3 total):\n- Up Quark [inst-1793953074249-0-y7vrda]\n- Down Quark [inst-1793953074249-1-zi20oa]\n- Gluon [inst-1793953074249-2-nhdahc]\n\nEdges (2 total):\n- Gluon → Up Quark (base-connection-prototype)\n- Gluon → Down Quark (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953080220-ao0200": {
       "id": "graph-1793953080220-ao0200",
@@ -9852,7 +10691,7 @@
         }
       ],
       "text": "Graph: Carbon (graph-1793953080220-ao0200)\nNodes (3 total):\n- Neutron [inst-1793953080347-0-blyuqf]\n- Electron [inst-1793953080347-1-dk3y6x]\n- Proton [inst-shell-1793953080348-e7cow1]\n\nEdges (3 total):\n- Electron → Neutron (base-connection-prototype)\n- Proton → Neutron (base-connection-prototype)\n- Electron → Proton (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953085765-25lgy7": {
       "id": "graph-1793953085765-25lgy7",
@@ -9886,7 +10725,7 @@
         }
       ],
       "text": "Graph: Methyl Group (graph-1793953085765-25lgy7)\nNodes (2 total):\n- Hydrogen [inst-1793953085988-0-m1e0tb]\n- Carbon [inst-shell-1793953085989-5p1gz7]\n\nEdges (1 total):\n- Hydrogen → Carbon (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953091715-ghuufc": {
       "id": "graph-1793953091715-ghuufc",
@@ -9933,7 +10772,7 @@
         }
       ],
       "text": "Graph: Caffeine (graph-1793953091715-ghuufc)\nNodes (3 total):\n- Carbonyl Oxygens [inst-1793953092094-0-zym73k]\n- Purine [inst-shell-1793953092096-ulu3rp]\n- Methyl Group [inst-shell-1793953092097-g3s0cf]\n\nEdges (2 total):\n- Methyl Group → Purine (base-connection-prototype)\n- Carbonyl Oxygens → Purine (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953100102-z90fpy": {
       "id": "graph-1793953100102-z90fpy",
@@ -9967,7 +10806,7 @@
         }
       ],
       "text": "Graph: Brewed Coffee (graph-1793953100102-z90fpy)\nNodes (2 total):\n- Water [inst-1793953100226-0-zqkjqw]\n- Caffeine [inst-shell-1793953100228-us8717]\n\nEdges (1 total):\n- Water → Caffeine (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953100622-owtjo6": {
       "id": "graph-1793953100622-owtjo6",
@@ -10001,7 +10840,7 @@
         }
       ],
       "text": "Graph: Binding Pocket (graph-1793953100622-owtjo6)\nNodes (2 total):\n- Pocket Residues [inst-1793953100783-0-lbqs3j]\n- Purine [inst-shell-1793953100785-qc0n6f]\n\nEdges (1 total):\n- Pocket Residues → Purine (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953112409-h7chtx": {
       "id": "graph-1793953112409-h7chtx",
@@ -10056,7 +10895,7 @@
         }
       ],
       "text": "Graph: Cup of Coffee (graph-1793953112409-h7chtx)\nNodes (3 total):\n- Ceramic Vessel [inst-1793953112459-0-3dtzk6]\n- Heat [inst-1793953112459-1-eufu56]\n- Brewed Coffee [inst-shell-1793953112461-q27k4t]\n\nEdges (3 total):\n- Heat → Ceramic Vessel (base-connection-prototype)\n- Ceramic Vessel → Brewed Coffee (base-connection-prototype)\n- Brewed Coffee → Heat (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953112804-1ecu7t": {
       "id": "graph-1793953112804-1ecu7t",
@@ -10090,7 +10929,7 @@
         }
       ],
       "text": "Graph: Adenosine A1 Receptor (graph-1793953112804-1ecu7t)\nNodes (2 total):\n- Transmembrane Helices [inst-1793953113030-0-l81uhy]\n- Binding Pocket [inst-shell-1793953113032-dvo46x]\n\nEdges (1 total):\n- Transmembrane Helices → Binding Pocket (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953113546-pomwot": {
       "id": "graph-1793953113546-pomwot",
@@ -10145,7 +10984,7 @@
         }
       ],
       "text": "Graph: DNA (graph-1793953113546-pomwot)\nNodes (3 total):\n- Other Bases [inst-1793953113580-0-40su44]\n- Sugar-Phosphate Backbone [inst-1793953113580-1-10n49p]\n- Adenine [inst-shell-1793953113581-t6gwki]\n\nEdges (3 total):\n- Sugar-Phosphate Backbone → Other Bases (base-connection-prototype)\n- Sugar-Phosphate Backbone → Adenine (base-connection-prototype)\n- Adenine → Other Bases (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953122173-awypmv": {
       "id": "graph-1793953122173-awypmv",
@@ -10200,7 +11039,7 @@
         }
       ],
       "text": "Graph: Synapse (graph-1793953122173-awypmv)\nNodes (3 total):\n- Synaptic Cleft [inst-1793953122187-0-nr7lmm]\n- Adenosine [inst-shell-1793953122189-z12n5n]\n- Adenosine A1 Receptor [inst-shell-1793953122190-oa6wkn]\n\nEdges (3 total):\n- Adenosine → Synaptic Cleft (base-connection-prototype)\n- Adenosine → Adenosine A1 Receptor (base-connection-prototype)\n- Adenosine A1 Receptor → Synaptic Cleft (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953122668-pvh377": {
       "id": "graph-1793953122668-pvh377",
@@ -10234,7 +11073,7 @@
         }
       ],
       "text": "Graph: Cell Nucleus (graph-1793953122668-pvh377)\nNodes (2 total):\n- Nuclear Envelope [inst-1793953122739-0-8g0zd9]\n- DNA [inst-shell-1793953122740-ppa1jg]\n\nEdges (1 total):\n- Nuclear Envelope → DNA (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953134951-okh514": {
       "id": "graph-1793953134951-okh514",
@@ -10338,7 +11177,7 @@
         }
       ],
       "text": "Graph: Tired Neuron (graph-1793953134951-okh514)\nNodes (8 total):\n- ATP [inst-shell-1793953134973-7ypgv3]\n- Adenosine [inst-adenosine-tired-neuron]\n- Dendrites [inst-1793954167637-0-55a9m4]\n- Axon [inst-1793954167637-1-as1u8e]\n- Cell Body [inst-shell-1793954167643-hnmlt7]\n- Axon Terminal [inst-shell-1793954167643-s3ssnp]\n- DNA [inst-shell-1793953723480-qkvmjd]\n- Adenosine A1 Receptor [inst-shell-1793953723480-0uo28m]\n\nEdges (6 total):\n- ATP → Adenosine (base-connection-prototype)\n- ATP → Axon (base-connection-prototype)\n- Dendrites → Cell Body (base-connection-prototype)\n- Cell Body → Axon (base-connection-prototype)\n- Axon → Axon Terminal (base-connection-prototype)\n- Adenosine → Axon Terminal (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793953722058-fwvxbg": {
       "id": "graph-1793953722058-fwvxbg",
@@ -10395,7 +11234,7 @@
         }
       ],
       "text": "Graph: Why does coffee wake you up? (graph-1793953722058-fwvxbg)\nNodes (5 total):\n- Cup of Coffee [inst-shell-1793953723480-di0kv5]\n- Tired Neuron [inst-shell-1793953723480-i3thb2]\n- Purine [inst-shell-1793953723480-lu6xym]\n- Caffeine [inst-1793953896515-0-wj976t]\n- Adenosine [inst-1793953896515-1-28ionm]\n\nEdges (2 total):\n- Adenosine → Unknown Prototype (base-connection-prototype)\n- Caffeine → Unknown Prototype (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793954148266-cc4wdj": {
       "id": "graph-1793954148266-cc4wdj",
@@ -10420,7 +11259,7 @@
       ],
       "edges": [],
       "text": "Graph: Cell Body (graph-1793954148266-cc4wdj)\nNodes (2 total):\n- Mitochondria [inst-1793954152155-1-4h1psu]\n- Cell Nucleus [inst-shell-1793954152159-o1gap8]\n\nEdges (0 total):",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793954152871-2eopoh": {
       "id": "graph-1793954152871-2eopoh",
@@ -10475,7 +11314,7 @@
         }
       ],
       "text": "Graph: Axon Terminal (graph-1793954152871-2eopoh)\nNodes (3 total):\n- Presynaptic Membrane [inst-1793954153320-0-t41of5]\n- Synaptic Vesicles [inst-1793954153320-1-dslpsm]\n- Adenosine A1 Receptor [inst-shell-1793954153322-qfebyf]\n\nEdges (3 total):\n- Synaptic Vesicles → Presynaptic Membrane (base-connection-prototype)\n- Presynaptic Membrane → Adenosine A1 Receptor (base-connection-prototype)\n- Adenosine A1 Receptor → Synaptic Vesicles (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-1793954840832-uki5dp": {
       "id": "graph-1793954840832-uki5dp",
@@ -10548,21 +11387,133 @@
         }
       ],
       "text": "Graph: Synaptic Cleft After Coffee (graph-1793954840832-uki5dp)\nNodes (5 total):\n- Adenosine [inst-shell-1793954843659-jucbd9]\n- Caffeine [inst-shell-1793954843659-079ukm]\n- Adenosine A1 Receptor [inst-shell-1793954843659-llfu5h]\n- Neurotransmitters [inst-1793954985264-0-puvg59]\n- ATP [inst-shell-1793954985268-w6a9u9]\n\nEdges (4 total):\n- Adenosine → Adenosine A1 Receptor (base-connection-prototype)\n- Caffeine → Adenosine A1 Receptor (base-connection-prototype)\n- Adenosine A1 Receptor → Neurotransmitters (base-connection-prototype)\n- ATP → Adenosine (base-connection-prototype)",
-      "computedAt": 1793955316554
+      "computedAt": 1793955326554
     },
     "graph-def-1793955204478-5y6s": {
       "id": "graph-def-1793955204478-5y6s",
       "name": "Imidazole Ring",
       "description": "",
-      "nodeCount": 0,
-      "edgeCount": 0,
-      "density": 0,
-      "quality": "empty",
-      "score": 0,
-      "nodes": [],
-      "edges": [],
-      "text": "Graph: Imidazole Ring (graph-def-1793955204478-5y6s)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1793955316554
+      "nodeCount": 6,
+      "edgeCount": 10,
+      "density": 0.333,
+      "quality": "balanced",
+      "score": 39,
+      "nodes": [
+        {
+          "id": "inst-1793955318765-0-zevzi9",
+          "prototypeId": "proto-1793955318765-0-nr61e5",
+          "name": "N1 Nitrogen"
+        },
+        {
+          "id": "inst-1793955318765-1-emv5yl",
+          "prototypeId": "proto-1793955318765-1-hix0ge",
+          "name": "C2 Carbon"
+        },
+        {
+          "id": "inst-1793955318765-2-iks8y2",
+          "prototypeId": "proto-1793955318765-2-libwnv",
+          "name": "N3 Nitrogen"
+        },
+        {
+          "id": "inst-1793955318765-3-7m7cyn",
+          "prototypeId": "proto-1793955318765-3-40zd7g",
+          "name": "C4 Carbon"
+        },
+        {
+          "id": "inst-1793955318765-4-b6qizk",
+          "prototypeId": "proto-1793955318765-4-2hfied",
+          "name": "C5 Carbon"
+        },
+        {
+          "id": "inst-1793955318765-5-zsi0u1",
+          "prototypeId": "proto-1793955318765-5-54p5iv",
+          "name": "Pi System"
+        }
+      ],
+      "edges": [
+        {
+          "id": "3c4f65dc-fc3f-4695-9094-ac6477cf133c",
+          "from": "inst-1793955318765-0-zevzi9",
+          "to": "inst-1793955318765-1-emv5yl",
+          "type": "base-connection-prototype",
+          "sourceLabel": "N1 Nitrogen",
+          "targetLabel": "C2 Carbon"
+        },
+        {
+          "id": "0ab0d563-fd1f-4e78-8fde-a3bc0dd18ad3",
+          "from": "inst-1793955318765-1-emv5yl",
+          "to": "inst-1793955318765-2-iks8y2",
+          "type": "base-connection-prototype",
+          "sourceLabel": "C2 Carbon",
+          "targetLabel": "N3 Nitrogen"
+        },
+        {
+          "id": "61873c7e-3487-4970-9341-1ee2560b11b6",
+          "from": "inst-1793955318765-2-iks8y2",
+          "to": "inst-1793955318765-3-7m7cyn",
+          "type": "base-connection-prototype",
+          "sourceLabel": "N3 Nitrogen",
+          "targetLabel": "C4 Carbon"
+        },
+        {
+          "id": "32d47e23-e590-44a8-9925-c0285b631a8c",
+          "from": "inst-1793955318765-3-7m7cyn",
+          "to": "inst-1793955318765-4-b6qizk",
+          "type": "base-connection-prototype",
+          "sourceLabel": "C4 Carbon",
+          "targetLabel": "C5 Carbon"
+        },
+        {
+          "id": "6c13e6bd-0ede-4aff-9777-e95fdce3d6b2",
+          "from": "inst-1793955318765-4-b6qizk",
+          "to": "inst-1793955318765-0-zevzi9",
+          "type": "base-connection-prototype",
+          "sourceLabel": "C5 Carbon",
+          "targetLabel": "N1 Nitrogen"
+        },
+        {
+          "id": "a419b282-bba3-472b-a117-5380c2c368be",
+          "from": "inst-1793955318765-0-zevzi9",
+          "to": "inst-1793955318765-5-zsi0u1",
+          "type": "base-connection-prototype",
+          "sourceLabel": "N1 Nitrogen",
+          "targetLabel": "Pi System"
+        },
+        {
+          "id": "185c9717-e9b3-46cd-8303-276430711c24",
+          "from": "inst-1793955318765-1-emv5yl",
+          "to": "inst-1793955318765-5-zsi0u1",
+          "type": "base-connection-prototype",
+          "sourceLabel": "C2 Carbon",
+          "targetLabel": "Pi System"
+        },
+        {
+          "id": "3d51e9b0-bd8f-4847-8b75-0f851e253ceb",
+          "from": "inst-1793955318765-2-iks8y2",
+          "to": "inst-1793955318765-5-zsi0u1",
+          "type": "base-connection-prototype",
+          "sourceLabel": "N3 Nitrogen",
+          "targetLabel": "Pi System"
+        },
+        {
+          "id": "6e84e4a2-e5c8-493b-bf26-fe8a81c42378",
+          "from": "inst-1793955318765-3-7m7cyn",
+          "to": "inst-1793955318765-5-zsi0u1",
+          "type": "base-connection-prototype",
+          "sourceLabel": "C4 Carbon",
+          "targetLabel": "Pi System"
+        },
+        {
+          "id": "87508dd7-e44e-45f9-b2b2-63fb0fb7c0e2",
+          "from": "inst-1793955318765-4-b6qizk",
+          "to": "inst-1793955318765-5-zsi0u1",
+          "type": "base-connection-prototype",
+          "sourceLabel": "C5 Carbon",
+          "targetLabel": "Pi System"
+        }
+      ],
+      "text": "Graph: Imidazole Ring (graph-def-1793955204478-5y6s)\nNodes (6 total):\n- N1 Nitrogen [inst-1793955318765-0-zevzi9]\n- C2 Carbon [inst-1793955318765-1-emv5yl]\n- N3 Nitrogen [inst-1793955318765-2-iks8y2]\n- C4 Carbon [inst-1793955318765-3-7m7cyn]\n- C5 Carbon [inst-1793955318765-4-b6qizk]\n- Pi System [inst-1793955318765-5-zsi0u1]\n\nEdges (10 total):\n- N1 Nitrogen → C2 Carbon (base-connection-prototype)\n- C2 Carbon → N3 Nitrogen (base-connection-prototype)\n- N3 Nitrogen → C4 Carbon (base-connection-prototype)\n- C4 Carbon → C5 Carbon (base-connection-prototype)\n- C5 Carbon → N1 Nitrogen (base-connection-prototype)\n- N1 Nitrogen → Pi System (base-connection-prototype)\n- C2 Carbon → Pi System (base-connection-prototype)\n- N3 Nitrogen → Pi System (base-connection-prototype)\n- C4 Carbon → Pi System (base-connection-prototype)\n- C5 Carbon → Pi System (base-connection-prototype)",
+      "computedAt": 1793955326554
     }
   },
   "edgePrototypes": {
