@@ -250,7 +250,8 @@
   "metadata": {
     "version": "4.1.0",
     "created": "2026-11-06T08:15:33.550Z",
-    "modified": "2026-11-06T08:15:33.550Z",
+    "modified": "2026-11-06T08:15:41.903Z",
+    "universeSlug": "redstring-demo-repositories",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -283,7 +284,50 @@
     "@id": "urn:redstring:space:prototypes",
     "rdfs:label": "Redstring Prototype Space",
     "rdfs:comment": "Collection of semantic classes with spatial properties",
-    "prototypes": {}
+    "prototypes": {
+      "base-thing-prototype": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:base-thing-prototype",
+        "rdfs:label": "Thing",
+        "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+        "skos:prefLabel": "Thing",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Thing",
+        "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:15:35.327Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:15:41.903Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      }
+    }
   },
   "spatialGraphs": {
     "@type": "redstring:SpatialGraphCollection",
@@ -316,7 +360,9 @@
         "isActive": true
       }
     ],
-    "redstring:savedNodeIds": [],
+    "redstring:savedNodeIds": [
+      "base-thing-prototype"
+    ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true,
     "redstring:wizardPlansByConversation": {},
@@ -325,5 +371,96 @@
   },
   "graphLayouts": {},
   "graphSummaries": {},
-  "edgePrototypes": {}
+  "edgePrototypes": {
+    "base-connection-prototype": {
+      "id": "base-connection-prototype",
+      "name": "Connection",
+      "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
+      "color": "#000000",
+      "typeNodeId": null,
+      "definitionGraphIds": [],
+      "isSpecificityChainNode": false,
+      "hasSpecificityChain": false
+    },
+    "agent-delegates-to": {
+      "id": "agent-delegates-to",
+      "name": "Delegates To",
+      "description": "Parent assigns subtask to child agent",
+      "color": "#E74C3C",
+      "typeNodeId": "base-connection-prototype",
+      "definitionGraphIds": [],
+      "isSpecificityChainNode": false,
+      "hasSpecificityChain": false
+    },
+    "agent-reports-to": {
+      "id": "agent-reports-to",
+      "name": "Reports To",
+      "description": "Child returns results to parent agent",
+      "color": "#2ECC71",
+      "typeNodeId": "base-connection-prototype",
+      "definitionGraphIds": [],
+      "isSpecificityChainNode": false,
+      "hasSpecificityChain": false
+    },
+    "agent-triggers": {
+      "id": "agent-triggers",
+      "name": "Triggers",
+      "description": "Event causes agent to fire",
+      "color": "#F39C12",
+      "typeNodeId": "base-connection-prototype",
+      "definitionGraphIds": [],
+      "isSpecificityChainNode": false,
+      "hasSpecificityChain": false
+    },
+    "agent-validates": {
+      "id": "agent-validates",
+      "name": "Validates",
+      "description": "Checks output of another agent",
+      "color": "#9B59B6",
+      "typeNodeId": "base-connection-prototype",
+      "definitionGraphIds": [],
+      "isSpecificityChainNode": false,
+      "hasSpecificityChain": false
+    },
+    "agent-fallback-to": {
+      "id": "agent-fallback-to",
+      "name": "Fallback To",
+      "description": "If primary fails, try this agent",
+      "color": "#1ABC9C",
+      "typeNodeId": "base-connection-prototype",
+      "definitionGraphIds": [],
+      "isSpecificityChainNode": false,
+      "hasSpecificityChain": false
+    },
+    "agent-depends-on": {
+      "id": "agent-depends-on",
+      "name": "Depends On",
+      "description": "Must wait for completion",
+      "color": "#3498DB",
+      "typeNodeId": "base-connection-prototype",
+      "definitionGraphIds": [],
+      "isSpecificityChainNode": false,
+      "hasSpecificityChain": false
+    }
+  },
+  "_preserved": {
+    "1.0.0": {
+      "name": "claude-s-chambers.redstring",
+      "path": "universes/claude-s-chambers/claude-s-chambers.redstring",
+      "sha": "87c894ee0d6827fcf16d976d2d0abefa34dfb9f3",
+      "size": 3308393,
+      "url": "https://api.github.com/repos/grantiguess/Ontologies/contents/universes/claude-s-chambers/claude-s-chambers.redstring?ref=main",
+      "html_url": "https://github.com/grantiguess/Ontologies/blob/main/universes/claude-s-chambers/claude-s-chambers.redstring",
+      "git_url": "https://api.github.com/repos/grantiguess/Ontologies/git/blobs/87c894ee0d6827fcf16d976d2d0abefa34dfb9f3",
+      "download_url": "https://raw.githubusercontent.com/grantiguess/Ontologies/main/universes/claude-s-chambers/claude-s-chambers.redstring?token=AJU3TY7OSIT73US4NNU5H7LKMQXULAA",
+      "type": "file",
+      "content": "",
+      "encoding": "none",
+      "_links": {
+        "self": "https://api.github.com/repos/grantiguess/Ontologies/contents/universes/claude-s-chambers/claude-s-chambers.redstring?ref=main",
+        "git": "https://api.github.com/repos/grantiguess/Ontologies/git/blobs/87c894ee0d6827fcf16d976d2d0abefa34dfb9f3",
+        "html": "https://github.com/grantiguess/Ontologies/blob/main/universes/claude-s-chambers/claude-s-chambers.redstring"
+      }
+    }
+  }
 }
