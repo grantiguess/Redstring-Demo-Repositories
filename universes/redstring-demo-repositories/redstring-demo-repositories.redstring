@@ -250,10 +250,10 @@
   "metadata": {
     "version": "4.1.0",
     "created": "2026-11-06T08:15:33.550Z",
-    "modified": "2026-11-06T08:17:41.904Z",
+    "modified": "2026-11-06T08:18:48.434Z",
     "universeSlug": "redstring-demo-repositories",
-    "title": "Adenine",
-    "description": "A purine base: the purine skeleton carrying an amine group. One of the four letters of DNA and the base inside ATP and adenosine.",
+    "title": "Cell Nucleus",
+    "description": "The compartment that holds a cell's DNA. Inside a neuron it keeps the genes, and with them a copy of the purine skeleton written in adenine.",
     "domain": null,
     "userURIs": null,
     "semanticWebCompliant": true,
@@ -316,12 +316,11 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:15:35.327Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -363,12 +362,11 @@
         "redstring:definitionGraphIds": [
           "graph-1793953049884-27a4z8"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:17:30.413Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -436,12 +434,11 @@
           "redstring:cognitiveColor": "#a7cedd"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:17:30.416Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -488,12 +485,11 @@
           "redstring:cognitiveColor": "#1b70b5"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:17:30.416Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -540,12 +536,11 @@
           "redstring:cognitiveColor": "#0B2D72"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:17:30.417Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -587,12 +582,11 @@
         "redstring:definitionGraphIds": [
           "graph-1793953054996-sg955c"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:17:35.464Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -660,12 +654,11 @@
           "redstring:cognitiveColor": "#a7cedd"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:17:35.465Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -712,12 +705,2611 @@
           "redstring:cognitiveColor": "#1b70b5"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-06T08:17:35.466Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "b6201c79-33d0-4e28-93e3-28aaa1f1400e": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+        "rdfs:label": "Adenosine",
+        "rdfs:comment": "Adenine bonded to the sugar ribose. It's what's left when a neuron spends ATP, and it builds up between neurons as the chemical signal of tiredness.",
+        "skos:prefLabel": "Adenosine",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Adenosine",
+        "description": "Adenine bonded to the sugar ribose. It's what's left when a neuron spends ATP, and it builds up between neurons as the chemical signal of tiredness.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Adenosine",
+          "http://dbpedia.org/resource/Adenosine"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953062318-9wswou"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:42.557Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Adenosine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:43.637Z"
+            },
+            "http://dbpedia.org/resource/Adenosine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:43.637Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Adenosine"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/Adenosine"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953062558-0-uketda": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953062558-0-uketda",
+        "rdfs:label": "Ribose",
+        "rdfs:comment": "A five-carbon sugar.",
+        "skos:prefLabel": "Ribose",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Ribose",
+        "description": "A five-carbon sugar.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:42.558Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953062558-0-uketda",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953062560-0-okfloj": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953062560-0-okfloj",
+        "rdfs:label": "Glycosidic Bond",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Glycosidic Bond",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Glycosidic Bond",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:42.560Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "04da4ed1-96cb-4690-81e6-fc840a8acd6f": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:04da4ed1-96cb-4690-81e6-fc840a8acd6f",
+        "rdfs:label": "ATP",
+        "rdfs:comment": "The cell's energy currency: adenosine carrying a chain of three phosphate groups. Spending energy snaps phosphates off, and the adenosine left behind is what makes you feel tired.",
+        "skos:prefLabel": "ATP",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "ATP",
+        "description": "The cell's energy currency: adenosine carrying a chain of three phosphate groups. Spending energy snaps phosphates off, and the adenosine left behind is what makes you feel tired.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/ATP",
+          "http://dbpedia.org/resource/ATP",
+          "http://www.wikidata.org/entity/Q186929"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953067255-etg4zh"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:47.641Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "04da4ed1-96cb-4690-81e6-fc840a8acd6f",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/ATP": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:51.200Z"
+            },
+            "http://dbpedia.org/resource/ATP": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:51.200Z"
+            },
+            "http://www.wikidata.org/entity/Q186929": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:51.200Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/ATP"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/ATP"
+          },
+          {
+            "@id": "http://www.wikidata.org/entity/Q186929"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953067642-0-fo562x": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953067642-0-fo562x",
+        "rdfs:label": "Phosphate Chain",
+        "rdfs:comment": "Three phosphate groups in a row. Breaking the bonds between them releases the energy a cell spends.",
+        "skos:prefLabel": "Phosphate Chain",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Phosphate Chain",
+        "description": "Three phosphate groups in a row. Breaking the bonds between them releases the energy a cell spends.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:47.642Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953067642-0-fo562x",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953067643-0-1ifvga": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953067643-0-1ifvga",
+        "rdfs:label": "Bonded To",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Bonded To",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Bonded To",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:47.643Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "3afa70b4-28c4-4f6e-b489-f7b445c0b9df": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:3afa70b4-28c4-4f6e-b489-f7b445c0b9df",
+        "rdfs:label": "Proton",
+        "rdfs:comment": "A positively charged particle in every atomic nucleus: two up quarks and one down quark, held together by gluons.",
+        "skos:prefLabel": "Proton",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Proton",
+        "description": "A positively charged particle in every atomic nucleus: two up quarks and one down quark, held together by gluons.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Proton",
+          "http://dbpedia.org/resource/Proton",
+          "http://www.wikidata.org/entity/Q140135792"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953074165-di0vgz"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:54.248Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "3afa70b4-28c4-4f6e-b489-f7b445c0b9df",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Proton": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:54.985Z"
+            },
+            "http://dbpedia.org/resource/Proton": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:54.985Z"
+            },
+            "http://www.wikidata.org/entity/Q140135792": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:54.985Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Proton"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/Proton"
+          },
+          {
+            "@id": "http://www.wikidata.org/entity/Q140135792"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953074249-0-minkia": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953074249-0-minkia",
+        "rdfs:label": "Up Quark",
+        "rdfs:comment": "Two of these sit in every proton.",
+        "skos:prefLabel": "Up Quark",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Up Quark",
+        "description": "Two of these sit in every proton.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:54.249Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953074249-0-minkia",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953074249-1-zq8fy3": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953074249-1-zq8fy3",
+        "rdfs:label": "Down Quark",
+        "rdfs:comment": "One of these sits in every proton.",
+        "skos:prefLabel": "Down Quark",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Down Quark",
+        "description": "One of these sits in every proton.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:54.249Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953074249-1-zq8fy3",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953074249-2-5xb42w": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953074249-2-5xb42w",
+        "rdfs:label": "Gluon",
+        "rdfs:comment": "The force carrier that binds quarks together.",
+        "skos:prefLabel": "Gluon",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Gluon",
+        "description": "The force carrier that binds quarks together.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:54.249Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953074249-2-5xb42w",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953074249-0-u14efk": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953074249-0-u14efk",
+        "rdfs:label": "Binds",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Binds",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Binds",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:54.249Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "48fa8f33-fcc4-48d3-9e35-6cae7927c342": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:48fa8f33-fcc4-48d3-9e35-6cae7927c342",
+        "rdfs:label": "Carbon",
+        "rdfs:comment": "The element at the center of organic chemistry: six protons and six neutrons in the nucleus, with six electrons around it.",
+        "skos:prefLabel": "Carbon",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Carbon",
+        "description": "The element at the center of organic chemistry: six protons and six neutrons in the nucleus, with six electrons around it.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Carbon",
+          "http://dbpedia.org/resource/Carbon",
+          "http://www.wikidata.org/entity/Q123304012"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953080220-ao0200"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:00.346Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "48fa8f33-fcc4-48d3-9e35-6cae7927c342",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Carbon": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:01.413Z"
+            },
+            "http://dbpedia.org/resource/Carbon": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:01.413Z"
+            },
+            "http://www.wikidata.org/entity/Q123304012": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:01.413Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Carbon"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/Carbon"
+          },
+          {
+            "@id": "http://www.wikidata.org/entity/Q123304012"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953080347-0-yregyr": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953080347-0-yregyr",
+        "rdfs:label": "Neutron",
+        "rdfs:comment": "Neutral particle in the nucleus. Carbon-12 has six.",
+        "skos:prefLabel": "Neutron",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Neutron",
+        "description": "Neutral particle in the nucleus. Carbon-12 has six.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:00.347Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953080347-0-yregyr",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953080347-1-cxu6sm": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953080347-1-cxu6sm",
+        "rdfs:label": "Electron",
+        "rdfs:comment": "Negatively charged particle orbiting the nucleus. Six in a neutral carbon atom.",
+        "skos:prefLabel": "Electron",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Electron",
+        "description": "Negatively charged particle orbiting the nucleus. Six in a neutral carbon atom.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:00.347Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953080347-1-cxu6sm",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953080347-0-gsu4vc": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953080347-0-gsu4vc",
+        "rdfs:label": "Orbits",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Orbits",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Orbits",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:00.347Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793953080350-0-ppkdep": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953080350-0-ppkdep",
+        "rdfs:label": "Shares Nucleus With",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Shares Nucleus With",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Shares Nucleus With",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:00.350Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "6ed8d3a5-32ae-4f4e-9319-aeacfe818437": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:6ed8d3a5-32ae-4f4e-9319-aeacfe818437",
+        "rdfs:label": "Methyl Group",
+        "rdfs:comment": "One carbon atom carrying three hydrogens (CH3). Caffeine has three of them, which is what separates it from the xanthine your body makes.",
+        "skos:prefLabel": "Methyl Group",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Methyl Group",
+        "description": "One carbon atom carrying three hydrogens (CH3). Caffeine has three of them, which is what separates it from the xanthine your body makes.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Methyl%20group"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953085765-25lgy7"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:05.987Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "6ed8d3a5-32ae-4f4e-9319-aeacfe818437",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Methyl%20group": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:09.740Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Methyl%20group"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953085988-0-lpz44z": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953085988-0-lpz44z",
+        "rdfs:label": "Hydrogen",
+        "rdfs:comment": "Three hydrogen atoms, each bonded to the carbon.",
+        "skos:prefLabel": "Hydrogen",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Hydrogen",
+        "description": "Three hydrogen atoms, each bonded to the carbon.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:05.988Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953085988-0-lpz44z",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:12b8f7e2-ac7b-4d0d-bbb4-b61223b01453",
+        "rdfs:label": "Caffeine",
+        "rdfs:comment": "A xanthine: the purine skeleton with three methyl groups and two carbonyl oxygens. It looks enough like adenine's purine that it fits the receptors adenosine is meant for.",
+        "skos:prefLabel": "Caffeine",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Caffeine",
+        "description": "A xanthine: the purine skeleton with three methyl groups and two carbonyl oxygens. It looks enough like adenine's purine that it fits the receptors adenosine is meant for.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Caffeine",
+          "http://dbpedia.org/resource/Caffeine",
+          "http://www.wikidata.org/entity/Q48855139"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953091715-ghuufc"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:12.093Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Caffeine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:13.231Z"
+            },
+            "http://dbpedia.org/resource/Caffeine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:13.231Z"
+            },
+            "http://www.wikidata.org/entity/Q48855139": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:13.231Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Caffeine"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/Caffeine"
+          },
+          {
+            "@id": "http://www.wikidata.org/entity/Q48855139"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953092094-0-b4y3yx": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953092094-0-b4y3yx",
+        "rdfs:label": "Carbonyl Oxygens",
+        "rdfs:comment": "Two oxygen atoms double-bonded to carbons on the ring. They're what make this purine a xanthine.",
+        "skos:prefLabel": "Carbonyl Oxygens",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Carbonyl Oxygens",
+        "description": "Two oxygen atoms double-bonded to carbons on the ring. They're what make this purine a xanthine.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d1a728"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:12.094Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953092094-0-b4y3yx",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953092099-0-5b9xu2": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953092099-0-5b9xu2",
+        "rdfs:label": "Bonded To Ring Nitrogens Of",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Bonded To Ring Nitrogens Of",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Bonded To Ring Nitrogens Of",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d1a728"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:12.099Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793953092099-1-7xwel9": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953092099-1-7xwel9",
+        "rdfs:label": "Double-bonded To",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Double-bonded To",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Double-bonded To",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d1a728"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:12.099Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "991ce1f3-97e4-495d-8ca1-e0a70162c481": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:991ce1f3-97e4-495d-8ca1-e0a70162c481",
+        "rdfs:label": "Brewed Coffee",
+        "rdfs:comment": "Hot water that has pulled soluble compounds out of ground roasted beans. The one that matters for waking up is caffeine.",
+        "skos:prefLabel": "Brewed Coffee",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Brewed Coffee",
+        "description": "Hot water that has pulled soluble compounds out of ground roasted beans. The one that matters for waking up is caffeine.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953100102-z90fpy"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:20.225Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "991ce1f3-97e4-495d-8ca1-e0a70162c481",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953100226-0-6fsffu": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953100226-0-6fsffu",
+        "rdfs:label": "Water",
+        "rdfs:comment": "The solvent that does the extracting.",
+        "skos:prefLabel": "Water",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Water",
+        "description": "The solvent that does the extracting.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#c42f21"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:20.226Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953100226-0-6fsffu",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953100229-0-m2lajj": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953100229-0-m2lajj",
+        "rdfs:label": "Dissolves",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Dissolves",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Dissolves",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#c42f21"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:20.229Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "36f766ec-e2c3-48d3-9d1a-0795581aa6e4": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:36f766ec-e2c3-48d3-9d1a-0795581aa6e4",
+        "rdfs:label": "Binding Pocket",
+        "rdfs:comment": "The cavity in the adenosine A1 receptor shaped to hold a purine. Adenosine fits it and tells the neuron to slow down; caffeine fits it and says nothing.",
+        "skos:prefLabel": "Binding Pocket",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Binding Pocket",
+        "description": "The cavity in the adenosine A1 receptor shaped to hold a purine. Adenosine fits it and tells the neuron to slow down; caffeine fits it and says nothing.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Active%20site"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953100622-owtjo6"
+        ],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:20.783Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "36f766ec-e2c3-48d3-9d1a-0795581aa6e4",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Active%20site": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:22.266Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Active%20site"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953100783-0-uxshrk": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953100783-0-uxshrk",
+        "rdfs:label": "Pocket Residues",
+        "rdfs:comment": "The amino acids lining the cavity that grip a purine.",
+        "skos:prefLabel": "Pocket Residues",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Pocket Residues",
+        "description": "The amino acids lining the cavity that grip a purine.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:20.784Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953100783-0-uxshrk",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953100786-0-903i5r": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953100786-0-903i5r",
+        "rdfs:label": "Grips",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Grips",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Grips",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:20.786Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "36d069e4-ea30-47a2-90b3-3b411ffffeeb": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:36d069e4-ea30-47a2-90b3-3b411ffffeeb",
+        "rdfs:label": "Cup of Coffee",
+        "rdfs:comment": "A ceramic cup holding brewed coffee. Open the coffee and keep going down.",
+        "skos:prefLabel": "Cup of Coffee",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Cup of Coffee",
+        "description": "A ceramic cup holding brewed coffee. Open the coffee and keep going down.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953112409-h7chtx"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:32.457Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "36d069e4-ea30-47a2-90b3-3b411ffffeeb",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953112459-0-mzcww7": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953112459-0-mzcww7",
+        "rdfs:label": "Ceramic Vessel",
+        "rdfs:comment": "Fired clay that holds the liquid and slows heat loss.",
+        "skos:prefLabel": "Ceramic Vessel",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Ceramic Vessel",
+        "description": "Fired clay that holds the liquid and slows heat loss.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d1a728"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:32.459Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953112459-0-mzcww7",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953112459-1-e6wonj": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953112459-1-e6wonj",
+        "rdfs:label": "Heat",
+        "rdfs:comment": "Thermal energy flowing from the coffee into the vessel.",
+        "skos:prefLabel": "Heat",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Heat",
+        "description": "Thermal energy flowing from the coffee into the vessel.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:32.459Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953112459-1-e6wonj",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953112459-0-ho3sr9": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953112459-0-ho3sr9",
+        "rdfs:label": "Flows Into",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Flows Into",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Flows Into",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d66b00"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:32.459Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793953112463-0-wh8sma": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953112463-0-wh8sma",
+        "rdfs:label": "Contains",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Contains",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Contains",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#c42f21"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:32.463Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793953112463-1-ou0iir": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953112463-1-ou0iir",
+        "rdfs:label": "Carries",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Carries",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Carries",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d66b00"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:32.463Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "4c055870-6a43-4e81-a537-e75a3c608b82": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:4c055870-6a43-4e81-a537-e75a3c608b82",
+        "rdfs:label": "Adenosine A1 Receptor",
+        "rdfs:comment": "A receptor protein on neurons. When adenosine sits in its binding pocket, the neuron slows down. This is the receptor caffeine blocks.",
+        "skos:prefLabel": "Adenosine A1 Receptor",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Adenosine A1 Receptor",
+        "description": "A receptor protein on neurons. When adenosine sits in its binding pocket, the neuron slows down. This is the receptor caffeine blocks.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953112804-1ecu7t"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:33.030Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "4c055870-6a43-4e81-a537-e75a3c608b82",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953113030-0-7x1g0l": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953113030-0-7x1g0l",
+        "rdfs:label": "Transmembrane Helices",
+        "rdfs:comment": "Seven coils of amino acids threading through the cell membrane.",
+        "skos:prefLabel": "Transmembrane Helices",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Transmembrane Helices",
+        "description": "Seven coils of amino acids threading through the cell membrane.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:33.031Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953113030-0-7x1g0l",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953113033-0-rrqtek": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953113033-0-rrqtek",
+        "rdfs:label": "Forms",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Forms",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Forms",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:33.033Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "4508f783-7852-4317-94ff-d61214a7889a": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:4508f783-7852-4317-94ff-d61214a7889a",
+        "rdfs:label": "DNA",
+        "rdfs:comment": "The molecule that stores a cell's genes. Adenine is one of its four bases, so the same purine skeleton is written into the genome.",
+        "skos:prefLabel": "DNA",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "DNA",
+        "description": "The molecule that stores a cell's genes. Adenine is one of its four bases, so the same purine skeleton is written into the genome.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/DNA",
+          "http://dbpedia.org/resource/DNA",
+          "http://www.wikidata.org/entity/Q55536182"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953113546-pomwot"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:33.579Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "4508f783-7852-4317-94ff-d61214a7889a",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/DNA": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:34.667Z"
+            },
+            "http://dbpedia.org/resource/DNA": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:34.667Z"
+            },
+            "http://www.wikidata.org/entity/Q55536182": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:34.667Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/DNA"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/DNA"
+          },
+          {
+            "@id": "http://www.wikidata.org/entity/Q55536182"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953113580-0-2lj4z8": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953113580-0-2lj4z8",
+        "rdfs:label": "Other Bases",
+        "rdfs:comment": "Guanine, thymine and cytosine, the other three letters.",
+        "skos:prefLabel": "Other Bases",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Other Bases",
+        "description": "Guanine, thymine and cytosine, the other three letters.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:33.580Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953113580-0-2lj4z8",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953113580-1-kqce39": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953113580-1-kqce39",
+        "rdfs:label": "Sugar-Phosphate Backbone",
+        "rdfs:comment": "The rails that hold the bases in order.",
+        "skos:prefLabel": "Sugar-Phosphate Backbone",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Sugar-Phosphate Backbone",
+        "description": "The rails that hold the bases in order.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:33.580Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953113580-1-kqce39",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953113582-1-ozyg1d": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953113582-1-ozyg1d",
+        "rdfs:label": "Pairs Across Helix With",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Pairs Across Helix With",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Pairs Across Helix With",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:33.582Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "edef2550-83f5-4fcd-9068-8d35c199c540": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:edef2550-83f5-4fcd-9068-8d35c199c540",
+        "rdfs:label": "Synapse",
+        "rdfs:comment": "The gap between neurons. Adenosine from spent ATP piles up here over the day and binds A1 receptors, telling the neuron to slow down.",
+        "skos:prefLabel": "Synapse",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Synapse",
+        "description": "The gap between neurons. Adenosine from spent ATP piles up here over the day and binds A1 receptors, telling the neuron to slow down.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953122173-awypmv"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.186Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "edef2550-83f5-4fcd-9068-8d35c199c540",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953122187-0-4slmrn": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953122187-0-4slmrn",
+        "rdfs:label": "Synaptic Cleft",
+        "rdfs:comment": "The fluid-filled gap neurons signal across.",
+        "skos:prefLabel": "Synaptic Cleft",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Synaptic Cleft",
+        "description": "The fluid-filled gap neurons signal across.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.187Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953122187-0-4slmrn",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953122191-0-b48xlb": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953122191-0-b48xlb",
+        "rdfs:label": "Accumulates In",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Accumulates In",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Accumulates In",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.191Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793953122191-1-o3tmbn": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953122191-1-o3tmbn",
+        "rdfs:label": "Binds And Activates",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Binds And Activates",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Binds And Activates",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.191Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1793953122191-2-6abjb2": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953122191-2-6abjb2",
+        "rdfs:label": "Faces",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Faces",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Faces",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.191Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "a69516ff-3757-4ff0-80bd-6e2e1dfc7d6c": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:a69516ff-3757-4ff0-80bd-6e2e1dfc7d6c",
+        "rdfs:label": "Cell Nucleus",
+        "rdfs:comment": "The compartment that holds a cell's DNA. Inside a neuron it keeps the genes, and with them a copy of the purine skeleton written in adenine.",
+        "skos:prefLabel": "Cell Nucleus",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Cell Nucleus",
+        "description": "The compartment that holds a cell's DNA. Inside a neuron it keeps the genes, and with them a copy of the purine skeleton written in adenine.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Cell_nucleus"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953122668-pvh377"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.738Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "a69516ff-3757-4ff0-80bd-6e2e1dfc7d6c",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Cell_nucleus": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:18:44.207Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Cell_nucleus"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953122739-0-fmngau": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953122739-0-fmngau",
+        "rdfs:label": "Nuclear Envelope",
+        "rdfs:comment": "The double membrane that wraps the nucleus.",
+        "skos:prefLabel": "Nuclear Envelope",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Nuclear Envelope",
+        "description": "The double membrane that wraps the nucleus.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.739Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953122739-0-fmngau",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953122741-0-wvdw7k": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953122741-0-wvdw7k",
+        "rdfs:label": "Encloses",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Encloses",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Encloses",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#e3ca84"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:18:42.742Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:18:48.433Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -813,8 +3405,7 @@
             },
             "rdfStatements": null,
             "sourcePrototypeId": "proto-1793953050415-1-nuqknr",
-            "destinationPrototypeId": "proto-1793953050415-0-4s4x1a",
-            "predicatePrototypeId": null
+            "destinationPrototypeId": "proto-1793953050415-0-4s4x1a"
           }
         }
       },
@@ -885,7 +3476,7 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": true
+          "redstring:activeInContext": false
         },
         "redstring:edges": {
           "5944f07c-7f95-4b78-bee7-e083ffa1ba50": {
@@ -904,7 +3495,1516 @@
             },
             "rdfStatements": null,
             "sourcePrototypeId": "proto-1793953055465-0-g9t25z",
-            "destinationPrototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+            "destinationPrototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b"
+          }
+        }
+      },
+      "graph-1793953062318-9wswou": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953062318-9wswou",
+        "rdfs:label": "Adenosine",
+        "rdfs:comment": "Adenine bonded to the sugar ribose. It's what's left when a neuron spends ATP, and it builds up between neurons as the chemical signal of tiredness.",
+        "redstring:definingNodeIds": [
+          "b6201c79-33d0-4e28-93e3-28aaa1f1400e"
+        ],
+        "redstring:edgeIds": [
+          "6ea21b77-3340-496c-ba84-72a0ac19821e"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#a7cedd",
+        "redstring:panOffset": {
+          "x": -27158.092648017348,
+          "y": -27910.55691148904
+        },
+        "redstring:zoomLevel": 0.5655843980013384,
+        "redstring:instances": {
+          "inst-1793953062558-0-tf9iuk": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953062558-0-tf9iuk",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953062558-0-uketda"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953062318-9wswou"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 1121,
+              "redstring:yCoordinate": 7,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953062558-0-uketda",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953062559-n4lji9": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953062559-n4lji9",
+            "rdf:type": {
+              "@id": "urn:uuid:bd15022e-8341-47a1-9800-fe4dcd0e2847"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953062318-9wswou"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -650,
+              "redstring:yCoordinate": -110,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null,
+            "redstring:openDefinition": {
+              "redstring:definitionIndex": 0,
+              "redstring:xOffset": -595,
+              "redstring:yOffset": 101
+            }
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "6ea21b77-3340-496c-ba84-72a0ac19821e": {
+            "id": "6ea21b77-3340-496c-ba84-72a0ac19821e",
+            "sourceId": "inst-shell-1793953062559-n4lji9",
+            "destinationId": "inst-1793953062558-0-tf9iuk",
+            "name": "Glycosidic Bond",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953062560-0-okfloj"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953062558-0-tf9iuk"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+            "destinationPrototypeId": "proto-1793953062558-0-uketda"
+          }
+        }
+      },
+      "graph-1793953067255-etg4zh": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953067255-etg4zh",
+        "rdfs:label": "ATP",
+        "rdfs:comment": "The cell's energy currency: adenosine carrying a chain of three phosphate groups. Spending energy snaps phosphates off, and the adenosine left behind is what makes you feel tired.",
+        "redstring:definingNodeIds": [
+          "04da4ed1-96cb-4690-81e6-fc840a8acd6f"
+        ],
+        "redstring:edgeIds": [
+          "ee013b6a-576e-4b99-a4e3-a02636ffa9fc"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#0B2D72",
+        "redstring:panOffset": {
+          "x": -17933.856573032117,
+          "y": -18640.955427218294
+        },
+        "redstring:zoomLevel": 0.3805217797763639,
+        "redstring:instances": {
+          "inst-1793953067642-0-qiedg6": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953067642-0-qiedg6",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953067642-0-fo562x"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953067255-etg4zh"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 1617,
+              "redstring:yCoordinate": 20,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953067642-0-fo562x",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953067643-oihb6s": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953067643-oihb6s",
+            "rdf:type": {
+              "@id": "urn:uuid:b6201c79-33d0-4e28-93e3-28aaa1f1400e"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953067255-etg4zh"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -665,
+              "redstring:yCoordinate": -238,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null,
+            "redstring:openDefinition": {
+              "redstring:definitionIndex": 0,
+              "redstring:xOffset": -496,
+              "redstring:yOffset": 128
+            }
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "ee013b6a-576e-4b99-a4e3-a02636ffa9fc": {
+            "id": "ee013b6a-576e-4b99-a4e3-a02636ffa9fc",
+            "sourceId": "inst-shell-1793953067643-oihb6s",
+            "destinationId": "inst-1793953067642-0-qiedg6",
+            "name": "Bonded To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953067643-0-1ifvga"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953067642-0-qiedg6"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+            "destinationPrototypeId": "proto-1793953067642-0-fo562x"
+          }
+        }
+      },
+      "graph-1793953074165-di0vgz": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953074165-di0vgz",
+        "rdfs:label": "Proton",
+        "rdfs:comment": "A positively charged particle in every atomic nucleus: two up quarks and one down quark, held together by gluons.",
+        "redstring:definingNodeIds": [
+          "3afa70b4-28c4-4f6e-b489-f7b445c0b9df"
+        ],
+        "redstring:edgeIds": [
+          "ca005fe9-735d-4777-aa2f-d7d40cddb43d",
+          "7088c405-ab45-401c-81df-cd94345dd016"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#e3ca84",
+        "redstring:panOffset": {
+          "x": -38757.64188349832,
+          "y": -39443.568862275446
+        },
+        "redstring:zoomLevel": 0.7964071856287425,
+        "redstring:instances": {
+          "inst-1793953074249-0-y7vrda": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953074249-0-y7vrda",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953074249-0-minkia"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953074165-di0vgz"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 263,
+              "redstring:yCoordinate": -448,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953074249-0-minkia",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793953074249-1-zi20oa": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953074249-1-zi20oa",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953074249-1-zq8fy3"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953074165-di0vgz"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 259,
+              "redstring:yCoordinate": 449,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953074249-1-zq8fy3",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793953074249-2-nhdahc": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953074249-2-nhdahc",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953074249-2-5xb42w"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953074165-di0vgz"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -262,
+              "redstring:yCoordinate": -8,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953074249-2-5xb42w",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "ca005fe9-735d-4777-aa2f-d7d40cddb43d": {
+            "id": "ca005fe9-735d-4777-aa2f-d7d40cddb43d",
+            "sourceId": "inst-1793953074249-2-nhdahc",
+            "destinationId": "inst-1793953074249-0-y7vrda",
+            "name": "Binds",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953074249-0-u14efk"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953074249-0-y7vrda"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953074249-2-5xb42w",
+            "destinationPrototypeId": "proto-1793953074249-0-minkia"
+          },
+          "7088c405-ab45-401c-81df-cd94345dd016": {
+            "id": "7088c405-ab45-401c-81df-cd94345dd016",
+            "sourceId": "inst-1793953074249-2-nhdahc",
+            "destinationId": "inst-1793953074249-1-zi20oa",
+            "name": "Binds",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953074249-0-u14efk"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953074249-1-zi20oa"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953074249-2-5xb42w",
+            "destinationPrototypeId": "proto-1793953074249-1-zq8fy3"
+          }
+        }
+      },
+      "graph-1793953080220-ao0200": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953080220-ao0200",
+        "rdfs:label": "Carbon",
+        "rdfs:comment": "The element at the center of organic chemistry: six protons and six neutrons in the nucleus, with six electrons around it.",
+        "redstring:definingNodeIds": [
+          "48fa8f33-fcc4-48d3-9e35-6cae7927c342"
+        ],
+        "redstring:edgeIds": [
+          "bc483bff-aa5f-4a6c-9ae2-8e932b34cb1c",
+          "b4e7b851-7e55-459f-83e3-5d7d6e28514b",
+          "67d18c33-7f3c-4077-9fb7-11cfa4ab516d"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#0B2D72",
+        "redstring:panOffset": {
+          "x": -14460.889235235818,
+          "y": -15210.34649980446
+        },
+        "redstring:zoomLevel": 0.3120844739929605,
+        "redstring:instances": {
+          "inst-1793953080347-0-blyuqf": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953080347-0-blyuqf",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953080347-0-yregyr"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953080220-ao0200"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -568,
+              "redstring:yCoordinate": -1198,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953080347-0-yregyr",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793953080347-1-dk3y6x": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953080347-1-dk3y6x",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953080347-1-cxu6sm"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953080220-ao0200"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 568,
+              "redstring:yCoordinate": -995,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953080347-1-cxu6sm",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953080348-e7cow1": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953080348-e7cow1",
+            "rdf:type": {
+              "@id": "urn:uuid:3afa70b4-28c4-4f6e-b489-f7b445c0b9df"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953080220-ao0200"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -89,
+              "redstring:yCoordinate": 99,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "3afa70b4-28c4-4f6e-b489-f7b445c0b9df",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null,
+            "redstring:openDefinition": {
+              "redstring:definitionIndex": 0,
+              "redstring:xOffset": -79,
+              "redstring:yOffset": 749
+            }
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "bc483bff-aa5f-4a6c-9ae2-8e932b34cb1c": {
+            "id": "bc483bff-aa5f-4a6c-9ae2-8e932b34cb1c",
+            "sourceId": "inst-1793953080347-1-dk3y6x",
+            "destinationId": "inst-1793953080347-0-blyuqf",
+            "name": "Orbits",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953080347-0-gsu4vc"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953080347-0-blyuqf"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953080347-1-cxu6sm",
+            "destinationPrototypeId": "proto-1793953080347-0-yregyr"
+          },
+          "b4e7b851-7e55-459f-83e3-5d7d6e28514b": {
+            "id": "b4e7b851-7e55-459f-83e3-5d7d6e28514b",
+            "sourceId": "inst-shell-1793953080348-e7cow1",
+            "destinationId": "inst-1793953080347-0-blyuqf",
+            "name": "Shares Nucleus With",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953080350-0-ppkdep"
+            ],
+            "directionality": {
+              "arrowsToward": []
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "3afa70b4-28c4-4f6e-b489-f7b445c0b9df",
+            "destinationPrototypeId": "proto-1793953080347-0-yregyr"
+          },
+          "67d18c33-7f3c-4077-9fb7-11cfa4ab516d": {
+            "id": "67d18c33-7f3c-4077-9fb7-11cfa4ab516d",
+            "sourceId": "inst-1793953080347-1-dk3y6x",
+            "destinationId": "inst-shell-1793953080348-e7cow1",
+            "name": "Orbits",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953080347-0-gsu4vc"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953080348-e7cow1"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953080347-1-cxu6sm",
+            "destinationPrototypeId": "3afa70b4-28c4-4f6e-b489-f7b445c0b9df"
+          }
+        }
+      },
+      "graph-1793953085765-25lgy7": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953085765-25lgy7",
+        "rdfs:label": "Methyl Group",
+        "rdfs:comment": "One carbon atom carrying three hydrogens (CH3). Caffeine has three of them, which is what separates it from the xanthine your body makes.",
+        "redstring:definingNodeIds": [
+          "6ed8d3a5-32ae-4f4e-9319-aeacfe818437"
+        ],
+        "redstring:edgeIds": [
+          "6663b5fe-75a4-4612-915b-08abfc795c13"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#1b70b5",
+        "redstring:panOffset": {
+          "x": -48956.66897583008,
+          "y": -49642
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1793953085988-0-m1e0tb": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953085988-0-m1e0tb",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953085988-0-lpz44z"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953085765-25lgy7"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -461,
+              "redstring:yCoordinate": 9,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953085988-0-lpz44z",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953085989-5p1gz7": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953085989-5p1gz7",
+            "rdf:type": {
+              "@id": "urn:uuid:48fa8f33-fcc4-48d3-9e35-6cae7927c342"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953085765-25lgy7"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 462,
+              "redstring:yCoordinate": -9,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "48fa8f33-fcc4-48d3-9e35-6cae7927c342",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "6663b5fe-75a4-4612-915b-08abfc795c13": {
+            "id": "6663b5fe-75a4-4612-915b-08abfc795c13",
+            "sourceId": "inst-1793953085988-0-m1e0tb",
+            "destinationId": "inst-shell-1793953085989-5p1gz7",
+            "name": "Bonded To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953067643-0-1ifvga"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953085989-5p1gz7"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953085988-0-lpz44z",
+            "destinationPrototypeId": "48fa8f33-fcc4-48d3-9e35-6cae7927c342"
+          }
+        }
+      },
+      "graph-1793953091715-ghuufc": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953091715-ghuufc",
+        "rdfs:label": "Caffeine",
+        "rdfs:comment": "A xanthine: the purine skeleton with three methyl groups and two carbonyl oxygens. It looks enough like adenine's purine that it fits the receptors adenosine is meant for.",
+        "redstring:definingNodeIds": [
+          "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453"
+        ],
+        "redstring:edgeIds": [
+          "45301d8e-d50d-44d0-8ba7-8b1ca73a0199",
+          "4bf8e117-038a-4d53-921c-dd0525bc8c2e"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#4f2215",
+        "redstring:panOffset": {
+          "x": -20116.829992793722,
+          "y": -20819.81717744999
+        },
+        "redstring:zoomLevel": 0.42433079621297615,
+        "redstring:instances": {
+          "inst-1793953092094-0-zym73k": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953092094-0-zym73k",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953092094-0-b4y3yx"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953091715-ghuufc"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 1092,
+              "redstring:yCoordinate": 478,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953092094-0-b4y3yx",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953092096-ulu3rp": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953092096-ulu3rp",
+            "rdf:type": {
+              "@id": "urn:uuid:b6b80e75-4889-4fc2-8367-f847894a799b"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953091715-ghuufc"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -834,
+              "redstring:yCoordinate": -72,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null,
+            "redstring:openDefinition": {
+              "redstring:definitionIndex": 0,
+              "redstring:xOffset": -920,
+              "redstring:yOffset": 130
+            }
+          },
+          "inst-shell-1793953092097-g3s0cf": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953092097-g3s0cf",
+            "rdf:type": {
+              "@id": "urn:uuid:6ed8d3a5-32ae-4f4e-9319-aeacfe818437"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953091715-ghuufc"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 1461,
+              "redstring:yCoordinate": -478,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "6ed8d3a5-32ae-4f4e-9319-aeacfe818437",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "45301d8e-d50d-44d0-8ba7-8b1ca73a0199": {
+            "id": "45301d8e-d50d-44d0-8ba7-8b1ca73a0199",
+            "sourceId": "inst-shell-1793953092097-g3s0cf",
+            "destinationId": "inst-shell-1793953092096-ulu3rp",
+            "name": "Bonded To Ring Nitrogens Of",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953092099-0-5b9xu2"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953092096-ulu3rp"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "6ed8d3a5-32ae-4f4e-9319-aeacfe818437",
+            "destinationPrototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b"
+          },
+          "4bf8e117-038a-4d53-921c-dd0525bc8c2e": {
+            "id": "4bf8e117-038a-4d53-921c-dd0525bc8c2e",
+            "sourceId": "inst-1793953092094-0-zym73k",
+            "destinationId": "inst-shell-1793953092096-ulu3rp",
+            "name": "Double-bonded To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953092099-1-7xwel9"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953092096-ulu3rp"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953092094-0-b4y3yx",
+            "destinationPrototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b"
+          }
+        }
+      },
+      "graph-1793953100102-z90fpy": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953100102-z90fpy",
+        "rdfs:label": "Brewed Coffee",
+        "rdfs:comment": "Hot water that has pulled soluble compounds out of ground roasted beans. The one that matters for waking up is caffeine.",
+        "redstring:definingNodeIds": [
+          "991ce1f3-97e4-495d-8ca1-e0a70162c481"
+        ],
+        "redstring:edgeIds": [
+          "e5600af6-0cfb-4359-932d-047d0af5a86e"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#4f2215",
+        "redstring:panOffset": {
+          "x": -49735.769956521704,
+          "y": -49925.62956569037
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1793953100226-0-zqkjqw": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953100226-0-zqkjqw",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953100226-0-6fsffu"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953100102-z90fpy"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -507,
+              "redstring:yCoordinate": -17,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 1.5
+            },
+            "redstring:prototypeId": "proto-1793953100226-0-6fsffu",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953100228-us8717": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953100228-us8717",
+            "rdf:type": {
+              "@id": "urn:uuid:12b8f7e2-ac7b-4d0d-bbb4-b61223b01453"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953100102-z90fpy"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 508,
+              "redstring:yCoordinate": 18,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "e5600af6-0cfb-4359-932d-047d0af5a86e": {
+            "id": "e5600af6-0cfb-4359-932d-047d0af5a86e",
+            "sourceId": "inst-1793953100226-0-zqkjqw",
+            "destinationId": "inst-shell-1793953100228-us8717",
+            "name": "Dissolves",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953100229-0-m2lajj"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953100228-us8717"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953100226-0-6fsffu",
+            "destinationPrototypeId": "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453"
+          }
+        }
+      },
+      "graph-1793953100622-owtjo6": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953100622-owtjo6",
+        "rdfs:label": "Binding Pocket",
+        "rdfs:comment": "The cavity in the adenosine A1 receptor shaped to hold a purine. Adenosine fits it and tells the neuron to slow down; caffeine fits it and says nothing.",
+        "redstring:definingNodeIds": [
+          "36f766ec-e2c3-48d3-9d1a-0795581aa6e4"
+        ],
+        "redstring:edgeIds": [
+          "7152004c-a6d6-4472-ab9b-70989481d937"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#a7cedd",
+        "redstring:panOffset": {
+          "x": -26247.740342383422,
+          "y": -26916.035730220567
+        },
+        "redstring:zoomLevel": 0.5456312773009016,
+        "redstring:instances": {
+          "inst-1793953100783-0-lbqs3j": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953100783-0-lbqs3j",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953100783-0-uxshrk"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953100622-owtjo6"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -1059,
+              "redstring:yCoordinate": 16,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953100783-0-uxshrk",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953100785-qc0n6f": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953100785-qc0n6f",
+            "rdf:type": {
+              "@id": "urn:uuid:b6b80e75-4889-4fc2-8367-f847894a799b"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953100622-owtjo6"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 603,
+              "redstring:yCoordinate": -101,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null,
+            "redstring:openDefinition": {
+              "redstring:definitionIndex": 0,
+              "redstring:xOffset": 517,
+              "redstring:yOffset": 101
+            }
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "7152004c-a6d6-4472-ab9b-70989481d937": {
+            "id": "7152004c-a6d6-4472-ab9b-70989481d937",
+            "sourceId": "inst-1793953100783-0-lbqs3j",
+            "destinationId": "inst-shell-1793953100785-qc0n6f",
+            "name": "Grips",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953100786-0-903i5r"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953100785-qc0n6f"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953100783-0-uxshrk",
+            "destinationPrototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b"
+          }
+        }
+      },
+      "graph-1793953112409-h7chtx": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953112409-h7chtx",
+        "rdfs:label": "Cup of Coffee",
+        "rdfs:comment": "A ceramic cup holding brewed coffee. Open the coffee and keep going down.",
+        "redstring:definingNodeIds": [
+          "36d069e4-ea30-47a2-90b3-3b411ffffeeb"
+        ],
+        "redstring:edgeIds": [
+          "320e78fb-76f3-4c56-bc05-faafe67c72a2",
+          "a3dc9191-bccf-4030-8d9a-414febf4bafa",
+          "0934bce7-2bee-4fac-ab67-6ff3f77759e0"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#4f2215",
+        "redstring:panOffset": {
+          "x": -49763.290378767306,
+          "y": -50041.208949842934
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1793953112459-0-3dtzk6": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953112459-0-3dtzk6",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953112459-0-mzcww7"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953112409-h7chtx"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -164,
+              "redstring:yCoordinate": -509,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953112459-0-mzcww7",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793953112459-1-eufu56": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953112459-1-eufu56",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953112459-1-e6wonj"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953112409-h7chtx"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 575,
+              "redstring:yCoordinate": 377,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953112459-1-e6wonj",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953112461-q27k4t": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953112461-q27k4t",
+            "rdf:type": {
+              "@id": "urn:uuid:991ce1f3-97e4-495d-8ca1-e0a70162c481"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953112409-h7chtx"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -574,
+              "redstring:yCoordinate": 509,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "991ce1f3-97e4-495d-8ca1-e0a70162c481",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "320e78fb-76f3-4c56-bc05-faafe67c72a2": {
+            "id": "320e78fb-76f3-4c56-bc05-faafe67c72a2",
+            "sourceId": "inst-1793953112459-1-eufu56",
+            "destinationId": "inst-1793953112459-0-3dtzk6",
+            "name": "Flows Into",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953112459-0-ho3sr9"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953112459-0-3dtzk6"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953112459-1-e6wonj",
+            "destinationPrototypeId": "proto-1793953112459-0-mzcww7",
+            "predicatePrototypeId": null
+          },
+          "a3dc9191-bccf-4030-8d9a-414febf4bafa": {
+            "id": "a3dc9191-bccf-4030-8d9a-414febf4bafa",
+            "sourceId": "inst-1793953112459-0-3dtzk6",
+            "destinationId": "inst-shell-1793953112461-q27k4t",
+            "name": "Contains",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953112463-0-wh8sma"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953112461-q27k4t"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953112459-0-mzcww7",
+            "destinationPrototypeId": "991ce1f3-97e4-495d-8ca1-e0a70162c481",
+            "predicatePrototypeId": null
+          },
+          "0934bce7-2bee-4fac-ab67-6ff3f77759e0": {
+            "id": "0934bce7-2bee-4fac-ab67-6ff3f77759e0",
+            "sourceId": "inst-shell-1793953112461-q27k4t",
+            "destinationId": "inst-1793953112459-1-eufu56",
+            "name": "Carries",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953112463-1-ou0iir"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953112459-1-eufu56"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "991ce1f3-97e4-495d-8ca1-e0a70162c481",
+            "destinationPrototypeId": "proto-1793953112459-1-e6wonj",
+            "predicatePrototypeId": null
+          }
+        }
+      },
+      "graph-1793953112804-1ecu7t": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953112804-1ecu7t",
+        "rdfs:label": "Adenosine A1 Receptor",
+        "rdfs:comment": "A receptor protein on neurons. When adenosine sits in its binding pocket, the neuron slows down. This is the receptor caffeine blocks.",
+        "redstring:definingNodeIds": [
+          "4c055870-6a43-4e81-a537-e75a3c608b82"
+        ],
+        "redstring:edgeIds": [
+          "8c0f9956-6d2e-47e2-8b51-012db269ee19"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#1b70b5",
+        "redstring:panOffset": {
+          "x": -49726.06146888459,
+          "y": -49854.740233540535
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1793953113030-0-l81uhy": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953113030-0-l81uhy",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953113030-0-7x1g0l"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953112804-1ecu7t"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -580,
+              "redstring:yCoordinate": 0,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953113030-0-7x1g0l",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953113032-dvo46x": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953113032-dvo46x",
+            "rdf:type": {
+              "@id": "urn:uuid:36f766ec-e2c3-48d3-9d1a-0795581aa6e4"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953112804-1ecu7t"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 580,
+              "redstring:yCoordinate": 0,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "36f766ec-e2c3-48d3-9d1a-0795581aa6e4",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "8c0f9956-6d2e-47e2-8b51-012db269ee19": {
+            "id": "8c0f9956-6d2e-47e2-8b51-012db269ee19",
+            "sourceId": "inst-1793953113030-0-l81uhy",
+            "destinationId": "inst-shell-1793953113032-dvo46x",
+            "name": "Forms",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953113033-0-rrqtek"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953113032-dvo46x"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953113030-0-7x1g0l",
+            "destinationPrototypeId": "36f766ec-e2c3-48d3-9d1a-0795581aa6e4",
+            "predicatePrototypeId": null
+          }
+        }
+      },
+      "graph-1793953113546-pomwot": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953113546-pomwot",
+        "rdfs:label": "DNA",
+        "rdfs:comment": "The molecule that stores a cell's genes. Adenine is one of its four bases, so the same purine skeleton is written into the genome.",
+        "redstring:definingNodeIds": [
+          "4508f783-7852-4317-94ff-d61214a7889a"
+        ],
+        "redstring:edgeIds": [
+          "4cd5fd34-d651-4a88-8feb-27e86115ec5f",
+          "02294dc0-5cde-437e-9b2e-88c172dbc0ea",
+          "383a5d47-3106-403d-8569-88b52788b9d7"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#0B2D72",
+        "redstring:panOffset": {
+          "x": -22790.142259414228,
+          "y": -23464
+        },
+        "redstring:zoomLevel": 0.4769874476987448,
+        "redstring:instances": {
+          "inst-1793953113580-0-40su44": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953113580-0-40su44",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953113580-0-2lj4z8"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953113546-pomwot"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -598,
+              "redstring:yCoordinate": -766,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953113580-0-2lj4z8",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793953113580-1-10n49p": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953113580-1-10n49p",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953113580-1-kqce39"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953113546-pomwot"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 598,
+              "redstring:yCoordinate": -43,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953113580-1-kqce39",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953113581-t6gwki": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953113581-t6gwki",
+            "rdf:type": {
+              "@id": "urn:uuid:bd15022e-8341-47a1-9800-fe4dcd0e2847"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953113546-pomwot"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -430,
+              "redstring:yCoordinate": 767,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "4cd5fd34-d651-4a88-8feb-27e86115ec5f": {
+            "id": "4cd5fd34-d651-4a88-8feb-27e86115ec5f",
+            "sourceId": "inst-1793953113580-1-10n49p",
+            "destinationId": "inst-1793953113580-0-40su44",
+            "name": "Carries",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953112463-1-ou0iir"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953113580-0-40su44"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953113580-1-kqce39",
+            "destinationPrototypeId": "proto-1793953113580-0-2lj4z8",
+            "predicatePrototypeId": null
+          },
+          "02294dc0-5cde-437e-9b2e-88c172dbc0ea": {
+            "id": "02294dc0-5cde-437e-9b2e-88c172dbc0ea",
+            "sourceId": "inst-1793953113580-1-10n49p",
+            "destinationId": "inst-shell-1793953113581-t6gwki",
+            "name": "Carries",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953112463-1-ou0iir"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953113581-t6gwki"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953113580-1-kqce39",
+            "destinationPrototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+            "predicatePrototypeId": null
+          },
+          "383a5d47-3106-403d-8569-88b52788b9d7": {
+            "id": "383a5d47-3106-403d-8569-88b52788b9d7",
+            "sourceId": "inst-shell-1793953113581-t6gwki",
+            "destinationId": "inst-1793953113580-0-40su44",
+            "name": "Pairs Across Helix With",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953113582-1-ozyg1d"
+            ],
+            "directionality": {
+              "arrowsToward": []
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+            "destinationPrototypeId": "proto-1793953113580-0-2lj4z8",
+            "predicatePrototypeId": null
+          }
+        }
+      },
+      "graph-1793953122173-awypmv": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953122173-awypmv",
+        "rdfs:label": "Synapse",
+        "rdfs:comment": "The gap between neurons. Adenosine from spent ATP piles up here over the day and binds A1 receptors, telling the neuron to slow down.",
+        "redstring:definingNodeIds": [
+          "edef2550-83f5-4fcd-9068-8d35c199c540"
+        ],
+        "redstring:edgeIds": [
+          "c6afb395-b88c-4684-b6ab-bc8c16efcf5d",
+          "55cdd35a-917a-4716-9fc6-dc8d627c1bb0",
+          "61ac5980-b4f2-41f9-916f-9ead06c19ce9"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#a7cedd",
+        "redstring:panOffset": {
+          "x": -49890.25026031531,
+          "y": -50055.84800235055
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1793953122187-0-nr7lmm": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953122187-0-nr7lmm",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953122187-0-4slmrn"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953122173-awypmv"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 184,
+              "redstring:yCoordinate": -658,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953122187-0-4slmrn",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953122189-z12n5n": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953122189-z12n5n",
+            "rdf:type": {
+              "@id": "urn:uuid:b6201c79-33d0-4e28-93e3-28aaa1f1400e"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953122173-awypmv"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 830,
+              "redstring:yCoordinate": 659,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953122190-oa6wkn": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953122190-oa6wkn",
+            "rdf:type": {
+              "@id": "urn:uuid:4c055870-6a43-4e81-a537-e75a3c608b82"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953122173-awypmv"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -830,
+              "redstring:yCoordinate": 416,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "4c055870-6a43-4e81-a537-e75a3c608b82",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "c6afb395-b88c-4684-b6ab-bc8c16efcf5d": {
+            "id": "c6afb395-b88c-4684-b6ab-bc8c16efcf5d",
+            "sourceId": "inst-shell-1793953122189-z12n5n",
+            "destinationId": "inst-1793953122187-0-nr7lmm",
+            "name": "Accumulates In",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953122191-0-b48xlb"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953122187-0-nr7lmm"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+            "destinationPrototypeId": "proto-1793953122187-0-4slmrn",
+            "predicatePrototypeId": null
+          },
+          "55cdd35a-917a-4716-9fc6-dc8d627c1bb0": {
+            "id": "55cdd35a-917a-4716-9fc6-dc8d627c1bb0",
+            "sourceId": "inst-shell-1793953122189-z12n5n",
+            "destinationId": "inst-shell-1793953122190-oa6wkn",
+            "name": "Binds And Activates",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953122191-1-o3tmbn"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953122190-oa6wkn"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+            "destinationPrototypeId": "4c055870-6a43-4e81-a537-e75a3c608b82",
+            "predicatePrototypeId": null
+          },
+          "61ac5980-b4f2-41f9-916f-9ead06c19ce9": {
+            "id": "61ac5980-b4f2-41f9-916f-9ead06c19ce9",
+            "sourceId": "inst-shell-1793953122190-oa6wkn",
+            "destinationId": "inst-1793953122187-0-nr7lmm",
+            "name": "Faces",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953122191-2-6abjb2"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1793953122187-0-nr7lmm"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "4c055870-6a43-4e81-a537-e75a3c608b82",
+            "destinationPrototypeId": "proto-1793953122187-0-4slmrn",
+            "predicatePrototypeId": null
+          }
+        }
+      },
+      "graph-1793953122668-pvh377": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953122668-pvh377",
+        "rdfs:label": "Cell Nucleus",
+        "rdfs:comment": "The compartment that holds a cell's DNA. Inside a neuron it keeps the genes, and with them a copy of the purine skeleton written in adenine.",
+        "redstring:definingNodeIds": [
+          "a69516ff-3757-4ff0-80bd-6e2e1dfc7d6c"
+        ],
+        "redstring:edgeIds": [
+          "5b5c6210-cd32-4395-b7e0-5e59e66dfaaa"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#0B2D72",
+        "redstring:panOffset": {
+          "x": -48920.03399429321,
+          "y": -49651
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1793953122739-0-8g0zd9": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953122739-0-8g0zd9",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953122739-0-fmngau"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953122668-pvh377"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -576,
+              "redstring:yCoordinate": 0,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953122739-0-fmngau",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953122740-ppa1jg": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953122740-ppa1jg",
+            "rdf:type": {
+              "@id": "urn:uuid:4508f783-7852-4317-94ff-d61214a7889a"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953122668-pvh377"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 576,
+              "redstring:yCoordinate": 0,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "4508f783-7852-4317-94ff-d61214a7889a",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
+        },
+        "redstring:edges": {
+          "5b5c6210-cd32-4395-b7e0-5e59e66dfaaa": {
+            "id": "5b5c6210-cd32-4395-b7e0-5e59e66dfaaa",
+            "sourceId": "inst-1793953122739-0-8g0zd9",
+            "destinationId": "inst-shell-1793953122740-ppa1jg",
+            "name": "Encloses",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953122741-0-wvdw7k"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953122740-ppa1jg"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953122739-0-fmngau",
+            "destinationPrototypeId": "4508f783-7852-4317-94ff-d61214a7889a",
             "predicatePrototypeId": null
           }
         }
@@ -927,13 +5027,39 @@
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
       "graph-1793953049884-27a4z8",
-      "graph-1793953054996-sg955c"
+      "graph-1793953054996-sg955c",
+      "graph-1793953062318-9wswou",
+      "graph-1793953067255-etg4zh",
+      "graph-1793953074165-di0vgz",
+      "graph-1793953080220-ao0200",
+      "graph-1793953085765-25lgy7",
+      "graph-1793953091715-ghuufc",
+      "graph-1793953100102-z90fpy",
+      "graph-1793953100622-owtjo6",
+      "graph-1793953112409-h7chtx",
+      "graph-1793953112804-1ecu7t",
+      "graph-1793953113546-pomwot",
+      "graph-1793953122173-awypmv",
+      "graph-1793953122668-pvh377"
     ],
-    "redstring:activeGraphId": "graph-1793953054996-sg955c",
-    "redstring:activeDefinitionNodeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+    "redstring:activeGraphId": "graph-1793953122668-pvh377",
+    "redstring:activeDefinitionNodeId": "a69516ff-3757-4ff0-80bd-6e2e1dfc7d6c",
     "redstring:expandedGraphIds": [
       "graph-1793953049884-27a4z8",
-      "graph-1793953054996-sg955c"
+      "graph-1793953054996-sg955c",
+      "graph-1793953062318-9wswou",
+      "graph-1793953067255-etg4zh",
+      "graph-1793953074165-di0vgz",
+      "graph-1793953080220-ao0200",
+      "graph-1793953085765-25lgy7",
+      "graph-1793953091715-ghuufc",
+      "graph-1793953100102-z90fpy",
+      "graph-1793953100622-owtjo6",
+      "graph-1793953112409-h7chtx",
+      "graph-1793953112804-1ecu7t",
+      "graph-1793953113546-pomwot",
+      "graph-1793953122173-awypmv",
+      "graph-1793953122668-pvh377"
     ],
     "redstring:rightPanelTabs": [
       {
@@ -949,7 +5075,56 @@
       "proto-conn-1793953050417-0-my1xqv",
       "bd15022e-8341-47a1-9800-fe4dcd0e2847",
       "proto-1793953055465-0-g9t25z",
-      "proto-conn-1793953055466-0-stj1hl"
+      "proto-conn-1793953055466-0-stj1hl",
+      "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+      "proto-1793953062558-0-uketda",
+      "proto-conn-1793953062560-0-okfloj",
+      "04da4ed1-96cb-4690-81e6-fc840a8acd6f",
+      "proto-1793953067642-0-fo562x",
+      "proto-conn-1793953067643-0-1ifvga",
+      "3afa70b4-28c4-4f6e-b489-f7b445c0b9df",
+      "proto-1793953074249-0-minkia",
+      "proto-1793953074249-1-zq8fy3",
+      "proto-1793953074249-2-5xb42w",
+      "proto-conn-1793953074249-0-u14efk",
+      "48fa8f33-fcc4-48d3-9e35-6cae7927c342",
+      "proto-1793953080347-0-yregyr",
+      "proto-1793953080347-1-cxu6sm",
+      "proto-conn-1793953080347-0-gsu4vc",
+      "proto-conn-1793953080350-0-ppkdep",
+      "6ed8d3a5-32ae-4f4e-9319-aeacfe818437",
+      "proto-1793953085988-0-lpz44z",
+      "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453",
+      "proto-1793953092094-0-b4y3yx",
+      "proto-conn-1793953092099-0-5b9xu2",
+      "proto-conn-1793953092099-1-7xwel9",
+      "991ce1f3-97e4-495d-8ca1-e0a70162c481",
+      "proto-1793953100226-0-6fsffu",
+      "proto-conn-1793953100229-0-m2lajj",
+      "36f766ec-e2c3-48d3-9d1a-0795581aa6e4",
+      "proto-1793953100783-0-uxshrk",
+      "proto-conn-1793953100786-0-903i5r",
+      "36d069e4-ea30-47a2-90b3-3b411ffffeeb",
+      "proto-1793953112459-0-mzcww7",
+      "proto-1793953112459-1-e6wonj",
+      "proto-conn-1793953112459-0-ho3sr9",
+      "proto-conn-1793953112463-0-wh8sma",
+      "proto-conn-1793953112463-1-ou0iir",
+      "4c055870-6a43-4e81-a537-e75a3c608b82",
+      "proto-1793953113030-0-7x1g0l",
+      "proto-conn-1793953113033-0-rrqtek",
+      "4508f783-7852-4317-94ff-d61214a7889a",
+      "proto-1793953113580-0-2lj4z8",
+      "proto-1793953113580-1-kqce39",
+      "proto-conn-1793953113582-1-ozyg1d",
+      "edef2550-83f5-4fcd-9068-8d35c199c540",
+      "proto-1793953122187-0-4slmrn",
+      "proto-conn-1793953122191-0-b48xlb",
+      "proto-conn-1793953122191-1-o3tmbn",
+      "proto-conn-1793953122191-2-6abjb2",
+      "a69516ff-3757-4ff0-80bd-6e2e1dfc7d6c",
+      "proto-1793953122739-0-fmngau",
+      "proto-conn-1793953122741-0-wvdw7k"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true,
@@ -986,7 +5161,7 @@
           "x": 0.5,
           "y": 0
         },
-        "computedAt": 1793953061904,
+        "computedAt": 1793953128433,
         "truncated": false
       }
     },
@@ -1018,7 +5193,459 @@
           "x": 0.5,
           "y": 0
         },
-        "computedAt": 1793953061904,
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953062318-9wswou": {
+      "nodes": {
+        "inst-1793953062558-0-tf9iuk": {
+          "x": 1121,
+          "y": 7,
+          "scale": 1,
+          "prototypeId": "proto-1793953062558-0-uketda"
+        },
+        "inst-shell-1793953062559-n4lji9": {
+          "x": -650,
+          "y": -110,
+          "scale": 1,
+          "prototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -650,
+          "minY": -110,
+          "maxX": 1121,
+          "maxY": 7
+        },
+        "centroid": {
+          "x": 235.5,
+          "y": -51.5
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953067255-etg4zh": {
+      "nodes": {
+        "inst-1793953067642-0-qiedg6": {
+          "x": 1617,
+          "y": 20,
+          "scale": 1,
+          "prototypeId": "proto-1793953067642-0-fo562x"
+        },
+        "inst-shell-1793953067643-oihb6s": {
+          "x": -665,
+          "y": -238,
+          "scale": 1,
+          "prototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -665,
+          "minY": -238,
+          "maxX": 1617,
+          "maxY": 20
+        },
+        "centroid": {
+          "x": 476,
+          "y": -109
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953074165-di0vgz": {
+      "nodes": {
+        "inst-1793953074249-0-y7vrda": {
+          "x": 263,
+          "y": -448,
+          "scale": 1,
+          "prototypeId": "proto-1793953074249-0-minkia"
+        },
+        "inst-1793953074249-1-zi20oa": {
+          "x": 259,
+          "y": 449,
+          "scale": 1,
+          "prototypeId": "proto-1793953074249-1-zq8fy3"
+        },
+        "inst-1793953074249-2-nhdahc": {
+          "x": -262,
+          "y": -8,
+          "scale": 1,
+          "prototypeId": "proto-1793953074249-2-5xb42w"
+        }
+      },
+      "metadata": {
+        "nodeCount": 3,
+        "edgeCount": 2,
+        "boundingBox": {
+          "minX": -262,
+          "minY": -448,
+          "maxX": 263,
+          "maxY": 449
+        },
+        "centroid": {
+          "x": 86.66666666666667,
+          "y": -2.3333333333333335
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953080220-ao0200": {
+      "nodes": {
+        "inst-1793953080347-0-blyuqf": {
+          "x": -568,
+          "y": -1198,
+          "scale": 1,
+          "prototypeId": "proto-1793953080347-0-yregyr"
+        },
+        "inst-1793953080347-1-dk3y6x": {
+          "x": 568,
+          "y": -995,
+          "scale": 1,
+          "prototypeId": "proto-1793953080347-1-cxu6sm"
+        },
+        "inst-shell-1793953080348-e7cow1": {
+          "x": -89,
+          "y": 99,
+          "scale": 1,
+          "prototypeId": "3afa70b4-28c4-4f6e-b489-f7b445c0b9df"
+        }
+      },
+      "metadata": {
+        "nodeCount": 3,
+        "edgeCount": 3,
+        "boundingBox": {
+          "minX": -568,
+          "minY": -1198,
+          "maxX": 568,
+          "maxY": 99
+        },
+        "centroid": {
+          "x": -29.666666666666668,
+          "y": -698
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953085765-25lgy7": {
+      "nodes": {
+        "inst-1793953085988-0-m1e0tb": {
+          "x": -461,
+          "y": 9,
+          "scale": 1,
+          "prototypeId": "proto-1793953085988-0-lpz44z"
+        },
+        "inst-shell-1793953085989-5p1gz7": {
+          "x": 462,
+          "y": -9,
+          "scale": 1,
+          "prototypeId": "48fa8f33-fcc4-48d3-9e35-6cae7927c342"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -461,
+          "minY": -9,
+          "maxX": 462,
+          "maxY": 9
+        },
+        "centroid": {
+          "x": 0.5,
+          "y": 0
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953091715-ghuufc": {
+      "nodes": {
+        "inst-1793953092094-0-zym73k": {
+          "x": 1092,
+          "y": 478,
+          "scale": 1,
+          "prototypeId": "proto-1793953092094-0-b4y3yx"
+        },
+        "inst-shell-1793953092096-ulu3rp": {
+          "x": -834,
+          "y": -72,
+          "scale": 1,
+          "prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b"
+        },
+        "inst-shell-1793953092097-g3s0cf": {
+          "x": 1461,
+          "y": -478,
+          "scale": 1,
+          "prototypeId": "6ed8d3a5-32ae-4f4e-9319-aeacfe818437"
+        }
+      },
+      "metadata": {
+        "nodeCount": 3,
+        "edgeCount": 2,
+        "boundingBox": {
+          "minX": -834,
+          "minY": -478,
+          "maxX": 1461,
+          "maxY": 478
+        },
+        "centroid": {
+          "x": 573,
+          "y": -24
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953100102-z90fpy": {
+      "nodes": {
+        "inst-1793953100226-0-zqkjqw": {
+          "x": -507,
+          "y": -17,
+          "scale": 1,
+          "prototypeId": "proto-1793953100226-0-6fsffu"
+        },
+        "inst-shell-1793953100228-us8717": {
+          "x": 508,
+          "y": 18,
+          "scale": 1,
+          "prototypeId": "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -507,
+          "minY": -17,
+          "maxX": 508,
+          "maxY": 18
+        },
+        "centroid": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953100622-owtjo6": {
+      "nodes": {
+        "inst-1793953100783-0-lbqs3j": {
+          "x": -1059,
+          "y": 16,
+          "scale": 1,
+          "prototypeId": "proto-1793953100783-0-uxshrk"
+        },
+        "inst-shell-1793953100785-qc0n6f": {
+          "x": 603,
+          "y": -101,
+          "scale": 1,
+          "prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -1059,
+          "minY": -101,
+          "maxX": 603,
+          "maxY": 16
+        },
+        "centroid": {
+          "x": -228,
+          "y": -42.5
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953112409-h7chtx": {
+      "nodes": {
+        "inst-1793953112459-0-3dtzk6": {
+          "x": -164,
+          "y": -509,
+          "scale": 1,
+          "prototypeId": "proto-1793953112459-0-mzcww7"
+        },
+        "inst-1793953112459-1-eufu56": {
+          "x": 575,
+          "y": 377,
+          "scale": 1,
+          "prototypeId": "proto-1793953112459-1-e6wonj"
+        },
+        "inst-shell-1793953112461-q27k4t": {
+          "x": -574,
+          "y": 509,
+          "scale": 1,
+          "prototypeId": "991ce1f3-97e4-495d-8ca1-e0a70162c481"
+        }
+      },
+      "metadata": {
+        "nodeCount": 3,
+        "edgeCount": 3,
+        "boundingBox": {
+          "minX": -574,
+          "minY": -509,
+          "maxX": 575,
+          "maxY": 509
+        },
+        "centroid": {
+          "x": -54.333333333333336,
+          "y": 125.66666666666667
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953112804-1ecu7t": {
+      "nodes": {
+        "inst-1793953113030-0-l81uhy": {
+          "x": -580,
+          "y": 0,
+          "scale": 1,
+          "prototypeId": "proto-1793953113030-0-7x1g0l"
+        },
+        "inst-shell-1793953113032-dvo46x": {
+          "x": 580,
+          "y": 0,
+          "scale": 1,
+          "prototypeId": "36f766ec-e2c3-48d3-9d1a-0795581aa6e4"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -580,
+          "minY": 0,
+          "maxX": 580,
+          "maxY": 0
+        },
+        "centroid": {
+          "x": 0,
+          "y": 0
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953113546-pomwot": {
+      "nodes": {
+        "inst-1793953113580-0-40su44": {
+          "x": -598,
+          "y": -766,
+          "scale": 1,
+          "prototypeId": "proto-1793953113580-0-2lj4z8"
+        },
+        "inst-1793953113580-1-10n49p": {
+          "x": 598,
+          "y": -43,
+          "scale": 1,
+          "prototypeId": "proto-1793953113580-1-kqce39"
+        },
+        "inst-shell-1793953113581-t6gwki": {
+          "x": -430,
+          "y": 767,
+          "scale": 1,
+          "prototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847"
+        }
+      },
+      "metadata": {
+        "nodeCount": 3,
+        "edgeCount": 3,
+        "boundingBox": {
+          "minX": -598,
+          "minY": -766,
+          "maxX": 598,
+          "maxY": 767
+        },
+        "centroid": {
+          "x": -143.33333333333334,
+          "y": -14
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953122173-awypmv": {
+      "nodes": {
+        "inst-1793953122187-0-nr7lmm": {
+          "x": 184,
+          "y": -658,
+          "scale": 1,
+          "prototypeId": "proto-1793953122187-0-4slmrn"
+        },
+        "inst-shell-1793953122189-z12n5n": {
+          "x": 830,
+          "y": 659,
+          "scale": 1,
+          "prototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e"
+        },
+        "inst-shell-1793953122190-oa6wkn": {
+          "x": -830,
+          "y": 416,
+          "scale": 1,
+          "prototypeId": "4c055870-6a43-4e81-a537-e75a3c608b82"
+        }
+      },
+      "metadata": {
+        "nodeCount": 3,
+        "edgeCount": 3,
+        "boundingBox": {
+          "minX": -830,
+          "minY": -658,
+          "maxX": 830,
+          "maxY": 659
+        },
+        "centroid": {
+          "x": 61.333333333333336,
+          "y": 139
+        },
+        "computedAt": 1793953128433,
+        "truncated": false
+      }
+    },
+    "graph-1793953122668-pvh377": {
+      "nodes": {
+        "inst-1793953122739-0-8g0zd9": {
+          "x": -576,
+          "y": 0,
+          "scale": 1,
+          "prototypeId": "proto-1793953122739-0-fmngau"
+        },
+        "inst-shell-1793953122740-ppa1jg": {
+          "x": 576,
+          "y": 0,
+          "scale": 1,
+          "prototypeId": "4508f783-7852-4317-94ff-d61214a7889a"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -576,
+          "minY": 0,
+          "maxX": 576,
+          "maxY": 0
+        },
+        "centroid": {
+          "x": 0,
+          "y": 0
+        },
+        "computedAt": 1793953128433,
         "truncated": false
       }
     }
@@ -1056,7 +5683,7 @@
         }
       ],
       "text": "Graph: Purine (graph-1793953049884-27a4z8)\nNodes (2 total):\n- Pyrimidine Ring [inst-1793953050415-0-p80x12]\n- Imidazole Ring [inst-1793953050415-1-4a52n5]\n\nEdges (1 total):\n- Imidazole Ring → Pyrimidine Ring (base-connection-prototype)",
-      "computedAt": 1793953061904
+      "computedAt": 1793953128433
     },
     "graph-1793953054996-sg955c": {
       "id": "graph-1793953054996-sg955c",
@@ -1090,7 +5717,559 @@
         }
       ],
       "text": "Graph: Adenine (graph-1793953054996-sg955c)\nNodes (2 total):\n- Amine Group [inst-1793953055465-0-yekkgs]\n- Purine [inst-shell-1793953055466-8kvg68]\n\nEdges (1 total):\n- Amine Group → Purine (base-connection-prototype)",
-      "computedAt": 1793953061904
+      "computedAt": 1793953128433
+    },
+    "graph-1793953062318-9wswou": {
+      "id": "graph-1793953062318-9wswou",
+      "name": "Adenosine",
+      "description": "Adenine bonded to the sugar ribose. It's what's left when a neuron spends ATP, and it builds up between neurons as the chemical signal of tiredness.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953062558-0-tf9iuk",
+          "prototypeId": "proto-1793953062558-0-uketda",
+          "name": "Ribose"
+        },
+        {
+          "id": "inst-shell-1793953062559-n4lji9",
+          "prototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+          "name": "Adenine"
+        }
+      ],
+      "edges": [
+        {
+          "id": "6ea21b77-3340-496c-ba84-72a0ac19821e",
+          "from": "inst-shell-1793953062559-n4lji9",
+          "to": "inst-1793953062558-0-tf9iuk",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Adenine",
+          "targetLabel": "Ribose"
+        }
+      ],
+      "text": "Graph: Adenosine (graph-1793953062318-9wswou)\nNodes (2 total):\n- Ribose [inst-1793953062558-0-tf9iuk]\n- Adenine [inst-shell-1793953062559-n4lji9]\n\nEdges (1 total):\n- Adenine → Ribose (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953067255-etg4zh": {
+      "id": "graph-1793953067255-etg4zh",
+      "name": "ATP",
+      "description": "The cell's energy currency: adenosine carrying a chain of three phosphate groups. Spending energy snaps phosphates off, and the adenosine left behind is what makes you feel tired.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953067642-0-qiedg6",
+          "prototypeId": "proto-1793953067642-0-fo562x",
+          "name": "Phosphate Chain"
+        },
+        {
+          "id": "inst-shell-1793953067643-oihb6s",
+          "prototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+          "name": "Adenosine"
+        }
+      ],
+      "edges": [
+        {
+          "id": "ee013b6a-576e-4b99-a4e3-a02636ffa9fc",
+          "from": "inst-shell-1793953067643-oihb6s",
+          "to": "inst-1793953067642-0-qiedg6",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Adenosine",
+          "targetLabel": "Phosphate Chain"
+        }
+      ],
+      "text": "Graph: ATP (graph-1793953067255-etg4zh)\nNodes (2 total):\n- Phosphate Chain [inst-1793953067642-0-qiedg6]\n- Adenosine [inst-shell-1793953067643-oihb6s]\n\nEdges (1 total):\n- Adenosine → Phosphate Chain (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953074165-di0vgz": {
+      "id": "graph-1793953074165-di0vgz",
+      "name": "Proton",
+      "description": "A positively charged particle in every atomic nucleus: two up quarks and one down quark, held together by gluons.",
+      "nodeCount": 3,
+      "edgeCount": 2,
+      "density": 0.333,
+      "quality": "balanced",
+      "score": 33,
+      "nodes": [
+        {
+          "id": "inst-1793953074249-0-y7vrda",
+          "prototypeId": "proto-1793953074249-0-minkia",
+          "name": "Up Quark"
+        },
+        {
+          "id": "inst-1793953074249-1-zi20oa",
+          "prototypeId": "proto-1793953074249-1-zq8fy3",
+          "name": "Down Quark"
+        },
+        {
+          "id": "inst-1793953074249-2-nhdahc",
+          "prototypeId": "proto-1793953074249-2-5xb42w",
+          "name": "Gluon"
+        }
+      ],
+      "edges": [
+        {
+          "id": "ca005fe9-735d-4777-aa2f-d7d40cddb43d",
+          "from": "inst-1793953074249-2-nhdahc",
+          "to": "inst-1793953074249-0-y7vrda",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Gluon",
+          "targetLabel": "Up Quark"
+        },
+        {
+          "id": "7088c405-ab45-401c-81df-cd94345dd016",
+          "from": "inst-1793953074249-2-nhdahc",
+          "to": "inst-1793953074249-1-zi20oa",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Gluon",
+          "targetLabel": "Down Quark"
+        }
+      ],
+      "text": "Graph: Proton (graph-1793953074165-di0vgz)\nNodes (3 total):\n- Up Quark [inst-1793953074249-0-y7vrda]\n- Down Quark [inst-1793953074249-1-zi20oa]\n- Gluon [inst-1793953074249-2-nhdahc]\n\nEdges (2 total):\n- Gluon → Up Quark (base-connection-prototype)\n- Gluon → Down Quark (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953080220-ao0200": {
+      "id": "graph-1793953080220-ao0200",
+      "name": "Carbon",
+      "description": "The element at the center of organic chemistry: six protons and six neutrons in the nucleus, with six electrons around it.",
+      "nodeCount": 3,
+      "edgeCount": 3,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 46,
+      "nodes": [
+        {
+          "id": "inst-1793953080347-0-blyuqf",
+          "prototypeId": "proto-1793953080347-0-yregyr",
+          "name": "Neutron"
+        },
+        {
+          "id": "inst-1793953080347-1-dk3y6x",
+          "prototypeId": "proto-1793953080347-1-cxu6sm",
+          "name": "Electron"
+        },
+        {
+          "id": "inst-shell-1793953080348-e7cow1",
+          "prototypeId": "3afa70b4-28c4-4f6e-b489-f7b445c0b9df",
+          "name": "Proton"
+        }
+      ],
+      "edges": [
+        {
+          "id": "bc483bff-aa5f-4a6c-9ae2-8e932b34cb1c",
+          "from": "inst-1793953080347-1-dk3y6x",
+          "to": "inst-1793953080347-0-blyuqf",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Electron",
+          "targetLabel": "Neutron"
+        },
+        {
+          "id": "b4e7b851-7e55-459f-83e3-5d7d6e28514b",
+          "from": "inst-shell-1793953080348-e7cow1",
+          "to": "inst-1793953080347-0-blyuqf",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Proton",
+          "targetLabel": "Neutron"
+        },
+        {
+          "id": "67d18c33-7f3c-4077-9fb7-11cfa4ab516d",
+          "from": "inst-1793953080347-1-dk3y6x",
+          "to": "inst-shell-1793953080348-e7cow1",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Electron",
+          "targetLabel": "Proton"
+        }
+      ],
+      "text": "Graph: Carbon (graph-1793953080220-ao0200)\nNodes (3 total):\n- Neutron [inst-1793953080347-0-blyuqf]\n- Electron [inst-1793953080347-1-dk3y6x]\n- Proton [inst-shell-1793953080348-e7cow1]\n\nEdges (3 total):\n- Electron → Neutron (base-connection-prototype)\n- Proton → Neutron (base-connection-prototype)\n- Electron → Proton (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953085765-25lgy7": {
+      "id": "graph-1793953085765-25lgy7",
+      "name": "Methyl Group",
+      "description": "One carbon atom carrying three hydrogens (CH3). Caffeine has three of them, which is what separates it from the xanthine your body makes.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953085988-0-m1e0tb",
+          "prototypeId": "proto-1793953085988-0-lpz44z",
+          "name": "Hydrogen"
+        },
+        {
+          "id": "inst-shell-1793953085989-5p1gz7",
+          "prototypeId": "48fa8f33-fcc4-48d3-9e35-6cae7927c342",
+          "name": "Carbon"
+        }
+      ],
+      "edges": [
+        {
+          "id": "6663b5fe-75a4-4612-915b-08abfc795c13",
+          "from": "inst-1793953085988-0-m1e0tb",
+          "to": "inst-shell-1793953085989-5p1gz7",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Hydrogen",
+          "targetLabel": "Carbon"
+        }
+      ],
+      "text": "Graph: Methyl Group (graph-1793953085765-25lgy7)\nNodes (2 total):\n- Hydrogen [inst-1793953085988-0-m1e0tb]\n- Carbon [inst-shell-1793953085989-5p1gz7]\n\nEdges (1 total):\n- Hydrogen → Carbon (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953091715-ghuufc": {
+      "id": "graph-1793953091715-ghuufc",
+      "name": "Caffeine",
+      "description": "A xanthine: the purine skeleton with three methyl groups and two carbonyl oxygens. It looks enough like adenine's purine that it fits the receptors adenosine is meant for.",
+      "nodeCount": 3,
+      "edgeCount": 2,
+      "density": 0.333,
+      "quality": "balanced",
+      "score": 33,
+      "nodes": [
+        {
+          "id": "inst-1793953092094-0-zym73k",
+          "prototypeId": "proto-1793953092094-0-b4y3yx",
+          "name": "Carbonyl Oxygens"
+        },
+        {
+          "id": "inst-shell-1793953092096-ulu3rp",
+          "prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+          "name": "Purine"
+        },
+        {
+          "id": "inst-shell-1793953092097-g3s0cf",
+          "prototypeId": "6ed8d3a5-32ae-4f4e-9319-aeacfe818437",
+          "name": "Methyl Group"
+        }
+      ],
+      "edges": [
+        {
+          "id": "45301d8e-d50d-44d0-8ba7-8b1ca73a0199",
+          "from": "inst-shell-1793953092097-g3s0cf",
+          "to": "inst-shell-1793953092096-ulu3rp",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Methyl Group",
+          "targetLabel": "Purine"
+        },
+        {
+          "id": "4bf8e117-038a-4d53-921c-dd0525bc8c2e",
+          "from": "inst-1793953092094-0-zym73k",
+          "to": "inst-shell-1793953092096-ulu3rp",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Carbonyl Oxygens",
+          "targetLabel": "Purine"
+        }
+      ],
+      "text": "Graph: Caffeine (graph-1793953091715-ghuufc)\nNodes (3 total):\n- Carbonyl Oxygens [inst-1793953092094-0-zym73k]\n- Purine [inst-shell-1793953092096-ulu3rp]\n- Methyl Group [inst-shell-1793953092097-g3s0cf]\n\nEdges (2 total):\n- Methyl Group → Purine (base-connection-prototype)\n- Carbonyl Oxygens → Purine (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953100102-z90fpy": {
+      "id": "graph-1793953100102-z90fpy",
+      "name": "Brewed Coffee",
+      "description": "Hot water that has pulled soluble compounds out of ground roasted beans. The one that matters for waking up is caffeine.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953100226-0-zqkjqw",
+          "prototypeId": "proto-1793953100226-0-6fsffu",
+          "name": "Water"
+        },
+        {
+          "id": "inst-shell-1793953100228-us8717",
+          "prototypeId": "12b8f7e2-ac7b-4d0d-bbb4-b61223b01453",
+          "name": "Caffeine"
+        }
+      ],
+      "edges": [
+        {
+          "id": "e5600af6-0cfb-4359-932d-047d0af5a86e",
+          "from": "inst-1793953100226-0-zqkjqw",
+          "to": "inst-shell-1793953100228-us8717",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Water",
+          "targetLabel": "Caffeine"
+        }
+      ],
+      "text": "Graph: Brewed Coffee (graph-1793953100102-z90fpy)\nNodes (2 total):\n- Water [inst-1793953100226-0-zqkjqw]\n- Caffeine [inst-shell-1793953100228-us8717]\n\nEdges (1 total):\n- Water → Caffeine (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953100622-owtjo6": {
+      "id": "graph-1793953100622-owtjo6",
+      "name": "Binding Pocket",
+      "description": "The cavity in the adenosine A1 receptor shaped to hold a purine. Adenosine fits it and tells the neuron to slow down; caffeine fits it and says nothing.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953100783-0-lbqs3j",
+          "prototypeId": "proto-1793953100783-0-uxshrk",
+          "name": "Pocket Residues"
+        },
+        {
+          "id": "inst-shell-1793953100785-qc0n6f",
+          "prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+          "name": "Purine"
+        }
+      ],
+      "edges": [
+        {
+          "id": "7152004c-a6d6-4472-ab9b-70989481d937",
+          "from": "inst-1793953100783-0-lbqs3j",
+          "to": "inst-shell-1793953100785-qc0n6f",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Pocket Residues",
+          "targetLabel": "Purine"
+        }
+      ],
+      "text": "Graph: Binding Pocket (graph-1793953100622-owtjo6)\nNodes (2 total):\n- Pocket Residues [inst-1793953100783-0-lbqs3j]\n- Purine [inst-shell-1793953100785-qc0n6f]\n\nEdges (1 total):\n- Pocket Residues → Purine (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953112409-h7chtx": {
+      "id": "graph-1793953112409-h7chtx",
+      "name": "Cup of Coffee",
+      "description": "A ceramic cup holding brewed coffee. Open the coffee and keep going down.",
+      "nodeCount": 3,
+      "edgeCount": 3,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 46,
+      "nodes": [
+        {
+          "id": "inst-1793953112459-0-3dtzk6",
+          "prototypeId": "proto-1793953112459-0-mzcww7",
+          "name": "Ceramic Vessel"
+        },
+        {
+          "id": "inst-1793953112459-1-eufu56",
+          "prototypeId": "proto-1793953112459-1-e6wonj",
+          "name": "Heat"
+        },
+        {
+          "id": "inst-shell-1793953112461-q27k4t",
+          "prototypeId": "991ce1f3-97e4-495d-8ca1-e0a70162c481",
+          "name": "Brewed Coffee"
+        }
+      ],
+      "edges": [
+        {
+          "id": "320e78fb-76f3-4c56-bc05-faafe67c72a2",
+          "from": "inst-1793953112459-1-eufu56",
+          "to": "inst-1793953112459-0-3dtzk6",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Heat",
+          "targetLabel": "Ceramic Vessel"
+        },
+        {
+          "id": "a3dc9191-bccf-4030-8d9a-414febf4bafa",
+          "from": "inst-1793953112459-0-3dtzk6",
+          "to": "inst-shell-1793953112461-q27k4t",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Ceramic Vessel",
+          "targetLabel": "Brewed Coffee"
+        },
+        {
+          "id": "0934bce7-2bee-4fac-ab67-6ff3f77759e0",
+          "from": "inst-shell-1793953112461-q27k4t",
+          "to": "inst-1793953112459-1-eufu56",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Brewed Coffee",
+          "targetLabel": "Heat"
+        }
+      ],
+      "text": "Graph: Cup of Coffee (graph-1793953112409-h7chtx)\nNodes (3 total):\n- Ceramic Vessel [inst-1793953112459-0-3dtzk6]\n- Heat [inst-1793953112459-1-eufu56]\n- Brewed Coffee [inst-shell-1793953112461-q27k4t]\n\nEdges (3 total):\n- Heat → Ceramic Vessel (base-connection-prototype)\n- Ceramic Vessel → Brewed Coffee (base-connection-prototype)\n- Brewed Coffee → Heat (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953112804-1ecu7t": {
+      "id": "graph-1793953112804-1ecu7t",
+      "name": "Adenosine A1 Receptor",
+      "description": "A receptor protein on neurons. When adenosine sits in its binding pocket, the neuron slows down. This is the receptor caffeine blocks.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953113030-0-l81uhy",
+          "prototypeId": "proto-1793953113030-0-7x1g0l",
+          "name": "Transmembrane Helices"
+        },
+        {
+          "id": "inst-shell-1793953113032-dvo46x",
+          "prototypeId": "36f766ec-e2c3-48d3-9d1a-0795581aa6e4",
+          "name": "Binding Pocket"
+        }
+      ],
+      "edges": [
+        {
+          "id": "8c0f9956-6d2e-47e2-8b51-012db269ee19",
+          "from": "inst-1793953113030-0-l81uhy",
+          "to": "inst-shell-1793953113032-dvo46x",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Transmembrane Helices",
+          "targetLabel": "Binding Pocket"
+        }
+      ],
+      "text": "Graph: Adenosine A1 Receptor (graph-1793953112804-1ecu7t)\nNodes (2 total):\n- Transmembrane Helices [inst-1793953113030-0-l81uhy]\n- Binding Pocket [inst-shell-1793953113032-dvo46x]\n\nEdges (1 total):\n- Transmembrane Helices → Binding Pocket (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953113546-pomwot": {
+      "id": "graph-1793953113546-pomwot",
+      "name": "DNA",
+      "description": "The molecule that stores a cell's genes. Adenine is one of its four bases, so the same purine skeleton is written into the genome.",
+      "nodeCount": 3,
+      "edgeCount": 3,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 46,
+      "nodes": [
+        {
+          "id": "inst-1793953113580-0-40su44",
+          "prototypeId": "proto-1793953113580-0-2lj4z8",
+          "name": "Other Bases"
+        },
+        {
+          "id": "inst-1793953113580-1-10n49p",
+          "prototypeId": "proto-1793953113580-1-kqce39",
+          "name": "Sugar-Phosphate Backbone"
+        },
+        {
+          "id": "inst-shell-1793953113581-t6gwki",
+          "prototypeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+          "name": "Adenine"
+        }
+      ],
+      "edges": [
+        {
+          "id": "4cd5fd34-d651-4a88-8feb-27e86115ec5f",
+          "from": "inst-1793953113580-1-10n49p",
+          "to": "inst-1793953113580-0-40su44",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Sugar-Phosphate Backbone",
+          "targetLabel": "Other Bases"
+        },
+        {
+          "id": "02294dc0-5cde-437e-9b2e-88c172dbc0ea",
+          "from": "inst-1793953113580-1-10n49p",
+          "to": "inst-shell-1793953113581-t6gwki",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Sugar-Phosphate Backbone",
+          "targetLabel": "Adenine"
+        },
+        {
+          "id": "383a5d47-3106-403d-8569-88b52788b9d7",
+          "from": "inst-shell-1793953113581-t6gwki",
+          "to": "inst-1793953113580-0-40su44",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Adenine",
+          "targetLabel": "Other Bases"
+        }
+      ],
+      "text": "Graph: DNA (graph-1793953113546-pomwot)\nNodes (3 total):\n- Other Bases [inst-1793953113580-0-40su44]\n- Sugar-Phosphate Backbone [inst-1793953113580-1-10n49p]\n- Adenine [inst-shell-1793953113581-t6gwki]\n\nEdges (3 total):\n- Sugar-Phosphate Backbone → Other Bases (base-connection-prototype)\n- Sugar-Phosphate Backbone → Adenine (base-connection-prototype)\n- Adenine → Other Bases (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953122173-awypmv": {
+      "id": "graph-1793953122173-awypmv",
+      "name": "Synapse",
+      "description": "The gap between neurons. Adenosine from spent ATP piles up here over the day and binds A1 receptors, telling the neuron to slow down.",
+      "nodeCount": 3,
+      "edgeCount": 3,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 46,
+      "nodes": [
+        {
+          "id": "inst-1793953122187-0-nr7lmm",
+          "prototypeId": "proto-1793953122187-0-4slmrn",
+          "name": "Synaptic Cleft"
+        },
+        {
+          "id": "inst-shell-1793953122189-z12n5n",
+          "prototypeId": "b6201c79-33d0-4e28-93e3-28aaa1f1400e",
+          "name": "Adenosine"
+        },
+        {
+          "id": "inst-shell-1793953122190-oa6wkn",
+          "prototypeId": "4c055870-6a43-4e81-a537-e75a3c608b82",
+          "name": "Adenosine A1 Receptor"
+        }
+      ],
+      "edges": [
+        {
+          "id": "c6afb395-b88c-4684-b6ab-bc8c16efcf5d",
+          "from": "inst-shell-1793953122189-z12n5n",
+          "to": "inst-1793953122187-0-nr7lmm",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Adenosine",
+          "targetLabel": "Synaptic Cleft"
+        },
+        {
+          "id": "55cdd35a-917a-4716-9fc6-dc8d627c1bb0",
+          "from": "inst-shell-1793953122189-z12n5n",
+          "to": "inst-shell-1793953122190-oa6wkn",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Adenosine",
+          "targetLabel": "Adenosine A1 Receptor"
+        },
+        {
+          "id": "61ac5980-b4f2-41f9-916f-9ead06c19ce9",
+          "from": "inst-shell-1793953122190-oa6wkn",
+          "to": "inst-1793953122187-0-nr7lmm",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Adenosine A1 Receptor",
+          "targetLabel": "Synaptic Cleft"
+        }
+      ],
+      "text": "Graph: Synapse (graph-1793953122173-awypmv)\nNodes (3 total):\n- Synaptic Cleft [inst-1793953122187-0-nr7lmm]\n- Adenosine [inst-shell-1793953122189-z12n5n]\n- Adenosine A1 Receptor [inst-shell-1793953122190-oa6wkn]\n\nEdges (3 total):\n- Adenosine → Synaptic Cleft (base-connection-prototype)\n- Adenosine → Adenosine A1 Receptor (base-connection-prototype)\n- Adenosine A1 Receptor → Synaptic Cleft (base-connection-prototype)",
+      "computedAt": 1793953128433
+    },
+    "graph-1793953122668-pvh377": {
+      "id": "graph-1793953122668-pvh377",
+      "name": "Cell Nucleus",
+      "description": "The compartment that holds a cell's DNA. Inside a neuron it keeps the genes, and with them a copy of the purine skeleton written in adenine.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953122739-0-8g0zd9",
+          "prototypeId": "proto-1793953122739-0-fmngau",
+          "name": "Nuclear Envelope"
+        },
+        {
+          "id": "inst-shell-1793953122740-ppa1jg",
+          "prototypeId": "4508f783-7852-4317-94ff-d61214a7889a",
+          "name": "DNA"
+        }
+      ],
+      "edges": [
+        {
+          "id": "5b5c6210-cd32-4395-b7e0-5e59e66dfaaa",
+          "from": "inst-1793953122739-0-8g0zd9",
+          "to": "inst-shell-1793953122740-ppa1jg",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Nuclear Envelope",
+          "targetLabel": "DNA"
+        }
+      ],
+      "text": "Graph: Cell Nucleus (graph-1793953122668-pvh377)\nNodes (2 total):\n- Nuclear Envelope [inst-1793953122739-0-8g0zd9]\n- DNA [inst-shell-1793953122740-ppa1jg]\n\nEdges (1 total):\n- Nuclear Envelope → DNA (base-connection-prototype)",
+      "computedAt": 1793953128433
     }
   },
   "edgePrototypes": {
