@@ -250,10 +250,10 @@
   "metadata": {
     "version": "4.1.0",
     "created": "2026-11-06T08:15:33.550Z",
-    "modified": "2026-11-06T08:15:41.903Z",
+    "modified": "2026-11-06T08:17:41.904Z",
     "universeSlug": "redstring-demo-repositories",
-    "title": "New Thing",
-    "description": "",
+    "title": "Adenine",
+    "description": "A purine base: the purine skeleton carrying an amine group. One of the four letters of DNA and the base inside ATP and adenosine.",
     "domain": null,
     "userURIs": null,
     "semanticWebCompliant": true,
@@ -321,7 +321,403 @@
         "redstring:createdAt": "2026-11-06T08:15:35.327Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-06T08:15:41.903Z"
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "b6b80e75-4889-4fc2-8367-f847894a799b": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:b6b80e75-4889-4fc2-8367-f847894a799b",
+        "rdfs:label": "Purine",
+        "rdfs:comment": "The two-ring nitrogen skeleton shared by adenine, caffeine's xanthine core, and uric acid. The punchline of the demo: the same part sits in your DNA, your energy supply, your tiredness and your coffee.",
+        "skos:prefLabel": "Purine",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Purine",
+        "description": "The two-ring nitrogen skeleton shared by adenine, caffeine's xanthine core, and uric acid. The punchline of the demo: the same part sits in your DNA, your energy supply, your tiredness and your coffee.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Purine",
+          "http://dbpedia.org/resource/Purine"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953049884-27a4z8"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:30.413Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "b6b80e75-4889-4fc2-8367-f847894a799b",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Purine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:31.526Z"
+            },
+            "http://dbpedia.org/resource/Purine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:31.526Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Purine"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/Purine"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953050415-0-4s4x1a": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953050415-0-4s4x1a",
+        "rdfs:label": "Pyrimidine Ring",
+        "rdfs:comment": "Six-membered aromatic ring with two nitrogens.",
+        "skos:prefLabel": "Pyrimidine Ring",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Pyrimidine Ring",
+        "description": "Six-membered aromatic ring with two nitrogens.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:30.416Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953050415-0-4s4x1a",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953050415-1-nuqknr": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953050415-1-nuqknr",
+        "rdfs:label": "Imidazole Ring",
+        "rdfs:comment": "Five-membered aromatic ring with two nitrogens, fused to the pyrimidine ring.",
+        "skos:prefLabel": "Imidazole Ring",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Imidazole Ring",
+        "description": "Five-membered aromatic ring with two nitrogens, fused to the pyrimidine ring.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:30.416Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953050415-1-nuqknr",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953050417-0-my1xqv": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953050417-0-my1xqv",
+        "rdfs:label": "Fused To",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Fused To",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Fused To",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#0B2D72"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:30.417Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "bd15022e-8341-47a1-9800-fe4dcd0e2847": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:uuid:bd15022e-8341-47a1-9800-fe4dcd0e2847",
+        "rdfs:label": "Adenine",
+        "rdfs:comment": "A purine base: the purine skeleton carrying an amine group. One of the four letters of DNA and the base inside ATP and adenosine.",
+        "skos:prefLabel": "Adenine",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Adenine",
+        "description": "A purine base: the purine skeleton carrying an amine group. One of the four letters of DNA and the base inside ATP and adenosine.",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Adenine",
+          "http://dbpedia.org/resource/Adenine"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [
+          "graph-1793953054996-sg955c"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:35.464Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": {
+          "linkConfirmations": {
+            "https://en.wikipedia.org/wiki/Adenine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:37.895Z"
+            },
+            "http://dbpedia.org/resource/Adenine": {
+              "state": "auto",
+              "by": "auto",
+              "at": "2026-11-06T08:17:37.895Z"
+            }
+          }
+        },
+        "skos:closeMatch": [
+          {
+            "@id": "https://en.wikipedia.org/wiki/Adenine"
+          },
+          {
+            "@id": "http://dbpedia.org/resource/Adenine"
+          }
+        ],
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1793953055465-0-g9t25z": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1793953055465-0-g9t25z",
+        "rdfs:label": "Amine Group",
+        "rdfs:comment": "An NH2 group attached to the purine skeleton.",
+        "skos:prefLabel": "Amine Group",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Amine Group",
+        "description": "An NH2 group attached to the purine skeleton.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#a7cedd"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:35.465Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1793953055465-0-g9t25z",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-conn-1793953055466-0-stj1hl": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1793953055466-0-stj1hl",
+        "rdfs:label": "Attached To",
+        "rdfs:comment": "",
+        "skos:prefLabel": "Attached To",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Attached To",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#1b70b5"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-06T08:17:35.466Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-06T08:17:41.904Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -334,7 +730,186 @@
     "@id": "urn:redstring:space:graphs",
     "rdfs:label": "Redstring Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
-    "graphs": {}
+    "graphs": {
+      "graph-1793953049884-27a4z8": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953049884-27a4z8",
+        "rdfs:label": "Purine",
+        "rdfs:comment": "The two-ring nitrogen skeleton shared by adenine, caffeine's xanthine core, and uric acid. The punchline of the demo: the same part sits in your DNA, your energy supply, your tiredness and your coffee.",
+        "redstring:definingNodeIds": [
+          "b6b80e75-4889-4fc2-8367-f847894a799b"
+        ],
+        "redstring:edgeIds": [
+          "a338af51-3f3d-4415-97a5-0e61b0f972e9"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#0B2D72",
+        "redstring:panOffset": {
+          "x": -45458.43567819045,
+          "y": -46062.64731205637
+        },
+        "redstring:zoomLevel": 0.9283332796496179,
+        "redstring:instances": {
+          "inst-1793953050415-0-p80x12": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953050415-0-p80x12",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953050415-0-4s4x1a"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953049884-27a4z8"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 542,
+              "redstring:yCoordinate": 0,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953050415-0-4s4x1a",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1793953050415-1-4a52n5": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953050415-1-4a52n5",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953050415-1-nuqknr"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953049884-27a4z8"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -541,
+              "redstring:yCoordinate": 0,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1793953050415-1-nuqknr",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "a338af51-3f3d-4415-97a5-0e61b0f972e9": {
+            "id": "a338af51-3f3d-4415-97a5-0e61b0f972e9",
+            "sourceId": "inst-1793953050415-1-4a52n5",
+            "destinationId": "inst-1793953050415-0-p80x12",
+            "name": "Fused To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953050417-0-my1xqv"
+            ],
+            "directionality": {
+              "arrowsToward": []
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953050415-1-nuqknr",
+            "destinationPrototypeId": "proto-1793953050415-0-4s4x1a",
+            "predicatePrototypeId": null
+          }
+        }
+      },
+      "graph-1793953054996-sg955c": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-1793953054996-sg955c",
+        "rdfs:label": "Adenine",
+        "rdfs:comment": "A purine base: the purine skeleton carrying an amine group. One of the four letters of DNA and the base inside ATP and adenosine.",
+        "redstring:definingNodeIds": [
+          "bd15022e-8341-47a1-9800-fe4dcd0e2847"
+        ],
+        "redstring:edgeIds": [
+          "5944f07c-7f95-4b78-bee7-e083ffa1ba50"
+        ],
+        "redstring:directed": false,
+        "redstring:color": "#1b70b5",
+        "redstring:panOffset": {
+          "x": -48945.13547515869,
+          "y": -49642
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1793953055465-0-yekkgs": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1793953055465-0-yekkgs",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1793953055465-0-g9t25z"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953054996-sg955c"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -525,
+              "redstring:yCoordinate": 9,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1793953055465-0-g9t25z",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-shell-1793953055466-8kvg68": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-shell-1793953055466-8kvg68",
+            "rdf:type": {
+              "@id": "urn:uuid:b6b80e75-4889-4fc2-8367-f847894a799b"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-1793953054996-sg955c"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 526,
+              "redstring:yCoordinate": -9,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
+        },
+        "redstring:edges": {
+          "5944f07c-7f95-4b78-bee7-e083ffa1ba50": {
+            "id": "5944f07c-7f95-4b78-bee7-e083ffa1ba50",
+            "sourceId": "inst-1793953055465-0-yekkgs",
+            "destinationId": "inst-shell-1793953055466-8kvg68",
+            "name": "Attached To",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1793953055466-0-stj1hl"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-shell-1793953055466-8kvg68"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1793953055465-0-g9t25z",
+            "destinationPrototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+            "predicatePrototypeId": null
+          }
+        }
+      }
+    }
   },
   "globalSpatialContext": {
     "@type": "redstring:SpatialContext",
@@ -350,10 +925,16 @@
   },
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
-    "redstring:openGraphIds": [],
-    "redstring:activeGraphId": null,
-    "redstring:activeDefinitionNodeId": null,
-    "redstring:expandedGraphIds": [],
+    "redstring:openGraphIds": [
+      "graph-1793953049884-27a4z8",
+      "graph-1793953054996-sg955c"
+    ],
+    "redstring:activeGraphId": "graph-1793953054996-sg955c",
+    "redstring:activeDefinitionNodeId": "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+    "redstring:expandedGraphIds": [
+      "graph-1793953049884-27a4z8",
+      "graph-1793953054996-sg955c"
+    ],
     "redstring:rightPanelTabs": [
       {
         "type": "home",
@@ -361,7 +942,14 @@
       }
     ],
     "redstring:savedNodeIds": [
-      "base-thing-prototype"
+      "base-thing-prototype",
+      "b6b80e75-4889-4fc2-8367-f847894a799b",
+      "proto-1793953050415-0-4s4x1a",
+      "proto-1793953050415-1-nuqknr",
+      "proto-conn-1793953050417-0-my1xqv",
+      "bd15022e-8341-47a1-9800-fe4dcd0e2847",
+      "proto-1793953055465-0-g9t25z",
+      "proto-conn-1793953055466-0-stj1hl"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true,
@@ -369,8 +957,142 @@
     "redstring:wizardGoalsByConversation": {},
     "redstring:mergeDismissals": {}
   },
-  "graphLayouts": {},
-  "graphSummaries": {},
+  "graphLayouts": {
+    "graph-1793953049884-27a4z8": {
+      "nodes": {
+        "inst-1793953050415-0-p80x12": {
+          "x": 542,
+          "y": 0,
+          "scale": 1,
+          "prototypeId": "proto-1793953050415-0-4s4x1a"
+        },
+        "inst-1793953050415-1-4a52n5": {
+          "x": -541,
+          "y": 0,
+          "scale": 1,
+          "prototypeId": "proto-1793953050415-1-nuqknr"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -541,
+          "minY": 0,
+          "maxX": 542,
+          "maxY": 0
+        },
+        "centroid": {
+          "x": 0.5,
+          "y": 0
+        },
+        "computedAt": 1793953061904,
+        "truncated": false
+      }
+    },
+    "graph-1793953054996-sg955c": {
+      "nodes": {
+        "inst-1793953055465-0-yekkgs": {
+          "x": -525,
+          "y": 9,
+          "scale": 1,
+          "prototypeId": "proto-1793953055465-0-g9t25z"
+        },
+        "inst-shell-1793953055466-8kvg68": {
+          "x": 526,
+          "y": -9,
+          "scale": 1,
+          "prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b"
+        }
+      },
+      "metadata": {
+        "nodeCount": 2,
+        "edgeCount": 1,
+        "boundingBox": {
+          "minX": -525,
+          "minY": -9,
+          "maxX": 526,
+          "maxY": 9
+        },
+        "centroid": {
+          "x": 0.5,
+          "y": 0
+        },
+        "computedAt": 1793953061904,
+        "truncated": false
+      }
+    }
+  },
+  "graphSummaries": {
+    "graph-1793953049884-27a4z8": {
+      "id": "graph-1793953049884-27a4z8",
+      "name": "Purine",
+      "description": "The two-ring nitrogen skeleton shared by adenine, caffeine's xanthine core, and uric acid. The punchline of the demo: the same part sits in your DNA, your energy supply, your tiredness and your coffee.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953050415-0-p80x12",
+          "prototypeId": "proto-1793953050415-0-4s4x1a",
+          "name": "Pyrimidine Ring"
+        },
+        {
+          "id": "inst-1793953050415-1-4a52n5",
+          "prototypeId": "proto-1793953050415-1-nuqknr",
+          "name": "Imidazole Ring"
+        }
+      ],
+      "edges": [
+        {
+          "id": "a338af51-3f3d-4415-97a5-0e61b0f972e9",
+          "from": "inst-1793953050415-1-4a52n5",
+          "to": "inst-1793953050415-0-p80x12",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Imidazole Ring",
+          "targetLabel": "Pyrimidine Ring"
+        }
+      ],
+      "text": "Graph: Purine (graph-1793953049884-27a4z8)\nNodes (2 total):\n- Pyrimidine Ring [inst-1793953050415-0-p80x12]\n- Imidazole Ring [inst-1793953050415-1-4a52n5]\n\nEdges (1 total):\n- Imidazole Ring → Pyrimidine Ring (base-connection-prototype)",
+      "computedAt": 1793953061904
+    },
+    "graph-1793953054996-sg955c": {
+      "id": "graph-1793953054996-sg955c",
+      "name": "Adenine",
+      "description": "A purine base: the purine skeleton carrying an amine group. One of the four letters of DNA and the base inside ATP and adenosine.",
+      "nodeCount": 2,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
+      "nodes": [
+        {
+          "id": "inst-1793953055465-0-yekkgs",
+          "prototypeId": "proto-1793953055465-0-g9t25z",
+          "name": "Amine Group"
+        },
+        {
+          "id": "inst-shell-1793953055466-8kvg68",
+          "prototypeId": "b6b80e75-4889-4fc2-8367-f847894a799b",
+          "name": "Purine"
+        }
+      ],
+      "edges": [
+        {
+          "id": "5944f07c-7f95-4b78-bee7-e083ffa1ba50",
+          "from": "inst-1793953055465-0-yekkgs",
+          "to": "inst-shell-1793953055466-8kvg68",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Amine Group",
+          "targetLabel": "Purine"
+        }
+      ],
+      "text": "Graph: Adenine (graph-1793953054996-sg955c)\nNodes (2 total):\n- Amine Group [inst-1793953055465-0-yekkgs]\n- Purine [inst-shell-1793953055466-8kvg68]\n\nEdges (1 total):\n- Amine Group → Purine (base-connection-prototype)",
+      "computedAt": 1793953061904
+    }
+  },
   "edgePrototypes": {
     "base-connection-prototype": {
       "id": "base-connection-prototype",
