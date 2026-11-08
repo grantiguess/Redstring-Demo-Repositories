@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@vocab": "https://redstring.io/vocab/",
+    "redstring": "https://redstring.io/vocab/",
+    "Graph": "redstring:Graph",
+    "Node": "redstring:Node",
+    "Edge": "redstring:Edge",
+    "SpatialContext": "redstring:SpatialContext",
+    "CognitiveSpace": "redstring:CognitiveSpace",
+    "SemanticType": "redstring:SemanticType",
+    "Prototype": "redstring:Prototype",
+    "Instance": "redstring:Instance",
+    "PrototypeSpace": "redstring:PrototypeSpace",
+    "SpatialGraph": "redstring:SpatialGraph",
+    "SpatialGraphCollection": "redstring:SpatialGraphCollection",
+    "defines": "redstring:defines",
+    "definedBy": "redstring:definedBy",
+    "expandsTo": "redstring:expandsTo",
+    "contractsFrom": "redstring:contractsFrom",
+    "contextualDefinition": "redstring:contextualDefinition",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "color": "http://schema.org/color",
+    "image": "http://schema.org/image",
+    "thumbnail": "http://schema.org/thumbnail",
+    "contains": "http://purl.org/dc/terms/hasPart",
+    "partOf": "http://purl.org/dc/terms/isPartOf",
+    "composedOf": "http://purl.org/vocab/frbr/core#embodiment",
+    "composes": "http://purl.org/vocab/frbr/core#embodimentOf",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "Class": "rdfs:Class",
+    "subClassOf": {
+      "@id": "rdfs:subClassOf",
+      "@type": "@id"
+    },
+    "subPropertyOf": {
+      "@id": "rdfs:subPropertyOf",
+      "@type": "@id"
+    },
+    "domain": {
+      "@id": "rdfs:domain",
+      "@type": "@id"
+    },
+    "range": {
+      "@id": "rdfs:range",
+      "@type": "@id"
+    },
+    "label": "rdfs:label",
+    "comment": "rdfs:comment",
+    "seeAlso": {
+      "@id": "rdfs:seeAlso",
+      "@type": "@id"
+    },
+    "isDefinedBy": {
+      "@id": "rdfs:isDefinedBy",
+      "@type": "@id"
+    },
+    "Resource": "rdfs:Resource",
+    "Literal": "rdfs:Literal",
+    "Datatype": "rdfs:Datatype",
+    "Container": "rdfs:Container",
+    "member": {
+      "@id": "rdfs:member",
+      "@type": "@id"
+    },
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "type": {
+      "@id": "rdf:type",
+      "@type": "@id"
+    },
+    "Property": "rdf:Property",
+    "Statement": "rdf:Statement",
+    "subject": {
+      "@id": "rdf:subject",
+      "@type": "@id"
+    },
+    "predicate": {
+      "@id": "rdf:predicate",
+      "@type": "@id"
+    },
+    "object": {
+      "@id": "rdf:object",
+      "@type": "@id"
+    },
+    "value": "rdf:value",
+    "first": {
+      "@id": "rdf:first",
+      "@type": "@id"
+    },
+    "rest": {
+      "@id": "rdf:rest",
+      "@type": "@id"
+    },
+    "nil": {
+      "@id": "rdf:nil",
+      "@type": "@id"
+    },
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "sameAs": {
+      "@id": "owl:sameAs",
+      "@type": "@id"
+    },
+    "equivalentProperty": {
+      "@id": "owl:equivalentProperty",
+      "@type": "@id"
+    },
+    "differentFrom": {
+      "@id": "owl:differentFrom",
+      "@type": "@id"
+    },
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "prov": "http://www.w3.org/ns/prov#",
+    "wd": "http://www.wikidata.org/entity/",
+    "wdt": "http://www.wikidata.org/prop/direct/",
+    "dbr": "http://dbpedia.org/resource/",
+    "dbo": "http://dbpedia.org/ontology/",
+    "schema": "http://schema.org/",
+    "doi": "https://doi.org/",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/",
+    "arxiv": "https://arxiv.org/abs/",
+    "orcid": "https://orcid.org/",
+    "researchgate": "https://www.researchgate.net/publication/",
+    "semanticscholar": "https://www.semanticscholar.org/paper/",
+    "cites": "http://purl.org/spar/cito/cites",
+    "citedBy": "http://purl.org/spar/cito/citedBy",
+    "isDocumentedBy": "http://purl.org/spar/cito/isDocumentedBy",
+    "documents": "http://purl.org/spar/cito/documents",
+    "author": "http://schema.org/author",
+    "datePublished": "http://schema.org/datePublished",
+    "publisher": "http://schema.org/publisher",
+    "journal": "http://schema.org/isPartOf",
+    "citation": "http://schema.org/citation",
+    "abstract": "http://schema.org/abstract",
+    "keywords": "http://schema.org/keywords",
+    "spatialContext": "redstring:spatialContext",
+    "xCoordinate": "redstring:xCoordinate",
+    "yCoordinate": "redstring:yCoordinate",
+    "spatialScale": "redstring:spatialScale",
+    "viewport": "redstring:viewport",
+    "canvasSize": "redstring:canvasSize",
+    "visualProperties": "redstring:visualProperties",
+    "cognitiveColor": "redstring:cognitiveColor",
+    "expanded": "redstring:expanded",
+    "visible": "redstring:visible",
+    "thumbnailSrc": "redstring:thumbnailSrc",
+    "imageSrc": "redstring:imageSrc",
+    "imageAspectRatio": "redstring:imageAspectRatio",
+    "hasDefinition": {
+      "@id": "redstring:hasDefinition",
+      "@type": "@id"
+    },
+    "definitionGraphIds": "redstring:definitionGraphIds",
+    "prototypeId": {
+      "@id": "redstring:prototypeId",
+      "@type": "@id"
+    },
+    "instanceOf": {
+      "@id": "redstring:instanceOf",
+      "@type": "@id"
+    },
+    "containedIn": {
+      "@id": "redstring:containedIn",
+      "@type": "@id"
+    },
+    "abstractionChains": "redstring:abstractionChains",
+    "abstractionDimensions": "redstring:abstractionDimensions",
+    "cognitiveProperties": "redstring:cognitiveProperties",
+    "bookmarked": "redstring:bookmarked",
+    "activeInContext": "redstring:activeInContext",
+    "currentDefinitionIndex": "redstring:currentDefinitionIndex",
+    "contextKey": "redstring:contextKey",
+    "personalMeaning": "redstring:personalMeaning",
+    "cognitiveAssociations": "redstring:cognitiveAssociations",
+    "lastViewed": "redstring:lastViewed",
+    "relationshipDirection": "redstring:relationshipDirection",
+    "relationshipStrength": "redstring:relationshipStrength",
+    "bidirectional": "redstring:bidirectional",
+    "arrowsToward": "redstring:arrowsToward",
+    "directionality": "redstring:directionality",
+    "bio": "redstring:bio",
+    "conjugation": "redstring:conjugation",
+    "externalLinks": "redstring:externalLinks",
+    "citations": "redstring:citations",
+    "typeNodeId": {
+      "@id": "redstring:typeNodeId",
+      "@type": "@id"
+    },
+    "version": "http://purl.org/dc/terms/hasVersion",
+    "pod": "https://www.w3.org/ns/solid/terms#pod",
+    "webId": "http://xmlns.com/foaf/0.1/webId",
+    "references": "redstring:references",
+    "linkedThinking": "redstring:linkedThinking",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "prototypes": {
+      "@id": "redstring:prototypes",
+      "@container": "@id"
+    },
+    "graphs": {
+      "@id": "redstring:graphs",
+      "@container": "@id"
+    },
+    "edges": {
+      "@id": "redstring:edges",
+      "@container": "@id"
+    },
+    "redstring:instances": {
+      "@id": "redstring:instances",
+      "@container": "@id"
+    },
+    "redstring:groups": {
+      "@id": "redstring:groups",
+      "@container": "@id"
+    },
+    "redstring:xCoordinate": {
+      "@id": "redstring:xCoordinate",
+      "@type": "xsd:decimal"
+    },
+    "redstring:yCoordinate": {
+      "@id": "redstring:yCoordinate",
+      "@type": "xsd:decimal"
+    },
+    "redstring:spatialScale": {
+      "@id": "redstring:spatialScale",
+      "@type": "xsd:decimal"
+    },
+    "redstring:lastViewed": {
+      "@id": "redstring:lastViewed",
+      "@type": "xsd:dateTime"
+    },
+    "created": {
+      "@id": "http://purl.org/dc/terms/created",
+      "@type": "xsd:dateTime"
+    },
+    "modified": {
+      "@id": "http://purl.org/dc/terms/modified",
+      "@type": "xsd:dateTime"
+    },
+    "graphLayouts": null,
+    "graphSummaries": null,
+    "userInterface": null,
+    "globalSpatialContext": null
+  },
+  "@id": "urn:redstring:scheme",
+  "@type": [
+    "redstring:CognitiveSpace",
+    "skos:ConceptScheme"
+  ],
+  "format": "redstring-v4.1.0",
+  "metadata": {
+    "version": "4.1.0",
+    "created": "2026-11-08T03:04:36.858Z",
+    "modified": "2026-11-08T03:04:36.858Z",
+    "title": "New Thing",
+    "description": "",
+    "domain": null,
+    "userURIs": null,
+    "semanticWebCompliant": true,
+    "rdfSchemaVersion": "1.1",
+    "owlVersion": "2.0",
+    "formatHistory": {
+      "date": "2026-07",
+      "changes": [
+        "Per-instance node size: new optional instance field redstring:sizeMultiplier (in visualProperties) drives visual node dimensions and label size, layered on top of the global node-size scope",
+        "Distinct from redstring:spatialScale, which remains the transient drag-lift register",
+        "Same v4 dataset shape as 4.0.0 — additive, optional field only, no structural change",
+        "Content-addressed images (additive, no version bump): optional top-level prototype fields redstring:imageRef (\"sha256:<hex>\") and redstring:imageRefExt point at a blob under universes/<folder>/images/, written by the git sync engine",
+        "Only the full-resolution redstring:imageSrc is externalized; redstring:thumbnailSrc stays inline so the canvas renders with no network and builds that ignore the ref still draw a correct graph",
+        "Inline base64 imageSrc remains fully valid on read — the two forms coexist indefinitely and locally-saved files stay single-file",
+        "The image fields sit at the prototype top level so quarantineUnknownFields banks them into _preserved for builds that predate them, instead of being silently dropped from a rebuilt visualProperties block",
+        "Definitions opened in place (additive, no version bump): optional instance field redstring:openDefinition { redstring:definitionIndex, redstring:xOffset, redstring:yOffset } shows that definition inside the node without copying it; optional edge fields sourceVia/destinationVia name the nodes, from the edge's own graph inward, through whose definitions an end is reached",
+        "Builds that predate them keep both in _preserved (top-level keys), show the node closed, and keep the connections into it; the prototype-level rdfStatements are unchanged",
+        "Formats (additive, no version bump): optional group field redstring:format (\"formula\") shows a group as its formula; optional top-level prototype field redstring:labels ({ formula: \"P\" }) is how a Thing is written in a context; the same field on an instance is how that one is written where it stands (q_1 for Electric Charge), over its Thing's. Builds that predate them show the Things and keep the labels in _preserved",
+        "Formats on nodes (additive, no version bump): optional instance fields redstring:format and redstring:linkedFormat carry a Thing-group's format onto its node while it is folded, so it opens the same way; per placement, not per Thing. Builds that predate them keep both in _preserved",
+        "Formula size (additive, no version bump): optional group field redstring:formulaSize (a multiplier, 1 when absent) is the size a group shown as its formula is drawn at; the same field on an instance carries it while its Thing-group is folded. Builds that predate it draw the formula at the default size",
+        "Formula size is its node's (2026-10-26, no version bump): an equation opened in place is drawn at its node's redstring:sizeMultiplier, and a Thing-group's redstring:formulaSize moves onto its node's size when it folds. Instances no longer write redstring:formulaSize; read, an open equation's becomes its node's size"
+      ],
+      "breaking": false
+    }
+  },
+  "prototypeSpace": {
+    "@type": "redstring:PrototypeSpace",
+    "@id": "urn:redstring:space:prototypes",
+    "rdfs:label": "Redstring Prototype Space",
+    "rdfs:comment": "Collection of semantic classes with spatial properties",
+    "prototypes": {}
+  },
+  "spatialGraphs": {
+    "@type": "redstring:SpatialGraphCollection",
+    "@id": "urn:redstring:space:graphs",
+    "rdfs:label": "Redstring Spatial Graphs",
+    "rdfs:comment": "Collection of positioned instances within spatial graphs",
+    "graphs": {}
+  },
+  "globalSpatialContext": {
+    "@type": "redstring:SpatialContext",
+    "redstring:viewport": {
+      "x": 0,
+      "y": 0,
+      "zoom": 1
+    },
+    "redstring:canvasSize": {
+      "width": 4000,
+      "height": 3000
+    }
+  },
+  "userInterface": {
+    "@type": "redstring:UserInterfaceState",
+    "redstring:openGraphIds": [],
+    "redstring:activeGraphId": null,
+    "redstring:activeDefinitionNodeId": null,
+    "redstring:expandedGraphIds": [],
+    "redstring:rightPanelTabs": [
+      {
+        "type": "home",
+        "isActive": true
+      }
+    ],
+    "redstring:savedNodeIds": [],
+    "redstring:savedGraphIds": [],
+    "redstring:showConnectionNames": true,
+    "redstring:wizardPlansByConversation": {},
+    "redstring:wizardGoalsByConversation": {},
+    "redstring:mergeDismissals": {}
+  },
+  "graphLayouts": {},
+  "graphSummaries": {},
+  "edgePrototypes": {}
+}
