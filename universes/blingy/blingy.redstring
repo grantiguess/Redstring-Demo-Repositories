@@ -250,7 +250,7 @@
   "metadata": {
     "version": "4.1.0",
     "created": "2026-05-26T02:23:57.213Z",
-    "modified": "2026-11-10T05:09:58.959Z",
+    "modified": "2026-11-10T05:10:16.957Z",
     "universeSlug": "blingy",
     "title": "Windhandel",
     "description": "",
@@ -320,7 +320,7 @@
         "redstring:createdAt": "2026-11-07T05:09:24.458Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -366,7 +366,7 @@
         "redstring:createdAt": "2026-11-07T05:09:31.014Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -442,7 +442,7 @@
         "redstring:createdAt": "2026-11-07T05:09:59.576Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -526,7 +526,7 @@
         "redstring:createdAt": "2026-11-08T02:45:56.812Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -597,7 +597,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.395Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -679,7 +679,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.396Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -730,7 +730,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.396Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -781,7 +781,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.397Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -832,7 +832,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.397Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -883,7 +883,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.397Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -934,7 +934,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.397Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -985,7 +985,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1038,7 +1038,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1094,7 +1094,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1149,7 +1149,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1206,7 +1206,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1284,7 +1284,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1370,7 +1370,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1425,7 +1425,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1474,13 +1474,15 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#c42f21"
         },
-        "redstring:definitionGraphIds": [],
+        "redstring:definitionGraphIds": [
+          "graph-def-1794287412080-6j3h"
+        ],
         "redstring:typeNodeId": "proto-auto-1794106832397-c238il",
         "redstring:citations": [],
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1541,7 +1543,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -1624,7 +1626,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1665,7 +1667,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1706,7 +1708,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1747,7 +1749,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1788,7 +1790,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1829,7 +1831,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.398Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1870,7 +1872,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.399Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1911,7 +1913,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.399Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1952,7 +1954,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.399Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -1993,7 +1995,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.399Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2034,7 +2036,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.399Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2075,7 +2077,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.399Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2116,7 +2118,7 @@
         "redstring:createdAt": "2026-11-08T03:00:32.399Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2158,7 +2160,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.429Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2210,7 +2212,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.429Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2262,7 +2264,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.429Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2318,7 +2320,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.430Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2399,7 +2401,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.430Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2451,7 +2453,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.430Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2505,7 +2507,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2560,7 +2562,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2615,7 +2617,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2670,7 +2672,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2725,7 +2727,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2780,7 +2782,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -2833,7 +2835,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2875,7 +2877,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2917,7 +2919,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -2959,7 +2961,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3001,7 +3003,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.433Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3043,7 +3045,7 @@
         "redstring:createdAt": "2026-11-10T05:08:58.434Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3085,7 +3087,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.688Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3137,7 +3139,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3189,7 +3191,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3241,7 +3243,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3293,7 +3295,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3345,7 +3347,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3399,7 +3401,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3454,7 +3456,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3509,7 +3511,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3564,7 +3566,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3619,7 +3621,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3674,7 +3676,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.689Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -3727,7 +3729,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.690Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3769,7 +3771,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.690Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3811,7 +3813,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.690Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3853,7 +3855,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.690Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3895,7 +3897,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.690Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3937,7 +3939,7 @@
         "redstring:createdAt": "2026-11-10T05:09:15.690Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -3979,7 +3981,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.804Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4031,7 +4033,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4083,7 +4085,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4135,7 +4137,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4187,7 +4189,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4239,7 +4241,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4293,7 +4295,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4348,7 +4350,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4403,7 +4405,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4458,7 +4460,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4513,7 +4515,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4568,7 +4570,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4621,7 +4623,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.805Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4663,7 +4665,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.806Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4705,7 +4707,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.806Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4747,7 +4749,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.806Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4789,7 +4791,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.806Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4831,7 +4833,7 @@
         "redstring:createdAt": "2026-11-10T05:09:33.806Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -4873,7 +4875,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.289Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4925,7 +4927,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.290Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -4977,7 +4979,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.290Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5029,7 +5031,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.290Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5081,7 +5083,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5135,7 +5137,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5190,7 +5192,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5245,7 +5247,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5300,7 +5302,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5355,7 +5357,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5410,7 +5412,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {
           "Generalization Axis": [
@@ -5463,7 +5465,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5505,7 +5507,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5547,7 +5549,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5589,7 +5591,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5631,7 +5633,7 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -5673,7 +5675,765 @@
         "redstring:createdAt": "2026-11-10T05:09:54.291Z",
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2026-11-10T05:09:58.955Z"
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-auto-1794287412081-t8bcts": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-auto-1794287412081-t8bcts",
+        "rdfs:label": "Crisisreactie",
+        "rdfs:comment": "Gedragsverandering van marktspelers",
+        "skos:prefLabel": "Crisisreactie",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Crisisreactie",
+        "description": "Gedragsverandering van marktspelers",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#c42f21"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.081Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-auto-1794287412081-t8bcts",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-auto-1794287412081-jj4gzx": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-auto-1794287412081-jj4gzx",
+        "rdfs:label": "Marktreactie",
+        "rdfs:comment": "Marktpaniek",
+        "skos:prefLabel": "Marktreactie",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Marktreactie",
+        "description": "Marktpaniek",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#c42f21"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.081Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-auto-1794287412081-jj4gzx",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-auto-1794287412081-iyh2wa": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-auto-1794287412081-iyh2wa",
+        "rdfs:label": "Juridisch Gevolg",
+        "rdfs:comment": "Niet-nakoming van verplichtingen",
+        "skos:prefLabel": "Juridisch Gevolg",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Juridisch Gevolg",
+        "description": "Niet-nakoming van verplichtingen",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.081Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-auto-1794287412081-iyh2wa",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-auto-1794287412082-wf9at4": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-auto-1794287412082-wf9at4",
+        "rdfs:label": "Economisch Effect",
+        "rdfs:comment": "Prijsimplosie",
+        "skos:prefLabel": "Economisch Effect",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Economisch Effect",
+        "description": "Prijsimplosie",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d66b00"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-auto-1794287412082-wf9at4",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-auto-1794287412082-wbfywt": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-auto-1794287412082-wbfywt",
+        "rdfs:label": "Oplossing",
+        "rdfs:comment": "Geschillenbeslechting",
+        "skos:prefLabel": "Oplossing",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Oplossing",
+        "description": "Geschillenbeslechting",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d1a728"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-auto-1794287412082-wbfywt",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:base-thing-prototype"
+          }
+        ]
+      },
+      "proto-1794287412082-0-1f0k9d": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1794287412082-0-1f0k9d",
+        "rdfs:label": "Haarlemse Veiling",
+        "rdfs:comment": "Bijeenkomst op 3 februari 1637 in een Haarlemse herberg waar plots geen enkel bod meer kwam.",
+        "skos:prefLabel": "Haarlemse Veiling",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Haarlemse Veiling",
+        "description": "Bijeenkomst op 3 februari 1637 in een Haarlemse herberg waar plots geen enkel bod meer kwam.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1794106832397-c238il"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1794106832397-c238il",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1794287412082-0-1f0k9d",
+            "proto-auto-1794106832397-c238il",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1794106832397-c238il"
+          }
+        ]
+      },
+      "proto-1794287412082-1-1d8yte": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1794287412082-1-1d8yte",
+        "rdfs:label": "Weigering van Kopers",
+        "rdfs:comment": "Het abrupte verschijnsel dat handelaren weigerden nog bollen tegen de torenhoge prijzen af te nemen.",
+        "skos:prefLabel": "Weigering van Kopers",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Weigering van Kopers",
+        "description": "Het abrupte verschijnsel dat handelaren weigerden nog bollen tegen de torenhoge prijzen af te nemen.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1794287412081-t8bcts"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d66b00"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1794287412081-t8bcts",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1794287412082-1-1d8yte",
+            "proto-auto-1794287412081-t8bcts",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1794287412081-t8bcts"
+          }
+        ]
+      },
+      "proto-1794287412082-2-v54v8u": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1794287412082-2-v54v8u",
+        "rdfs:label": "Paniekverkoop",
+        "rdfs:comment": "Halsstarrig en radeloos dumpen van bollencontracten tegen elke willekeurige prijs.",
+        "skos:prefLabel": "Paniekverkoop",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Paniekverkoop",
+        "description": "Halsstarrig en radeloos dumpen van bollencontracten tegen elke willekeurige prijs.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1794287412081-jj4gzx"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#c42f21"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1794287412081-jj4gzx",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1794287412082-2-v54v8u",
+            "proto-auto-1794287412081-jj4gzx",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1794287412081-jj4gzx"
+          }
+        ]
+      },
+      "proto-1794287412082-3-xea3cq": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1794287412082-3-xea3cq",
+        "rdfs:label": "Contractbreuk",
+        "rdfs:comment": "Het massaal schenden van aangegane termijncontracten door het ontbreken van onderpand.",
+        "skos:prefLabel": "Contractbreuk",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Contractbreuk",
+        "description": "Het massaal schenden van aangegane termijncontracten door het ontbreken van onderpand.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1794287412081-iyh2wa"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d1a728"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1794287412081-iyh2wa",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1794287412082-3-xea3cq",
+            "proto-auto-1794287412081-iyh2wa",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1794287412081-iyh2wa"
+          }
+        ]
+      },
+      "proto-1794287412082-4-m0meyq": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1794287412082-4-m0meyq",
+        "rdfs:label": "Waardedaling",
+        "rdfs:comment": "Het verdampen van de papieren vermogenswaarde met meer dan negentig procent binnen dagen.",
+        "skos:prefLabel": "Waardedaling",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Waardedaling",
+        "description": "Het verdampen van de papieren vermogenswaarde met meer dan negentig procent binnen dagen.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1794287412082-wf9at4"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1794287412082-wf9at4",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1794287412082-4-m0meyq",
+            "proto-auto-1794287412082-wf9at4",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1794287412082-wf9at4"
+          }
+        ]
+      },
+      "proto-1794287412082-5-5porgx": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-1794287412082-5-5porgx",
+        "rdfs:label": "Arbitragecommissie",
+        "rdfs:comment": "Lokale stedelijke colleges aangesteld om contracten tegen een fractie van de prijs te ontbinden.",
+        "skos:prefLabel": "Arbitragecommissie",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Arbitragecommissie",
+        "description": "Lokale stedelijke colleges aangesteld om contracten tegen een fractie van de prijs te ontbinden.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "urn:redstring:id:proto-auto-1794287412082-wbfywt"
+        },
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d66b00"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "proto-auto-1794287412082-wbfywt",
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {
+          "Generalization Axis": [
+            "proto-1794287412082-5-5porgx",
+            "proto-auto-1794287412082-wbfywt",
+            "base-thing-prototype"
+          ]
+        },
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null,
+        "skos:broader": [
+          {
+            "@id": "urn:redstring:id:proto-auto-1794287412082-wbfywt"
+          }
+        ]
+      },
+      "proto-conn-1794287412082-0-v0k5tc": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1794287412082-0-v0k5tc",
+        "rdfs:label": "Begint Met",
+        "rdfs:comment": "Het eerste openlijke signaal van crisis op de bijeenkomst",
+        "skos:prefLabel": "Begint Met",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Begint Met",
+        "description": "Het eerste openlijke signaal van crisis op de bijeenkomst",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1794287412082-1-2o7t94": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1794287412082-1-2o7t94",
+        "rdfs:label": "Ontketent",
+        "rdfs:comment": "Het plotseling overslaan van wantrouwen naar massale verkoopdrift",
+        "skos:prefLabel": "Ontketent",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Ontketent",
+        "description": "Het plotseling overslaan van wantrouwen naar massale verkoopdrift",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#c42f21"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.082Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1794287412083-4-tvccni": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1794287412083-4-tvccni",
+        "rdfs:label": "Dwingt Tot Oprichting Van",
+        "rdfs:comment": "Het noodgedwongen instellen van stedelijke commissies om geschillen te schikken",
+        "skos:prefLabel": "Dwingt Tot Oprichting Van",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Dwingt Tot Oprichting Van",
+        "description": "Het noodgedwongen instellen van stedelijke commissies om geschillen te schikken",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#4f2215"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.083Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
+        },
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null,
+        "redstring:semanticMetadata": null
+      },
+      "proto-conn-1794287412083-5-t1gyh7": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing",
+          "skos:Concept"
+        ],
+        "@id": "urn:redstring:id:proto-conn-1794287412083-5-t1gyh7",
+        "rdfs:label": "Poogt Afwikkeling Van",
+        "rdfs:comment": "Pogingen om de vastgelopen transacties van de noodlottige bijeenkomst af te wikkelen",
+        "skos:prefLabel": "Poogt Afwikkeling Van",
+        "skos:inScheme": {
+          "@id": "urn:redstring:scheme"
+        },
+        "name": "Poogt Afwikkeling Van",
+        "description": "Pogingen om de vastgelopen transacties van de noodlottige bijeenkomst af te wikkelen",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#d1a728"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:createdAt": "2026-11-10T05:10:12.083Z",
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2026-11-10T05:10:16.954Z"
         },
         "redstring:abstractionChains": {},
         "redstring:agentConfig": null,
@@ -7365,6 +8125,287 @@
             "predicatePrototypeId": null
           }
         }
+      },
+      "graph-def-1794287412080-6j3h": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "urn:redstring:id:graph-def-1794287412080-6j3h",
+        "rdfs:label": "Marktcrash van 1637",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "proto-1794106832398-7-ufk45s"
+        ],
+        "redstring:edgeIds": [
+          "d1d499f1-fa5f-4c9c-8546-2faf93b25313",
+          "a0c96de3-144e-4277-bc32-1a7fd4a33c7d",
+          "9cc1c186-6343-4049-85f3-d1f1c6a4f5e3",
+          "babd5c38-6cab-4899-b359-6acd06aa9f62",
+          "b4808a14-347d-4f4e-be9d-ffbb3e6c4998",
+          "8b4a226b-f6f0-43d7-9eaf-dfefd432c3c3"
+        ],
+        "redstring:directed": true,
+        "redstring:color": "#c42f21",
+        "redstring:panOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {
+          "inst-1794287412082-0-sexauf": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1794287412082-0-sexauf",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1794287412082-0-1f0k9d"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1794287412080-6j3h"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -144,
+              "redstring:yCoordinate": -1253,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 1.5
+            },
+            "redstring:prototypeId": "proto-1794287412082-0-1f0k9d",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1794287412082-1-yibw6x": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1794287412082-1-yibw6x",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1794287412082-1-1d8yte"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1794287412080-6j3h"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 1044,
+              "redstring:yCoordinate": -655,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1794287412082-1-1d8yte",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1794287412082-2-4r5vgg": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1794287412082-2-4r5vgg",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1794287412082-2-v54v8u"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1794287412080-6j3h"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 1220,
+              "redstring:yCoordinate": 269,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 1.5
+            },
+            "redstring:prototypeId": "proto-1794287412082-2-v54v8u",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1794287412082-3-6rmjb4": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1794287412082-3-6rmjb4",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1794287412082-3-xea3cq"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1794287412080-6j3h"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -738,
+              "redstring:yCoordinate": 1172,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "proto-1794287412082-3-xea3cq",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1794287412082-4-3e63qu": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1794287412082-4-3e63qu",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1794287412082-4-m0meyq"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1794287412080-6j3h"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 505,
+              "redstring:yCoordinate": 1253,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 1.5
+            },
+            "redstring:prototypeId": "proto-1794287412082-4-m0meyq",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          },
+          "inst-1794287412082-5-zjyfyz": {
+            "@type": "redstring:Instance",
+            "@id": "urn:redstring:id:inst-1794287412082-5-zjyfyz",
+            "rdf:type": {
+              "@id": "urn:redstring:id:proto-1794287412082-5-5porgx"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "urn:redstring:id:graph-def-1794287412080-6j3h"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -1219,
+              "redstring:yCoordinate": -284,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {
+              "redstring:sizeMultiplier": 0.75
+            },
+            "redstring:prototypeId": "proto-1794287412082-5-5porgx",
+            "redstring:isGroupAnchor": false,
+            "redstring:anchorForGroupId": null
+          }
+        },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        },
+        "redstring:edges": {
+          "d1d499f1-fa5f-4c9c-8546-2faf93b25313": {
+            "id": "d1d499f1-fa5f-4c9c-8546-2faf93b25313",
+            "sourceId": "inst-1794287412082-0-sexauf",
+            "destinationId": "inst-1794287412082-1-yibw6x",
+            "name": "Begint Met",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1794287412082-0-v0k5tc"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1794287412082-1-yibw6x"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1794287412082-0-1f0k9d",
+            "destinationPrototypeId": "proto-1794287412082-1-1d8yte",
+            "predicatePrototypeId": null
+          },
+          "a0c96de3-144e-4277-bc32-1a7fd4a33c7d": {
+            "id": "a0c96de3-144e-4277-bc32-1a7fd4a33c7d",
+            "sourceId": "inst-1794287412082-1-yibw6x",
+            "destinationId": "inst-1794287412082-2-4r5vgg",
+            "name": "Ontketent",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1794287412082-1-2o7t94"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1794287412082-2-4r5vgg"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1794287412082-1-1d8yte",
+            "destinationPrototypeId": "proto-1794287412082-2-v54v8u",
+            "predicatePrototypeId": null
+          },
+          "9cc1c186-6343-4049-85f3-d1f1c6a4f5e3": {
+            "id": "9cc1c186-6343-4049-85f3-d1f1c6a4f5e3",
+            "sourceId": "inst-1794287412082-2-4r5vgg",
+            "destinationId": "inst-1794287412082-4-3e63qu",
+            "name": "Veroorzaakt",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1794287373806-2-t4gw7d"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1794287412082-4-3e63qu"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1794287412082-2-v54v8u",
+            "destinationPrototypeId": "proto-1794287412082-4-m0meyq",
+            "predicatePrototypeId": null
+          },
+          "babd5c38-6cab-4899-b359-6acd06aa9f62": {
+            "id": "babd5c38-6cab-4899-b359-6acd06aa9f62",
+            "sourceId": "inst-1794287412082-4-3e63qu",
+            "destinationId": "inst-1794287412082-3-6rmjb4",
+            "name": "Leidt Tot",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1794287373806-5-12f7dh"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1794287412082-3-6rmjb4"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1794287412082-4-m0meyq",
+            "destinationPrototypeId": "proto-1794287412082-3-xea3cq",
+            "predicatePrototypeId": null
+          },
+          "b4808a14-347d-4f4e-be9d-ffbb3e6c4998": {
+            "id": "b4808a14-347d-4f4e-be9d-ffbb3e6c4998",
+            "sourceId": "inst-1794287412082-3-6rmjb4",
+            "destinationId": "inst-1794287412082-5-zjyfyz",
+            "name": "Dwingt Tot Oprichting Van",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1794287412083-4-tvccni"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1794287412082-5-zjyfyz"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1794287412082-3-xea3cq",
+            "destinationPrototypeId": "proto-1794287412082-5-5porgx",
+            "predicatePrototypeId": null
+          },
+          "8b4a226b-f6f0-43d7-9eaf-dfefd432c3c3": {
+            "id": "8b4a226b-f6f0-43d7-9eaf-dfefd432c3c3",
+            "sourceId": "inst-1794287412082-5-zjyfyz",
+            "destinationId": "inst-1794287412082-0-sexauf",
+            "name": "Poogt Afwikkeling Van",
+            "typeNodeId": "base-connection-prototype",
+            "definitionNodeIds": [
+              "proto-conn-1794287412083-5-t1gyh7"
+            ],
+            "directionality": {
+              "arrowsToward": [
+                "inst-1794287412082-0-sexauf"
+              ]
+            },
+            "rdfStatements": null,
+            "sourcePrototypeId": "proto-1794287412082-5-5porgx",
+            "destinationPrototypeId": "proto-1794287412082-0-1f0k9d",
+            "predicatePrototypeId": null
+          }
+        }
       }
     }
   },
@@ -7385,6 +8426,7 @@
     "redstring:openGraphIds": [
       "graph-1794106832391-ztdxcr",
       "graph-def-1794287338425-mgfi",
+      "graph-def-1794287412080-6j3h",
       "graph-def-1794287394288-m2dv",
       "graph-def-1794287373803-fbyg",
       "graph-def-1794287355686-jjb7"
@@ -7396,7 +8438,8 @@
       "graph-def-1794287338425-mgfi",
       "graph-def-1794287355686-jjb7",
       "graph-def-1794287373803-fbyg",
-      "graph-def-1794287394288-m2dv"
+      "graph-def-1794287394288-m2dv",
+      "graph-def-1794287412080-6j3h"
     ],
     "redstring:rightPanelTabs": [
       {
@@ -7542,7 +8585,22 @@
       "proto-conn-1794287394291-2-f7j4yh",
       "proto-conn-1794287394291-3-t4by7k",
       "proto-conn-1794287394291-4-fn8egy",
-      "proto-conn-1794287394291-5-g7fo7h"
+      "proto-conn-1794287394291-5-g7fo7h",
+      "proto-auto-1794287412081-t8bcts",
+      "proto-auto-1794287412081-jj4gzx",
+      "proto-auto-1794287412081-iyh2wa",
+      "proto-auto-1794287412082-wf9at4",
+      "proto-auto-1794287412082-wbfywt",
+      "proto-1794287412082-0-1f0k9d",
+      "proto-1794287412082-1-1d8yte",
+      "proto-1794287412082-2-v54v8u",
+      "proto-1794287412082-3-xea3cq",
+      "proto-1794287412082-4-m0meyq",
+      "proto-1794287412082-5-5porgx",
+      "proto-conn-1794287412082-0-v0k5tc",
+      "proto-conn-1794287412082-1-2o7t94",
+      "proto-conn-1794287412083-4-tvccni",
+      "proto-conn-1794287412083-5-t1gyh7"
     ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": true,
@@ -7574,7 +8632,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1794287398955,
+        "computedAt": 1794287416954,
         "truncated": false
       }
     },
@@ -7606,7 +8664,7 @@
           "x": 463.6238369407714,
           "y": 136.68597625873997
         },
-        "computedAt": 1794287398955,
+        "computedAt": 1794287416954,
         "truncated": false
       }
     },
@@ -7680,7 +8738,7 @@
           "x": 322.03868144974854,
           "y": 338.8914578010606
         },
-        "computedAt": 1794287398955,
+        "computedAt": 1794287416954,
         "truncated": false
       }
     },
@@ -7736,7 +8794,7 @@
           "x": 20,
           "y": 140.33333333333334
         },
-        "computedAt": 1794287398955,
+        "computedAt": 1794287416954,
         "truncated": false
       }
     },
@@ -7792,7 +8850,7 @@
           "x": -167.5,
           "y": 49
         },
-        "computedAt": 1794287398955,
+        "computedAt": 1794287416954,
         "truncated": false
       }
     },
@@ -7848,7 +8906,7 @@
           "x": 144.83333333333334,
           "y": -54.666666666666664
         },
-        "computedAt": 1794287398955,
+        "computedAt": 1794287416954,
         "truncated": false
       }
     },
@@ -7904,7 +8962,63 @@
           "x": -71.33333333333333,
           "y": -56
         },
-        "computedAt": 1794287398955,
+        "computedAt": 1794287416954,
+        "truncated": false
+      }
+    },
+    "graph-def-1794287412080-6j3h": {
+      "nodes": {
+        "inst-1794287412082-0-sexauf": {
+          "x": -144,
+          "y": -1253,
+          "scale": 1,
+          "prototypeId": "proto-1794287412082-0-1f0k9d"
+        },
+        "inst-1794287412082-1-yibw6x": {
+          "x": 1044,
+          "y": -655,
+          "scale": 1,
+          "prototypeId": "proto-1794287412082-1-1d8yte"
+        },
+        "inst-1794287412082-2-4r5vgg": {
+          "x": 1220,
+          "y": 269,
+          "scale": 1,
+          "prototypeId": "proto-1794287412082-2-v54v8u"
+        },
+        "inst-1794287412082-3-6rmjb4": {
+          "x": -738,
+          "y": 1172,
+          "scale": 1,
+          "prototypeId": "proto-1794287412082-3-xea3cq"
+        },
+        "inst-1794287412082-4-3e63qu": {
+          "x": 505,
+          "y": 1253,
+          "scale": 1,
+          "prototypeId": "proto-1794287412082-4-m0meyq"
+        },
+        "inst-1794287412082-5-zjyfyz": {
+          "x": -1219,
+          "y": -284,
+          "scale": 1,
+          "prototypeId": "proto-1794287412082-5-5porgx"
+        }
+      },
+      "metadata": {
+        "nodeCount": 6,
+        "edgeCount": 6,
+        "boundingBox": {
+          "minX": -1219,
+          "minY": -1253,
+          "maxX": 1220,
+          "maxY": 1253
+        },
+        "centroid": {
+          "x": 111.33333333333333,
+          "y": 83.66666666666667
+        },
+        "computedAt": 1794287416954,
         "truncated": false
       }
     }
@@ -7922,7 +9036,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Blingy (a56549ad-0213-4ae9-b131-13f510c2d30e)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1794287398955
+      "computedAt": 1794287416954
     },
     "490f589e-68ad-486e-8bd5-8134d407e424": {
       "id": "490f589e-68ad-486e-8bd5-8134d407e424",
@@ -7947,7 +9061,7 @@
       ],
       "edges": [],
       "text": "Graph: Greeby (490f589e-68ad-486e-8bd5-8134d407e424)\nNodes (2 total):\n- Blingy [1858255b-af4c-4b71-bcc2-746af91e5fc8]\n- Hates [8fd3d7ae-470b-4f93-855a-ad406150724a]\n\nEdges (0 total):",
-      "computedAt": 1794287398955
+      "computedAt": 1794287416954
     },
     "graph-1794106832391-ztdxcr": {
       "id": "graph-1794106832391-ztdxcr",
@@ -8112,7 +9226,7 @@
         }
       ],
       "text": "Graph: Tulpenmanie (graph-1794106832391-ztdxcr)\nNodes (9 total):\n- Semper Augustus [inst-1794106832398-0-r2jocw]\n- Tulpenmozaïekvirus [inst-1794106832398-1-bthfs7]\n- Tulpenbol [inst-1794106832398-2-tmp17r]\n- Windhandel [inst-1794106832398-3-lytd1l]\n- Herberg [inst-1794106832398-4-egoalg]\n- Bloemisten [inst-1794106832398-5-yay2da]\n- Florijn [inst-1794106832398-6-64y8fv]\n- Marktcrash van 1637 [inst-1794106832398-7-bpo3fg]\n- Hof van Holland [inst-1794106832398-8-srf17z]\n\nEdges (13 total):\n- Semper Augustus → Tulpenmozaïekvirus (base-connection-prototype)\n- Semper Augustus → Tulpenbol (base-connection-prototype)\n- Tulpenmozaïekvirus → Tulpenbol (base-connection-prototype)\n- Tulpenbol → Windhandel (base-connection-prototype)\n- Windhandel → Bloemisten (base-connection-prototype)\n- Bloemisten → Herberg (base-connection-prototype)\n- Herberg → Windhandel (base-connection-prototype)\n- Windhandel → Florijn (base-connection-prototype)\n- Florijn → Semper Augustus (base-connection-prototype)\n- Bloemisten → Semper Augustus (base-connection-prototype)\n- Windhandel → Marktcrash van 1637 (base-connection-prototype)\n- Marktcrash van 1637 → Hof van Holland (base-connection-prototype)\n- Hof van Holland → Windhandel (base-connection-prototype)",
-      "computedAt": 1794287398955
+      "computedAt": 1794287416954
     },
     "graph-def-1794287338425-mgfi": {
       "id": "graph-def-1794287338425-mgfi",
@@ -8206,7 +9320,7 @@
         }
       ],
       "text": "Graph: Windhandel (graph-def-1794287338425-mgfi)\nNodes (6 total):\n- Termijncontract [inst-1794287338432-0-li9hn9]\n- College [inst-1794287338432-1-3tmy94]\n- Wijnkoop [inst-1794287338432-2-r4ejuf]\n- Onderhandse Akte [inst-1794287338432-3-tcns2v]\n- Risico van Wanbetaling [inst-1794287338432-4-sq2ggo]\n- Speculatieve Marge [inst-1794287338432-5-hh4fiq]\n\nEdges (6 total):\n- College → Termijncontract (base-connection-prototype)\n- Termijncontract → Wijnkoop (base-connection-prototype)\n- Termijncontract → Onderhandse Akte (base-connection-prototype)\n- Onderhandse Akte → Risico van Wanbetaling (base-connection-prototype)\n- Termijncontract → Speculatieve Marge (base-connection-prototype)\n- Speculatieve Marge → College (base-connection-prototype)",
-      "computedAt": 1794287398955
+      "computedAt": 1794287416954
     },
     "graph-def-1794287355686-jjb7": {
       "id": "graph-def-1794287355686-jjb7",
@@ -8300,7 +9414,7 @@
         }
       ],
       "text": "Graph: Semper Augustus (graph-def-1794287355686-jjb7)\nNodes (6 total):\n- Vlampatroon [inst-1794287355689-0-8sn161]\n- Gebroken Bloem [inst-1794287355689-1-gwhj5h]\n- Admiralen [inst-1794287355689-2-ndiaj9]\n- Zeldzaamheid [inst-1794287355689-3-ev70dz]\n- Adriaen Pauw [inst-1794287355689-4-hy6y1s]\n- Grachtenpandwaarde [inst-1794287355689-5-g62opu]\n\nEdges (6 total):\n- Vlampatroon → Gebroken Bloem (base-connection-prototype)\n- Gebroken Bloem → Admiralen (base-connection-prototype)\n- Gebroken Bloem → Zeldzaamheid (base-connection-prototype)\n- Zeldzaamheid → Grachtenpandwaarde (base-connection-prototype)\n- Adriaen Pauw → Zeldzaamheid (base-connection-prototype)\n- Adriaen Pauw → Grachtenpandwaarde (base-connection-prototype)",
-      "computedAt": 1794287398955
+      "computedAt": 1794287416954
     },
     "graph-def-1794287373803-fbyg": {
       "id": "graph-def-1794287373803-fbyg",
@@ -8394,7 +9508,7 @@
         }
       ],
       "text": "Graph: Tulpenmozaïekvirus (graph-def-1794287373803-fbyg)\nNodes (6 total):\n- Potyvirus [inst-1794287373805-0-nfenqn]\n- Bladluis [inst-1794287373805-1-v6yrsa]\n- Kleurbreking [inst-1794287373805-2-td4knu]\n- Bloembladen [inst-1794287373805-3-7i4vd0]\n- Verminderde Bollenkracht [inst-1794287373805-4-xza6n5]\n- Kloondegeneratie [inst-1794287373805-5-v04wm4]\n\nEdges (6 total):\n- Potyvirus → Bladluis (base-connection-prototype)\n- Bladluis → Bloembladen (base-connection-prototype)\n- Potyvirus → Kleurbreking (base-connection-prototype)\n- Kleurbreking → Bloembladen (base-connection-prototype)\n- Potyvirus → Verminderde Bollenkracht (base-connection-prototype)\n- Verminderde Bollenkracht → Kloondegeneratie (base-connection-prototype)",
-      "computedAt": 1794287398955
+      "computedAt": 1794287416954
     },
     "graph-def-1794287394288-m2dv": {
       "id": "graph-def-1794287394288-m2dv",
@@ -8488,7 +9602,101 @@
         }
       ],
       "text": "Graph: Bloemisten (graph-def-1794287394288-m2dv)\nNodes (6 total):\n- Liefhebbers [inst-1794287394291-0-0aejro]\n- Kooplieden [inst-1794287394291-1-589amg]\n- Wevers en Ambachtslieden [inst-1794287394291-2-jfn2aw]\n- Collegie-Leden [inst-1794287394291-3-h4uluf]\n- Sociale Mobiliteit [inst-1794287394291-4-pteczv]\n- Kennisgebrek [inst-1794287394291-5-gnrim6]\n\nEdges (6 total):\n- Liefhebbers → Kooplieden (base-connection-prototype)\n- Kooplieden → Wevers en Ambachtslieden (base-connection-prototype)\n- Wevers en Ambachtslieden → Sociale Mobiliteit (base-connection-prototype)\n- Wevers en Ambachtslieden → Collegie-Leden (base-connection-prototype)\n- Collegie-Leden → Kennisgebrek (base-connection-prototype)\n- Kennisgebrek → Liefhebbers (base-connection-prototype)",
-      "computedAt": 1794287398955
+      "computedAt": 1794287416954
+    },
+    "graph-def-1794287412080-6j3h": {
+      "id": "graph-def-1794287412080-6j3h",
+      "name": "Marktcrash van 1637",
+      "description": "",
+      "nodeCount": 6,
+      "edgeCount": 6,
+      "density": 0.2,
+      "quality": "balanced",
+      "score": 28,
+      "nodes": [
+        {
+          "id": "inst-1794287412082-0-sexauf",
+          "prototypeId": "proto-1794287412082-0-1f0k9d",
+          "name": "Haarlemse Veiling"
+        },
+        {
+          "id": "inst-1794287412082-1-yibw6x",
+          "prototypeId": "proto-1794287412082-1-1d8yte",
+          "name": "Weigering van Kopers"
+        },
+        {
+          "id": "inst-1794287412082-2-4r5vgg",
+          "prototypeId": "proto-1794287412082-2-v54v8u",
+          "name": "Paniekverkoop"
+        },
+        {
+          "id": "inst-1794287412082-3-6rmjb4",
+          "prototypeId": "proto-1794287412082-3-xea3cq",
+          "name": "Contractbreuk"
+        },
+        {
+          "id": "inst-1794287412082-4-3e63qu",
+          "prototypeId": "proto-1794287412082-4-m0meyq",
+          "name": "Waardedaling"
+        },
+        {
+          "id": "inst-1794287412082-5-zjyfyz",
+          "prototypeId": "proto-1794287412082-5-5porgx",
+          "name": "Arbitragecommissie"
+        }
+      ],
+      "edges": [
+        {
+          "id": "d1d499f1-fa5f-4c9c-8546-2faf93b25313",
+          "from": "inst-1794287412082-0-sexauf",
+          "to": "inst-1794287412082-1-yibw6x",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Haarlemse Veiling",
+          "targetLabel": "Weigering van Kopers"
+        },
+        {
+          "id": "a0c96de3-144e-4277-bc32-1a7fd4a33c7d",
+          "from": "inst-1794287412082-1-yibw6x",
+          "to": "inst-1794287412082-2-4r5vgg",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Weigering van Kopers",
+          "targetLabel": "Paniekverkoop"
+        },
+        {
+          "id": "9cc1c186-6343-4049-85f3-d1f1c6a4f5e3",
+          "from": "inst-1794287412082-2-4r5vgg",
+          "to": "inst-1794287412082-4-3e63qu",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Paniekverkoop",
+          "targetLabel": "Waardedaling"
+        },
+        {
+          "id": "babd5c38-6cab-4899-b359-6acd06aa9f62",
+          "from": "inst-1794287412082-4-3e63qu",
+          "to": "inst-1794287412082-3-6rmjb4",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Waardedaling",
+          "targetLabel": "Contractbreuk"
+        },
+        {
+          "id": "b4808a14-347d-4f4e-be9d-ffbb3e6c4998",
+          "from": "inst-1794287412082-3-6rmjb4",
+          "to": "inst-1794287412082-5-zjyfyz",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Contractbreuk",
+          "targetLabel": "Arbitragecommissie"
+        },
+        {
+          "id": "8b4a226b-f6f0-43d7-9eaf-dfefd432c3c3",
+          "from": "inst-1794287412082-5-zjyfyz",
+          "to": "inst-1794287412082-0-sexauf",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Arbitragecommissie",
+          "targetLabel": "Haarlemse Veiling"
+        }
+      ],
+      "text": "Graph: Marktcrash van 1637 (graph-def-1794287412080-6j3h)\nNodes (6 total):\n- Haarlemse Veiling [inst-1794287412082-0-sexauf]\n- Weigering van Kopers [inst-1794287412082-1-yibw6x]\n- Paniekverkoop [inst-1794287412082-2-4r5vgg]\n- Contractbreuk [inst-1794287412082-3-6rmjb4]\n- Waardedaling [inst-1794287412082-4-3e63qu]\n- Arbitragecommissie [inst-1794287412082-5-zjyfyz]\n\nEdges (6 total):\n- Haarlemse Veiling → Weigering van Kopers (base-connection-prototype)\n- Weigering van Kopers → Paniekverkoop (base-connection-prototype)\n- Paniekverkoop → Waardedaling (base-connection-prototype)\n- Waardedaling → Contractbreuk (base-connection-prototype)\n- Contractbreuk → Arbitragecommissie (base-connection-prototype)\n- Arbitragecommissie → Haarlemse Veiling (base-connection-prototype)",
+      "computedAt": 1794287416954
     }
   },
   "edgePrototypes": {
